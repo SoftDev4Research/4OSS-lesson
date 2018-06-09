@@ -3,9 +3,13 @@ title: "Define clear and transparent contribution, governance and communication 
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- "How to contribute?"
+- "Who to contact?"
+- "What is the expected time?"
 objectives:
-- "First objective."
+- ""
 keypoints:
-- "First key point."
+- "Guidelines for comunication"
+- "Keep documentation"
+- "Define roles and expectations"
 ---
