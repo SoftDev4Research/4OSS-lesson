@@ -6,20 +6,20 @@ Discussions during CarpentryCon 2018 workshop (originaly from the Etherpad)
 Hashtag #4OSS
 
 Participants:
-* Mateusz Kuzak; [mateusz.kuzak@gmail.com](mailto:mateusz.kuzak@gmail.com); twitter: [@matkuzak](https://twitter.com/matkuzak), GitHub: [mkuzak](https://github.com/mkuzak)
-* Paula Andrea Martinez; twitter: [@orchid00](https://twitter.com/orchid00), github: [@orchid00](https://github.com/orchid00/)
-* Fotis E. Psomopoulos: [fpsom@issel.ee.auth.gr](mailto:fpsom@issel.ee.auth.gr), [fopsom@gmail.com](mailto:fopsom@gmail.com), twitter: [@fopsom](https://twitter.com/fopsom), GitHub: [fpsom](https://github.com/fpsom)
-* Jason Williams: williams@cshl.edu/ twitter: JasonWilliamsNY, Github JasonJWilliamsNY
-* François Michonneau: francois@carpentries.org, twitter: @fmic_, GitHub: @fmichonneau    
-* Ian van der Linde: ivdl@sun.ac.za, Github: @ianvdl
-* Thor Wikfeldt: kthw@kth.se, GitHub: wikfeldt, Twitter: @ktwikfeldt
-* Allegra Via; allegra.via@gmail.com; twitter: @elixir_ita, GitHub: allegravia
-* Maneesha Sane; maneesha@carpentries.org; github: maneesha; twitter: maneeshasane 
-* Gerard Capes: gerard.capes@manchester.ac.uk
-* David Kane: dkane@wit.ie
-* Scott Peterson: speterso@berkeley.edu
-* David Perez-Suarez: d.perez-suarez@ucl.ac.uk
-* Rhoda Aremu:23925523@nwu.ac.za; ainarhoda@gmail; github: Tantoluwa
+* Mateusz Kuzak, [mateusz.kuzak@gmail.com](mailto:mateusz.kuzak@gmail.com); twitter: [@matkuzak](https://twitter.com/matkuzak), GitHub: [mkuzak](https://github.com/mkuzak)
+* Paula Andrea Martinez, twitter: [@orchid00](https://twitter.com/orchid00), github: [orchid00](https://github.com/orchid00/)
+* Fotis E. Psomopoulos, [fpsom@issel.ee.auth.gr](mailto:fpsom@issel.ee.auth.gr), [fopsom@gmail.com](mailto:fopsom@gmail.com), twitter: [@fopsom](https://twitter.com/fopsom), GitHub: [fpsom](https://github.com/fpsom)
+* Jason Williams, williams@cshl.edu, twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY), Github: [JasonJWilliamsNY](https://github.com/JasonJWilliamsNY)
+* François Michonneau, francois@carpentries.org, twitter: [@fmic_](https://twitter.com/fmic_), GitHub: [fmichonneau](https://github.com/fmichonneau)
+* Ian van der Linde, ivdl@sun.ac.za, Github: [ianvdl](https://github.com/ianvdl)
+* Thor Wikfeldt: kthw@kth.se, twitter: [@ktwikfeldt](https://twitter.com/ktwikfeldt), GitHub: [wikfeldt](https://github.com/wikfeldt)
+* Allegra Via, allegra.via@gmail.com, twitter: [@elixir_ita](https://twitter.com/elixir_ita), GitHub: [allegravia](https://github.com/allegravia)
+* Maneesha Sane, maneesha@carpentries.org; GitHub: [maneesha](https://github.com/maneesha), twitter: [maneeshasane](https://github.com/) 
+* Gerard Capes, gerard.capes@manchester.ac.uk
+* David Kane, dkane@wit.ie
+* Scott Peterson, speterso@berkeley.edu
+* David Perez-Suarez, d.perez-suarez@ucl.ac.uk
+* Rhoda Aremu, 23925523@nwu.ac.za, ainarhoda@gmail; GitHub: [Tantoluwa](https://github.com/Tantoluwa)
 
 Split into 4 teams:
     1st recommendation "Make source code publicly accessible from day one"
