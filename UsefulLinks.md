@@ -9,13 +9,14 @@ We have collected a list of useful links related to the project. This list will 
 
 Links ordered by time of apperance with newest links on top
 
-- 4 OSS Lesson https://softdev4research.github.io/4OSS-lesson/
-- 4 OSS Lesson Repository- https://github.com/SoftDev4Research/4OSS-lesson
+- 4 OSS Lesson https://softdev4research.github.io/4OSS-lesson/ and [repo](https://github.com/SoftDev4Research/4OSS-lesson)
+- 4 OSS recomendations summary page https://softdev4research.github.io/recommendations/
 - F1000 paper [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1) 
 
 
-- Lesson example - how to develop a lesson
-- GitHub guides - first PR
-- Collaborative lesson development - 10 simple rules - PLOS
-http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963
-- Directions to the venue
+## Other useful resources
+
+- Carpentries lesson example http://carpentries.github.io/lesson-example/ and [repo](https://github.com/carpentries/lesson-example)
+- GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
+- PLOS 10 simple rules for collaborative lesson development http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963
+
