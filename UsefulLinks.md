@@ -23,5 +23,5 @@ You can use `Ctrl+ click` to open links in a new tab.
 
 ## Extra reading material
 
-- PLOS 10 simple rules for collaborative lesson development http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963
+- PLOS [10 simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 
