@@ -19,5 +19,9 @@ You can use `Ctrl+ click` to open links in a new tab.
 
 - Carpentries lesson example http://carpentries.github.io/lesson-example/ and [repo](https://github.com/carpentries/lesson-example)
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
+- Markdown (10 min) practical exercise http://commonmark.org/help/tutorial/
+
+## Extra reading material
+
 - PLOS 10 simple rules for collaborative lesson development http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963
 
