@@ -5,7 +5,7 @@ We have collected a list of useful links related to the project. This list will 
 
 ***Your pull-requests are welcome.***
 
-You can use Ctrl+ click to open links in a new tab.
+You can use `Ctrl+ click` to open links in a new tab.
 
 ## 4OSS - 4 recommendations for open source software 
 
