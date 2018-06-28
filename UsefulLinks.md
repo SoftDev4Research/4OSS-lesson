@@ -18,6 +18,8 @@ You can use `Ctrl+ click` to open links in a new tab.
 ## Other useful resources
 
 - Carpentries lesson example http://carpentries.github.io/lesson-example/ and [repo](https://github.com/carpentries/lesson-example)
+
+### GitHub and Markdown
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
 - Markdown (10 min) practical exercise http://commonmark.org/help/tutorial/
 
