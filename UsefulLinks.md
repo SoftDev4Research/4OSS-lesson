@@ -14,6 +14,9 @@ You can use `Ctrl+ click` to open links in a new tab.
 - 4 OSS recomendations summary page https://softdev4research.github.io/recommendations/
 - F1000 paper [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1) 
 
+## Extra reading material
+
+- PLOS [10 simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 
 ## Other useful resources
 
@@ -23,7 +26,4 @@ You can use `Ctrl+ click` to open links in a new tab.
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
 - Markdown (10 min) practical exercise http://commonmark.org/help/tutorial/
 
-## Extra reading material
-
-- PLOS [10 simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 
