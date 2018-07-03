@@ -21,6 +21,8 @@ You can use `Ctrl+ click` to open links in a new tab.
 ## Other useful resources
 
 - Carpentries lesson example http://carpentries.github.io/lesson-example/ and [repo](https://github.com/carpentries/lesson-example)
+- [The Carpentries Curricumlum Development Handbook](https://carpentries.github.io/curriculum-development/)
+- [The Carpentries Handbook](https://docs.carpentries.org)
 
 ### GitHub and Markdown
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
