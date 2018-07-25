@@ -16,7 +16,8 @@ You can use `Ctrl+ click` to open links in a new tab.
 ## Extra reading material
 
 - PLOS [10 simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
-- PLOS [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- PLOS [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) 2017
+- PLOS [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) 2014
 
 ## Other useful resources
 
