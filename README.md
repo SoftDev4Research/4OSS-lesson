@@ -9,8 +9,6 @@ Lesson development hackathon for teaching best practices in research software de
 based on four simple recommendations [1] (4OSS). We are adopting the Carpentries approach and policy for training material
 development and maintenance to help us in providing clear guidelines on how to implement the 4OSS recommendations.
 
-During CarpentryCon the first brainstorming workshop we have defined the contents for the hackathon in August 2018.
-
 [1] https://f1000research.com/articles/6-876/v1
 
 ### Aim
@@ -23,11 +21,11 @@ Thanks for coming by, this is an open source project and we welcome your contrib
 
 ### Comunication
 
-You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels). We are working remotely and meeting in person from time to time.
+You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels). We are working remotely and meeting in person from time to time. We communicate by email and through github issues.
 
 ### To-Do list
 
-Timeline
+Timeline 2018
  - June       : Brainstorm @CarpentryCon
  - August     : Lesson development hackathon @DTL
  - September  : Review and address issues
