@@ -4,10 +4,12 @@ teaching: 0
 exercises: 0
 questions:
 - "How to contribute?"
-- "Who to contact?"
+- "How to communicate?"
 - "What is the expected time?"
 objectives:
-- ""
+- "Define basics for expected contributions"
+- "Build a contributors team and a review process"
+- "Define clear timeline expectations"
 keypoints:
 - "Guidelines for comunication"
 - "Keep documentation"
