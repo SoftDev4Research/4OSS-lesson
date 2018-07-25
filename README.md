@@ -21,21 +21,20 @@ The overall aim of these 4OSS in the shape of training materials will contribute
 
 Thanks for coming by, this is an open source project and we welcome your contributions.
 
-You can have a look at the [useful resources](UsefulLinks.md)
-
 ### Comunication
 
-You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels).
+You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels). We are working remotely and meeting in person from time to time.
 
 ### To-Do list
 
 Timeline
- - June       : Brainstorm at CarpentryCon
- - August     : Lesson development hackathon DTL
+ - June       : Brainstorm @CarpentryCon
+ - August     : Lesson development hackathon @DTL
  - September  : Review and address issues
  - October    :
  - November   :  
- 
+
+You can have a look at the [useful resources](UsefulLinks.md) if you need more information about the project.
 
 ## License
 
@@ -44,7 +43,7 @@ All Software Carpentry and Data Carpentry instructional material is made availab
 
 ## Citation
 
-Mateusz Kuzak, Allegra Via, Fotis E. Psomopoulos and Paula Andrea Martinez (eds): "4 Open Source Software Recomendations"  Version 2018, August 2018,
+Mateusz Kuzak, Allegra Via, Fotis E. Psomopoulos, Paula Andrea Martinez, Jen Harrow and Rafael C. Jimenez (eds): "4 Open Source Software Recomendations"  Version 2018, August 2018,
 https://github.com/SoftDev4Research In progress.
 
 
