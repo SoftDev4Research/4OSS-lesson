@@ -25,6 +25,12 @@ You can use `Ctrl+ click` to open links in a new tab.
 - Carpentries lesson example http://carpentries.github.io/lesson-example/ and [repo](https://github.com/carpentries/lesson-example)
 - [The Carpentries Curricumlum Development Handbook](https://carpentries.github.io/curriculum-development/)
 - [The Carpentries Handbook](https://docs.carpentries.org)
+- Open Source Guide https://opensource.guide
+- Choose a license https://choosealicense.com
+- Open Science Training Hanbook https://open-science-training-handbook.gitbooks.io/book/content/
+- Biotools https://bio.tools
+- EDAM Ontology http://edamontology.org/page
+- Code is Science manifesto https://codeisscience.github.io/manifesto/manifesto.html
 
 ### GitHub and Markdown
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
