@@ -16,6 +16,13 @@ The overall aim of these 4OSS in the shape of training materials will contribute
 
 ## Collaborating
 
+Thanks for coming by, this is an open source project and we welcome your contributions.
+
+You can have a look at the [useful resources](UsefulLinks.md)
+
+### Comunication
+
+You can raise your comments, improvements and questiosn using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues) we will review and answer your questions in a timely manner while the project is in progress.
 
 ### To-Do list
 
