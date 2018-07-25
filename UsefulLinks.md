@@ -10,13 +10,13 @@ You can use `Ctrl+ click` to open links in a new tab.
 ## 4OSS - 4 recommendations for open source software 
 
 - 4 OSS Lesson https://softdev4research.github.io/4OSS-lesson/ and [repo](https://github.com/SoftDev4Research/4OSS-lesson) 
-
 - 4 OSS recomendations summary page https://softdev4research.github.io/recommendations/
 - F1000 paper [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1) 
 
 ## Extra reading material
 
 - PLOS [10 simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
+- PLOS [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
 ## Other useful resources
 
