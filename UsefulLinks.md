@@ -12,7 +12,7 @@ You can use `Ctrl+ click` to open links in a new tab.
 - 4 OSS Lesson https://softdev4research.github.io/4OSS-lesson/ and [repo](https://github.com/SoftDev4Research/4OSS-lesson) 
 - 4 OSS recomendations summary page https://softdev4research.github.io/recommendations/
 - F1000 paper [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1) 
-- Notes from (CarpentryCon2018](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/notes.md), First brainstorm session 
+- [Notes from CarpentryCon2018](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/notes.md), First brainstorm session 
 
 ## Extra reading material
 
