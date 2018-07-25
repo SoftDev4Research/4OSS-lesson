@@ -26,6 +26,14 @@ You can raise your comments, improvements and questiosn using [issues](https://g
 
 ### To-Do list
 
+Timeline
+ - June       : Brainstorm at CarpentryCon
+ - August     : Lesson development hackathon DTL
+ - September  :
+ - October    :
+ - November   :  
+ 
+
 ## License
 
 ![CC by 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png) 
