@@ -1,5 +1,8 @@
 # 4OSS-lesson
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
+
+
 ## Overview
 
 Lesson development hackathon for teaching best practices in research software development is
