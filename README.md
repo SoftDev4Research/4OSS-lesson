@@ -2,7 +2,20 @@
 
 ## Overview
 
+Lesson development hackathon for teaching best practices in research software development is
+based on four simple recommendations [1] (4OSS). We are adopting the Carpentries approach and policy for training material
+development and maintenance to help us in providing clear guidelines on how to implement the 4OSS recommendations.
+
+During CarpentryCon the first brainstorming workshop we have defined the contents for the hackathon in August 2018.
+
+[1] https://f1000research.com/articles/6-876/v1
+
+### Aim
+
+The overall aim of these 4OSS in the shape of training materials will contribute to make research software FAIR.
+
 ## Collaborating
+
 
 ### To-Do list
 
