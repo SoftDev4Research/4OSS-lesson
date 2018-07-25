@@ -29,7 +29,7 @@ You can raise your comments, improvements and questiosn using [issues](https://g
 Timeline
  - June       : Brainstorm at CarpentryCon
  - August     : Lesson development hackathon DTL
- - September  :
+ - September  : Review and address issues
  - October    :
  - November   :  
  
