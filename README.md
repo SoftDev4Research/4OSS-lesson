@@ -40,7 +40,7 @@ You can have a look at the [useful resources](UsefulLinks.md) if you need more i
 
  - June       : Brainstorm @CarpentryCon
  - August     : [Lesson development hackathon, Utrecht (1-3 August)](https://www.elixir-europe.org/events/4-oss-hackathon)
- - September  : Review and address issues
+ - September  : [ECCB2018, Athens (8-12 September)](http://eccb18.org/)
  - October    : [NETTAB2018, Genoa (24-25 October)](http://www.igst.it/nettab/2018/)
  - November   : [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
 
