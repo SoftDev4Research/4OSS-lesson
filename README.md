@@ -38,12 +38,18 @@ You can have a look at the [useful resources](UsefulLinks.md) if you need more i
 
 ### Timeline 2018
 
- - June       : Brainstorm @CarpentryCon
- - August     : [Lesson development hackathon, Utrecht (1-3 August)](https://www.elixir-europe.org/events/4-oss-hackathon)
- - September  : [ECCB2018, Athens (8-12 September)](http://eccb18.org/)
- - October    : [NETTAB2018, Genoa (24-25 October)](http://www.igst.it/nettab/2018/)
-              : [WSSSPE, Amsterdam (29 October)](http://wssspe.researchcomputing.org.uk/category/wssspe6-1/)
- - November   : [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
+ - June
+   - [Brainstorming workhsop CarpentryCon, Dublin (1-June)](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-06-01/02-Workshop-2-Lesson-Hack-a-Thon-Voted-Session-From-Pitches/4OSS-lesson-development.md)
+   - [Poster and short talk ELIXIR all hands, Berlin (6-June)](https://www.elixir-europe.org/events/elixir-all-hands-2018)
+ - August
+   - [Lesson development hackathon, Utrecht (1-3 August)](https://www.elixir-europe.org/events/4-oss-hackathon)
+ - September
+   - [ECCB2018, Athens (8-12 September)](http://eccb18.org/)
+ - October
+   - [hackathon at NETTAB2018, Genoa (24-25 October)](http://www.igst.it/nettab/2018/)
+   - [short talk WSSSPE, Amsterdam (29 October)](http://wssspe.researchcomputing.org.uk/category/wssspe6-1/)
+ - November
+   - [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
 
 ## License
 
