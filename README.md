@@ -32,10 +32,10 @@ You can raise your comments, improvements and questions using [issues](https://g
 
 Timeline 2018
  - June       : Brainstorm @CarpentryCon
- - August     : Lesson development hackathon @DTL
+ - August     : [Lesson development hackathon, Utrecht (1-3 August)](https://www.elixir-europe.org/events/4-oss-hackathon)
  - September  : Review and address issues
- - October    :
- - November   :  
+ - October    : [NETTAB2018, Genoa (24-25 October)]()
+ - November   : [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
 
 You can have a look at the [useful resources](UsefulLinks.md) if you need more information about the project.
 
