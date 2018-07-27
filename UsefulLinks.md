@@ -19,6 +19,7 @@ You can use `Ctrl+ click` to open links in a new tab.
 - PLOS [10 simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 - PLOS [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) 2017
 - PLOS [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) 2013
+- BioMed Central [Git can facilitate greater reproducibility and increased transparency in science](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7) 2013
 
 ## Other useful resources
 
