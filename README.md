@@ -28,6 +28,8 @@ This lesson material is being developed in the open, and would benefit from your
 
 You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels). We are working remotely and meeting in person from time to time. We communicate by email and through github issues.
 
+You can have a look at the [useful resources](UsefulLinks.md) if you need more information about the project.
+
 ### To-Do list
 -
 -
@@ -41,8 +43,6 @@ You can raise your comments, improvements and questions using [issues](https://g
  - September  : Review and address issues
  - October    : [NETTAB2018, Genoa (24-25 October)]()
  - November   : [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
-
-You can have a look at the [useful resources](UsefulLinks.md) if you need more information about the project.
 
 ## License
 
