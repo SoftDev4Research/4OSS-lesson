@@ -29,8 +29,13 @@ This lesson material is being developed in the open, and would benefit from your
 You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels). We are working remotely and meeting in person from time to time. We communicate by email and through github issues.
 
 ### To-Do list
+-
+-
+-
 
-Timeline 2018
+
+### Timeline 2018
+
  - June       : Brainstorm @CarpentryCon
  - August     : [Lesson development hackathon, Utrecht (1-3 August)](https://www.elixir-europe.org/events/4-oss-hackathon)
  - September  : Review and address issues
