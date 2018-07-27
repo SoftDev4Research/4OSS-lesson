@@ -1,5 +1,10 @@
 # Contributing
 
+
+:+1::tada: First of all, thanks for taking the time to contribute! :tada::+1:
+
+The following is a set of guidelines, not rules for contributing to this lesson materials. Use your best judgment, and feel free to propose changes to any part of the materials using a pull request.
+
 [Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
 and we welcome contributions of all kinds:
 new lessons,
