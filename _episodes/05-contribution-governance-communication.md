@@ -17,3 +17,10 @@ keypoints:
 ---
 
 ----------------------------------------------------------------------------------------------------
+
+> 
+> “For me this experience has been incredible! Thank you for putting all your effort into this 
+> project. Many people responded with overflowing enthusiasm to participate and collaborate in the 
+> different facets of this project. It was a pleasure to work with all of you.” - H.S.
+>
+{: .testimonial}
