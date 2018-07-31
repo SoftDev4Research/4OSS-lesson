@@ -19,13 +19,14 @@ keypoints:
 ----------------------------------------------------------------------------------------------------
 ## Clear and transparent contributions
 
-> ##  CONTRIBUTING.md`.checklist`
+> ## `.checklist`
 >
->  - location root-project/CONTRIBUTING.md
->  - cheer: Give super nice welcome to contributors!
+>  CONTRIBUTING file
+>  - location: root-project/CONTRIBUTING.md
+>  - cheer: Give a super nice welcome to contributors!
 >  - introduction: Overview of the document
->  - how-to: cover the basics of expected contributions and times
->  - style: Add a style guide or a reference to a syle guide
+>  - how-to: Cover the basics of expected contributions and times
+>  - style: Add a style guide or a reference to a existing syle guide
 {: .checklist}
 
 > ## `.challenge`
@@ -38,9 +39,9 @@ keypoints:
 
 > ## `.discussion`
 >
-> Let's discuss what types of comunication media do people prefer. Think about how big is the team, 
-> and what would be most convenient for people to adopt as communication media.
-> You have 5 min to discuss in groups.
+> Let's discuss what types of comunication media do people prefer. Think about the team size, 
+> and what would be most convenient way for people to communicate and get updates.
+> You have 5 min to discuss, in groups.
 {: .discussion}
 
 > ## `.testimonial`
