@@ -32,6 +32,7 @@ You can use `Ctrl+ click` to open links in a new tab.
 - Biotools https://bio.tools
 - EDAM Ontology http://edamontology.org/page
 - Code is Science manifesto https://codeisscience.github.io/manifesto/manifesto.html
+- European commission [open source](https://ec.europa.eu/research/openscience/index.cfm)
 
 ### GitHub and Markdown
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
