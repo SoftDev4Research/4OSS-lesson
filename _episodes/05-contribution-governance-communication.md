@@ -23,6 +23,16 @@ keypoints:
 > Checklists.
 {: .checklist}
 
+
+## Communication
+
+> ## `.discussion`
+>
+> Let's discuss what types of comunication media do people prefer. Think about how big is the team, 
+> and what would be most convenient for people to adopt as communication media.
+> You have 5 min to discuss in groups.
+{: .discussion}
+
 > ## `.testimonial`
 > “For me this experience has been incredible! Thank you for putting all your effort into this 
 > project. Many people responded with overflowing enthusiasm to participate and collaborate in the 
