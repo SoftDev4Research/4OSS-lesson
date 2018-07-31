@@ -17,11 +17,21 @@ keypoints:
 ---
 
 ----------------------------------------------------------------------------------------------------
+## Clear and transparent contributions
 
-> ## `.checklist`
+> ##  CONTRIBUTING.md`.checklist`
 >
-> Checklists.
+>  - location root-project/CONTRIBUTING.md
+>  - cheer: Give super nice welcome to contributors!
+>  - introduction: Overview of the document
+>  - how-to: cover the basics of expected contributions and times
+>  - style: Add a style guide or a reference to a syle guide
 {: .checklist}
+
+> ## `.challenge`
+>
+> An exercise.
+{: .challenge}
 
 
 ## Communication
