@@ -7,13 +7,13 @@ questions:
 - "How to communicate?"
 - "What is the expected time?"
 objectives:
-- "Define basics for expected contributions"
+- "Define basics for how to contributions"
 - "Build a contributors team and a review process"
-- "Define clear timeline expectations"
+- "How to communicate"
 keypoints:
-- "Guidelines for comunication"
-- "Keep documentation"
-- "Define roles and expectations"
+- "Basic guidelines for how to contribute"
+- "Define comunication means"
+- "Define details like time, responsibilities"
 ---
 
 ----------------------------------------------------------------------------------------------------
