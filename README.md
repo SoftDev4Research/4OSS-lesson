@@ -8,6 +8,10 @@
 Lesson development hackathon for teaching best practices in research software development is
 based on four simple recommendations [1] (4OSS). We are adopting the Carpentries approach and policy for training material
 development and maintenance to help us in providing clear guidelines on how to implement the 4OSS recommendations.
+1. Make source code publicly accessible from day one
+2. Make software easy to discover by providing software metadata via a popular community registry
+3. Adopt a licence and comply with the licence of third-party dependencies
+4. Define clear and transparent contribution, governance and communication processes
 
 [1] https://f1000research.com/articles/6-876/v1
 
