@@ -144,7 +144,7 @@ lead: Allegra
 
 see: http://www.datacarpentry.org/rr-publication/
 
-Before doing anythign find out what is license and copyright policy in your institution
+Before doing anything find out what is license and copyright policy in your institution
 
 ### Learning outcomes:
 By the end of the episode, learners wlli be able to:
