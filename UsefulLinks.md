@@ -33,6 +33,8 @@ You can use `Ctrl+ click` to open links in a new tab.
 - EDAM Ontology http://edamontology.org/page
 - Code is Science manifesto https://codeisscience.github.io/manifesto/manifesto.html
 - European commission [open source](https://ec.europa.eu/research/openscience/index.cfm)
+- OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source
+(https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md)
 
 ### GitHub and Markdown
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
