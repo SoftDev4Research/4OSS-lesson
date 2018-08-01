@@ -57,10 +57,10 @@ Learner profile:
        
 Suggested order of Episodes
 
-3rd recommendation "Adopt a licence and comply with the licence of third-party dependencies"
-1st recommendation "Make source code publicly accessible from day one"
-4th recommendation "Define clear and transparent contribution, governance and communication processes"
-2nd recommendation "Make software easy to discover by providing software metadata via a popular community registry"
+* 3rd recommendation "Adopt a licence and comply with the licence of third-party dependencies"
+* 1st recommendation "Make source code publicly accessible from day one"
+* 4th recommendation "Define clear and transparent contribution, governance and communication processes"
+* 2nd recommendation "Make software easy to discover by providing software metadata via a popular community registry"
 
 The idea is to go across all steps within the worskhop
 - Put a single-line code in a repo
