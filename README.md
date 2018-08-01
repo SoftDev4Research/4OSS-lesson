@@ -61,6 +61,3 @@ All Software Carpentry and Data Carpentry instructional material is made availab
 
 Mateusz Kuzak, Allegra Via, Fotis E. Psomopoulos, Paula Andrea Martinez, Jen Harrow and Rafael C. Jimenez (eds): "4 Open Source Software Recomendations"  Version 2018.01, August 2018,
 https://github.com/SoftDev4Research In progress.
-
-
-
