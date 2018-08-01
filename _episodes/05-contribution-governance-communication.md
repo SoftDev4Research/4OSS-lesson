@@ -13,7 +13,7 @@ objectives:
 keypoints:
 - "Basic guidelines for how to contribute"
 - "Define comunication means"
-- "Define details like time, responsibilities"
+- "Define details like time, responsibilities, trasparency"
 ---
 
 ----------------------------------------------------------------------------------------------------
