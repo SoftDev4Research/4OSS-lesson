@@ -180,7 +180,7 @@ Exercises:
     * How to add the notice to the individual files (suggested in GPL: https://www.gnu.org/licenses/gpl-howto.en.html / https://softwareengineering.stackexchange.com/questions/125836/do-you-have-to-include-a-license-notice-with-every-source-file )
      
 ### Instructor notes:
-* Recommend to look up for Intelectual Property (IP) rules on the host institution/country/...
+* Recommend to look up for Intellectual Property (IP) rules on the host institution/country/...
 * Advices to talk with - IP officer, Research Services in the institution, Librarians (open access policy)
 
 ### References:
