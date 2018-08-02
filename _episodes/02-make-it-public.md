@@ -86,7 +86,7 @@ version control repository.
 > {: .solution}
 {: .discussion}
 
-* git/GH SWC lesson
+* git SWC lesson
 * OS naming & branding guide (https://opensource.guide/starting-a-project/#naming-and-branding-your-project)
 * [Markdown guide](https://guides.github.com/features/mastering-markdown/)
 * License recommendation episode
@@ -95,8 +95,8 @@ version control repository.
 
 ## Documentation
 
-* GH guide to GH Pages
-* RTD guide
+* GitHub guide to GitHub Pages
+* ReadTheDocs guide
 
 ## making software (re)usable
 
@@ -106,6 +106,6 @@ version control repository.
 
 ## publishing
 
-* GH guide to getting a DOI from Zenodo
+* GitHub guide to getting a DOI from Zenodo
 * How to make your code citable using GitHub and Zenodo (https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md)
 * metadata recommendation (next lesson)
