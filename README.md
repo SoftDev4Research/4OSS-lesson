@@ -34,10 +34,8 @@ You can raise your comments, improvements and questions using [issues](https://g
 
 You can have a look at the [useful resources](UsefulLinks.md) if you need more information about the project.
 
-### To-Do list
--
--
--
+### Agenda Utrecht hackathon
+[https://docs.google.com/document/d/1kOKgKGh4e5xEVjiYK2tC6p4D0iceq8VNn-CsWd8Mwes/edit#](https://docs.google.com/document/d/1kOKgKGh4e5xEVjiYK2tC6p4D0iceq8VNn-CsWd8Mwes/edit#)
 
 
 ### Timeline 2018
