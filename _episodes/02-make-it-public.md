@@ -9,11 +9,11 @@ questions:
 - "What are the best practices in open software development?"
 - "How do I publish my open source software?"
 objectives:
-- "create a new software project on GitHub."
-- "list three things that should be included in 'bare minimum' software documentation."
-- "explain the difference between user- and developer-oriented documentation."
-- "describe three steps that can be taken to increase the (re)usability of software."
-- "describe how external resources can be used at the stage of publishing OS software."
+- "create a new software project on GitHub"
+- "list three things that should be included in 'bare minimum' software documentation"
+- "explain the difference between user- and developer-oriented documentation"
+- "describe three steps that can be taken to increase the (re)usability of software"
+- "describe how external resources can be used at the stage of publishing OS software"
 keypoints:
 - "Services like GitHub can be used to make your project public and findable."
 - "Using these tools appropriately encourages and credits contributions to the project."
