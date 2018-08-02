@@ -1,12 +1,11 @@
 ---
-title: "Define clear and transparent contribution, governance and communication processes"
+title: "Define clear and transparent contribution, communication and governance processes"
 teaching: 90
-exercises: 0
+exercises: 45
 questions:
   - "How does someone start contributing to my project?"
   - "What do I need to consider about project design and governance?"
-  - "If someone has a question about my project, where can they find answers?"
-  - "How is someone contributing to my project going to be acknowledged or rewarded?"
+  - "How do people communicate within the project?"
 objectives:
   - "Design the minimum guidelines for people to contribute and engage with the project"
   - "Define how you would support your contributors"
@@ -18,57 +17,20 @@ keypoints:
   - "Clarifying communication means and expectations for the project saves time for current and new contributors."
 ---
 
-1. Where can I contribute?
-  - User agreement
-  - Fixing typo
-  - Reporting and fixing bugs/errors
-  - Contributing to documentation
-  - Adding code/features
-  - Testing
-  - Writing papers
-  - Promoting
-  - Share ideas (?)
-2. How can I contribute?
-  - Technical requirements
-  - Skill requirement
-  - Available resources
-  - What is allowed and not allowed
-  - What happens with my contributions
-  - Time frame that someone from the team responds to a contribution
-  - What if the contribution is accepted
-  - What if the contribution is rejected
-  - Citing your contributions (optional description of author, contributor, etc.)
-3. Who can I communicate with?
-  - Main contact
-  - Communication channels
-  - Announcements (newsletters, updates)
-  - Archive
-4. What else should I know?
-  - License
-  - Disclaimers
-  - Policies
-  - Code of conduct
-  - Data protection
-  - Other Links:
-  - Main project page
-  - Main documentation
-  - Members/contributors page
-  - Resources to develop skills required for working on the project
-5. What's in it for me?
-  - Develop new skills
-  - Find people with similar interests
-  - Find a mentor
-  - Teach others
-  - Learn how to work on open source projects
-6. I don’t want to read all these, I only have a question!
-  - One contact person
-  - Minimal document
+## Clear and transparent contributions
 
-> ## Discussion: What's in there for you to make your project open?
+So far you have a github repository to share your project, you've added a
+license and metadata to it. Now, to make things even better, why not think about
+open contributions! We can start discussing some of the aspects that you as a
+developer of your software should have in mind to make collaboration as
+clear and transparent as possible.
+
+> ## Discussion: Why allow others to contribute to your project?
 > #### Time: 3 min
 > Think and list how your project might benefit from having people contributing to it.
 {: .discussion}
 
+TEXT MISSING
 
 > ## Discussion: Making clear and transparent contributions
 > #### Time: 10 min
@@ -76,9 +38,9 @@ keypoints:
 > contribute to that project? Based on your own experience, list the minimum
 > required information someone might require to contribute to your project.
 >
-> > ## Solution
+> > ## Outcome
 > >
-> > In this exercise, learners should realize how valuable it is to open their
+> > In this exercise, learners should realise how valuable it is to open their
 > > project for contributions.
 > >
 > > Then you might suggest to include a minimum example document for contributing.
@@ -91,8 +53,24 @@ keypoints:
 > {: .solution}
 {: .discussion}
 
+If you are not yet convinced that having your project open for contributions is
+a great idea, we can go through some questions that potential
+contributors to your open source project might want you to consider.
+
+1. Where can I contribute?
+2. How can I contribute?
+3. Who should I contact?
+4. What are the communication channels?
+5. What else should I know?
+6. What's in it for me?
+
+*"I don’t want to read all these, I only have a question!"*
+OK! First think about the minimal required information you can provide to your contributors without overwhelming them.
+
 > ## Challenge: Part I - Creating a Minimal Contributor’s Guideline
 > #### Time: 10 minutes
+> Hands on exercise to create a minimal contributor’s Guideline
+> CONTRIBUTING.md
 >
 > > ## Solution
 > >
@@ -111,7 +89,7 @@ keypoints:
 > Read a two or three of the contributing guidelines examples listed below, and pick one element that you
 > had not thought about, and that you think would be a useful addition to your project guidelines.
 >
-> - [ATOM](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+> - [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 > - [R for Data Science book](http://r4ds.had.co.nz/contribute.html)
 > - [Galaxy Project](https://github.com/galaxyproject/galaxy/blob/dev/CONTRIBUTING.md)
 > - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
@@ -130,6 +108,9 @@ keypoints:
 > - [Py4J - A Bridge between Python and Java](https://www.py4j.org/contributing.html)
 {: .challenge}
 
+As your project grows and more people start to contribute, in addition to the minimal CONTRIBUTING.md file
+you might need to provide support to your contributors for encouraging future contributions.
+
 > ## Discussion: Supporting your contributors
 > #### Time: 5 minutes
 > Think about the different resources that your user might need, in
@@ -142,6 +123,7 @@ keypoints:
 > > Here is a list of recommendations to provide support to your
 > > contributors, but remember this is not an extensive list.
 > > - Installation instructions
+> > - Style guidelines
 > > - FAQ’s
 > > - Code review process
 > > - Resources to develop skills required to contribute to the project
@@ -149,6 +131,55 @@ keypoints:
 > > - Archive
 > {: .solution}
 {: .discussion}
+
+Another point to think about is how would you as a author acknowledge or rewards
+contributors. This can be a simple paragraph in the CONTRIBUTING.md file or it
+can be as extensive as it needs depending on the team size. You can acknowledge
+all contributors and reward contributions as co-authors if the contribution is
+substantial. The definition of substantial contribution is also part of your
+project plan.
+
+## Governance
+
+Governance in an open source software project is a management framework for
+dynamic decision making. A governance structure aims at the assignment of roles and tasks to project
+contributors. Ideally, this structure clearly defines
+responsibilities, accountability and recognition. Roles are attributed by
+managers while developing, testing, documenting and reviewing.
+
+At the start of your project, when few people are involved in its development, your governance
+structure may be simple and roles may overlap. As your project grows, a manager may need to
+redistribute responsibilities.
+
+A clearly defined governance structure not only allows your contributors to identify the correct
+contact person, but also helps them to identify roles that they can fill in your project.
+
+A properly managed project uses governance to make sure that there are no responsibilities left behind
+
+
+> ## Challenge
+> #### Time: 10 min
+>
+> Assign levels of priority needed in the project design and governance
+> (choose one level per line and justify your choice)
+>
+> |---|---|---|---|---|
+> |Topic|High|Medium|Low|Justify your choice|
+> |About the project|||||
+> |Ownership|||||
+> |Roles and Responsibilities|||||
+> |License|||||
+> |Funding|||||
+> |Timeline|||||
+> |Outreach||||||
+>
+> > ## Solution
+> >
+> > Discussions among learners who chose different priorities will convince them of the need
+> > for governance and transparency in open source projects. This will clarify the contributors' roles
+> > and responsibilities within projects.
+> {: .solution}
+{: .challenge}
 
 ## Communication
 
@@ -165,7 +196,6 @@ the past communications and allow search options.
 > #### Time: 5 minutes
 > Let's discuss what types of communication media do people prefer. Think about the team size,
 > and what would be most convenient way for people to communicate and get updates.
-> You have 5 min to discuss, in groups.
 >
 > > ## Solution
 > >
@@ -181,33 +211,73 @@ the past communications and allow search options.
 > {: .solution}
 {: .discussion}
 
-## Governance
 
-> ## Challenge
-> #### Time: 10 min
+## Recommendations
+
+The following checklist is only recommended key points to consider in making contributions easier, clear and transparent.
+
+> ## A checklist of things that can be included in your Contributing guidelines
 >
-> Assign levels of priority needed in the project design and governance
-> (choose one level per line and justify your choice)
+> 1. Where can I contribute?
+> - User agreement
+> - Fixing typo
+> - Reporting and fixing bugs/errors
+> - Contributing to documentation
+> - Adding code/features
+> - Testing
+> - Writing papers
+> - Promoting
+> - Share ideas with the Community
+> - Organise events
 >
+> 2. How can I contribute?
+> - Technical requirements (software versions, space, etc)
+> - Skill requirements (programming language)
+> - Available resources
+> - Is there a style guide to refer to?
+> - What is allowed and not allowed
+> - What happens with my contributions
+> - Time frame that someone from the team responds to a contribution
+> - What if the contribution is accepted/ejected
+> - Citing your contributions (optional description of author, contributor, etc.)
 >
-> |---|---|---|---|---|
-> |Topic|High|Medium|Low|Justify your choice|
-> |About the project|||||
-> |Ownership|||||
-> |Roles and Responsibilities|||||
-> |License|||||
-> |Funding|||||
-> |Timeline|||||
-> |Outreach||||||
+> 3. Who should I contact?
+> - Main contact
+> - Owner
+> - Developer
+> - Maintainer
+> - Helper
+> - Tester
+> - Admin
 >
+> 4. What are the communication channels?
+> - Communication channels
+> - Announcements (newsletters, updates)
+> - Archive
 >
-> > ## Solution
-> >
-> > Discussions among learners who chose different priorities will convince them of the need
-> > for governance and transparency in open source projects. This will clarify the contributors' roles
-> > and responsibilities within projects.
-> {: .solution}
-{: .challenge}
+> 5. What else should I know (links)?
+> - License
+> - Disclaimers
+> - Policies
+> - Code of conduct
+> - Data protection
+> - Main project page
+> - Main documentation
+> - Members/contributors page
+> - Resources to develop skills required for working on the project
+>
+> 6. What's in it for me?
+> - Develop new skills
+> - Find people with similar interests
+> - Find a mentor
+> - Teach others
+> - Learn how to work on open source projects
+>
+> 7. I don’t want to read all these, I only have a question!
+> - One contact person
+> - Minimal document
+{: .solution}
+
 
 
 ## Nice examples of people contributing publicly
@@ -228,7 +298,23 @@ the past communications and allow search options.
 
 ## Resources: Extra links
 
-- Shiny app pick a project to help with:
-- ropensci/dev_guide:maintenance_collaboration.Rmd@7672a91
-- ropensci.github.io/dev_guide/contributingguide.html
-- Mozilla ScienceLabs CONTRIBUTING.md quick presentation
+- Shiny app that randomly picks an issue from an open source project to help with: <https://ropensci.shinyapps.io/contributr/>
+- The rOpenSci R package [Collaboration Guide](https://ropensci.github.io/dev_guide/collaboration.html)
+- The rOpenSci R package [Contributing Guide](https://ropensci.github.io/dev_guide/contributingguide.html)
+- Mozilla ScienceLabs [short presentation on how to build the CONTRIBUTING.md file](https://docs.google.com/presentation/d/1YZA8rvD2Ix4F7y4ck44XYwTlQZ_YkM4higpuwy5swy8/edit#slide=id.gef398db8c_0_0)
+- [How to Contribute?](https://opensource.guide/how-to-contribute/) from the Open Source Guides
+- [How to build welcoming communities?](https://opensource.guide/building-community/) from the Open Source Guides.
+- [Contributing to Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia)
+- https://github.com/marketplace/category/project-management
+    -- Free for open source projects
+    https://github.com/marketplace/zenhub
+    https://github.com/marketplace/zube free up to 4 users
+    https://github.com/marketplace/waffle
+    https://github.com/marketplace/issue-sh free up to 5 users
+    http://sciencetogether.online/tools/
+- https://www.openproject.org/
+- https://gitlab.com/
+- https://opensource.com/
+- http://mozillascience.github.io/working-open-workshop/
+- https://github.com/mozillascience/working-open-workshop/blob/gh-pages/handouts/contributing.md
+- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018H0790 point 12
