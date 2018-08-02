@@ -39,7 +39,7 @@ keypoints:
 
 > ## `.discussion`
 >
-> Let's discuss what types of comunication media do people prefer. Think about the team size, 
+> Let's discuss what types of communication media do people prefer. Think about the team size, 
 > and what would be most convenient way for people to communicate and get updates.
 > You have 5 min to discuss, in groups.
 {: .discussion}
