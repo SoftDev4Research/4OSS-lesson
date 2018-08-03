@@ -300,6 +300,11 @@ The following checklist is only recommended key points to consider in making con
 
 ## Resources: Extra links
 
+- The book
+  "[Producing Open Source Software, How to Run a Successful Free Software Project](https://producingoss.com/)",
+  by Karl Fogel provides a comprehensive overview of the different aspects of managing an open source
+  software project, and includes advice and guidelines to set up your project and facilitate
+  contributions.
 - Shiny app that randomly picks an issue from an open source project to help with: <https://ropensci.shinyapps.io/contributr/>
 - The rOpenSci R package [Collaboration Guide](https://ropensci.github.io/dev_guide/collaboration.html)
 - The rOpenSci R package [Contributing Guide](https://ropensci.github.io/dev_guide/contributingguide.html)
