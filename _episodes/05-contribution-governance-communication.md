@@ -1,5 +1,5 @@
 ---
-title: "Define clear and transparent contribution, communication and governance processes"
+title: "Define clear and transparent contribution, governance and communication processes"
 teaching: 90
 exercises: 45
 questions:
@@ -9,21 +9,19 @@ questions:
 objectives:
   - "Design the minimum guidelines for people to contribute and engage with the project"
   - "Define how you would support your contributors"
-  - "Establish expectations and processes around contributions to the project"
+  - "Establish roles, expectations and processes around contributions to the project"
   - "Create communication strategies among people in the project"
 keypoints:
-  - "Having a governance structure that is appropriate for the size of the project, will support its growth, and make it more welcoming to new contributors."
   - "Having clear guidelines for contribution makes it easier for others to contribute to the project, improving it and increasing its sustainability."
+  - "Having a governance structure that is appropriate for the size of the project, will support its growth, and make it more welcoming to new contributors."
   - "Clarifying communication means and expectations for the project saves time for current and new contributors."
 ---
 
-## Clear and transparent contributions
-
 So far you have a github repository to share your project, you've added a
-license and metadata to it. Now, to make things even better, why not think about
-open contributions! We can start discussing some of the aspects that you as a
-developer of your software should have in mind to make collaboration as
-clear and transparent as possible.
+license and metadata to it. Now, to make things even better, why not think about inviting others to work on your project by making contributions!
+
+We can start discussing some of the aspects that you as a developer of your software
+should have in mind to make contributions as clear and transparent as possible.
 
 > ## Discussion: Why allow others to contribute to your project?
 > #### Time: 3 min
@@ -32,7 +30,43 @@ clear and transparent as possible.
 > Which strategies can you put in place to mitigate these challenges?
 {: .discussion}
 
-TEXT MISSING
+## Clear and transparent contributions
+
+The open source software provides a great opportunity for the developers from
+the community to contribute to the different aspects of the projects. With their
+involvements, developers can improve their skills and connect people with similar
+interest while building their profile as an active contributor in the project.
+
+Make your contributors feel welcome, treat them well, respond to their queries
+and allow them to demonstrate their abilities. To allow meaningful contributions,
+it is crucial to make your project [FAIR](https://www.nature.com/articles/sdata201618)
+(Findable, Accessible,Interoperable and Reusable). Define your project clearly,
+by listing the aim of the project, areas of applications and area of improvements.
+List all the availabilities such as your source-code, datasets, metadata,
+documentation, list of tasks, and contribution guideline.
+
+It is a lot to consider, but remember that in the vast majority of cases,
+people take time to contribute to your project because they find what you created
+useful and want to improve it. These contributors may
+spend considerable amount of their time (often their unpaid, free time) to
+work on your project.
+Being welcoming to your contributors sets the tone for future contributors,
+and incites future  contributors to also contribute to your project.
+If your issue tracker is
+filled with ignored emails or comments, rude replies, and uncalled bad behavior,
+your project is much less likely to benefit from others' contributions.
+
+As your project grows and more people start to contribute, in addition to the
+minimal CONTRIBUTING.md file you might need to provide support to your
+contributors in order to encourage them to make future contributions.
+For example, it's important to
+identify what motivates developers to contribute, what resources (e.g.codes,
+  data, metadata)
+they need to work on your project, what are the right skills to work on a
+certain task, and if they lack any skill, they have resources to help them develop
+those skills. For the developers to make relevant contributions, it is also worth
+ thinking about reaching out to your audience such as by presenting your tools at conferences,
+workshops, online platforms and/or appropriate communication channels.
 
 > ## Discussion: Making clear and transparent contributions
 > #### Time: 10 min
@@ -52,6 +86,8 @@ TEXT MISSING
 > > - introduction: Overview of the document
 > > - how-to: Cover one or two examples of contributions and time frame
 > >
+> > References:
+> > - https://rubygarage.org/blog/how-contribute-to-open-source-projects
 > {: .solution}
 {: .discussion}
 
@@ -67,7 +103,7 @@ contributors to your open source project might want you to consider.
 6. What's in it for me?
 
 *"I don’t want to read all these, I only have a question!"*
-OK! First think about the minimal required information you can provide to your contributors without overwhelming them.
+OK! First think about the minimal required information that you can provide to your contributors without overwhelming them.
 
 > ## Challenge: Part I - Creating a Minimal Contributor’s Guideline
 > #### Time: 10 minutes
@@ -92,26 +128,33 @@ OK! First think about the minimal required information you can provide to your c
 > had not thought about, and that you think would be a useful addition to your project guidelines.
 >
 > - [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
-> - [R for Data Science book](http://r4ds.had.co.nz/contribute.html)
+> - short example [R for Data Science book](http://r4ds.had.co.nz/contribute.html)
 > - [Galaxy Project](https://github.com/galaxyproject/galaxy/blob/dev/CONTRIBUTING.md)
-> - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+> - [How to contribute to open source](https://opensource.guide/how-to-contribute/)
 > - [pandas](https://pandas.pydata.org/pandas-docs/stable/contributing.html)
+> - [GO](https://golang.org/doc/contribute.html)
+> - [Mozilla Science working open](https://github.com/mozillascience/working-open-workshop/blob/gh-pages/handouts/contributing.md)
 > - [Django advice for new contributors](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/)
-> - [dplyr R package](https://github.com/tidyverse/dplyr/blob/master/.github/CONTRIBUTING.md)
+> - [Py4J - A Bridge between Python and Java](https://www.py4j.org/contributing.html)
+> - [JuliaLang](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md)
+> - [dplyr](https://github.com/tidyverse/dplyr/blob/master/.github/CONTRIBUTING.md)
 > - [octobox](https://github.com/octobox/octobox#contribute)
 > - [scipy](https://github.com/scipy/scipy/blob/master/CONTRIBUTING.rst)
-> - [Plotly R package](https://github.com/ropensci/plotly/blob/master/CONTRIBUTING.md)
-> - [Scrubr R package](https://github.com/ropensci/scrubr/blob/master/CONTRIBUTING.md)
-> - [rOpenSci Contributing Guide](https://github.com/ropensci/dev_guide/blob/master/maintenance_contributing.Rmd)
+> - [plotly](https://github.com/ropensci/plotly/blob/master/CONTRIBUTING.md)
+> - [scrubr](https://github.com/ropensci/scrubr/blob/master/CONTRIBUTING.md)
+> - [rOpenSci](https://github.com/ropensci/dev_guide/blob/master/maintenance_contributing.Rmd)
 > - Ubuntu Contributing Guide: [short version](https://discourse.ubuntu.com/t/contribute/26) and [longer version](https://wiki.ubuntu.com/ContributeToUbuntu).
-> - [sf R package](https://github.com/r-spatial/sf#contributing)
+> - Short example [sf](https://github.com/r-spatial/sf#contributing)
 > - [knitr](https://github.com/yihui/knitr/blob/master/.github/CONTRIBUTING.md)
 > - [rmarkdown](https://github.com/rstudio/rmarkdown/blob/master/CONTRIBUTING.md)
-> - [Py4J - A Bridge between Python and Java](https://www.py4j.org/contributing.html)
 {: .challenge}
 
-As your project grows and more people start to contribute, in addition to the minimal CONTRIBUTING.md file
-you might need to provide support to your contributors for encouraging future contributions.
+As an author, you should acknowledge all your contributors and reward their
+contributions for example, by mentioning them in your contributors list,
+by offering them opportunities for training, teaching or mentoring,
+or list them as co-authors if the contribution is substantial. This can be explained
+in a simple paragraph in the CONTRIBUTING.md file or extensive in an separate document
+depending on the size of your project and team.
 
 > ## Discussion: Supporting your contributors
 > #### Time: 5 minutes
@@ -134,13 +177,6 @@ you might need to provide support to your contributors for encouraging future co
 > {: .solution}
 {: .discussion}
 
-Another point to think about is how would you as a author acknowledge or rewards
-contributors. This can be a simple paragraph in the CONTRIBUTING.md file or it
-can be as extensive as it needs depending on the team size. You can acknowledge
-all contributors and reward contributions as co-authors if the contribution is
-substantial. The definition of substantial contribution is also part of your
-project plan.
-
 ## Governance
 
 Governance in an open source software project is a management framework for
@@ -156,7 +192,8 @@ redistribute responsibilities.
 A clearly defined governance structure not only allows your contributors to identify the correct
 contact person, but also helps them to identify roles that they can fill in your project.
 
-A properly managed project uses governance to make sure that there are no responsibilities left behind
+A properly managed project uses governance to make sure that there are no responsibilities
+left behind, unassigned, and optimizes for the rate of development progress.
 
 
 > ## Challenge
@@ -183,14 +220,6 @@ A properly managed project uses governance to make sure that there are no respon
 > {: .solution}
 {: .challenge}
 
-Remember that in the vast majority of cases, people take time to contribute to your
-project because they find what you created useful and want to improve it. These contributors may
-spend considerable amount of their time (often their unpaid, free time) to work on your project.
-Being welcoming to your contributors sets the tone for future contributors, and incites future
-contributors to also contribute to your project. If your issue tracker is filled with un-replied
-comments, rude replies, and uncalled bad behavior, your project is much less likely to benefit from
-others' contributions.
-
 
 
 
@@ -199,11 +228,10 @@ others' contributions.
 Let's now talk about transparent communication processes. There are several options available
 to establish transparent communication with everyone involved in an open source project.
 However, the choice of communication channel differs depending on the team size, which also
-influences the frequency of communications.
-For example, for a two-person project the means of communication
-maybe only emails,
-but a larger group may require a more advanced communication media that can archive
-the past communications and allow search options.
+influences the frequency of communications. From the start of your project, use open
+and public communication channels for members of your project. Mailing lists and other online
+forums work well for open source projects, and scale well as your project grows. As your user base
+grows you may need to create additional lists only for important announcements for instance.
 
 > ## Discussion: Develop communication strategies
 > #### Time: 5 minutes
@@ -313,14 +341,12 @@ The following checklist is only recommended key points to consider in making con
 
 - The book
   "[Producing Open Source Software, How to Run a Successful Free Software Project](https://producingoss.com/)",
-  by Karl Fogel provides a comprehensive overview of the different aspects of managing an open source
-  software project, and includes advice and guidelines to set up your project and facilitate
-  contributions.
-- Shiny app that randomly picks an issue from an open source project to help with: <https://ropensci.shinyapps.io/contributr/>
-- The rOpenSci R package [Collaboration Guide](https://ropensci.github.io/dev_guide/collaboration.html)
-- The rOpenSci R package [Contributing Guide](https://ropensci.github.io/dev_guide/contributingguide.html)
+  by Karl Fogel provides a comprehensive overview of the different aspects of
+  managing an open source software project, and includes advice and guidelines
+  to set up your project and facilitate contributions.
 - Mozilla ScienceLabs [short presentation on how to build the CONTRIBUTING.md file](https://docs.google.com/presentation/d/1YZA8rvD2Ix4F7y4ck44XYwTlQZ_YkM4higpuwy5swy8/edit#slide=id.gef398db8c_0_0)
-- [How to Contribute?](https://opensource.guide/how-to-contribute/) from the Open Source Guides
+- [How to Contribute?](https://opensource.guide/how-to-contribute/) from the
+Open Source Guides
 - [How to build welcoming communities?](https://opensource.guide/building-community/) from the Open Source Guides.
 - [Contributing to Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia)
 - https://github.com/marketplace/category/project-management
@@ -330,9 +356,13 @@ The following checklist is only recommended key points to consider in making con
     https://github.com/marketplace/waffle
     https://github.com/marketplace/issue-sh free up to 5 users
     http://sciencetogether.online/tools/
-- https://www.openproject.org/
-- https://gitlab.com/
-- https://opensource.com/
-- http://mozillascience.github.io/working-open-workshop/
-- https://github.com/mozillascience/working-open-workshop/blob/gh-pages/handouts/contributing.md
-- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018H0790 point 12
+- [OpenScienceMOOC](https://github.com/OpenScienceMOOC)
+- [openproject] https://www.openproject.org/
+- [Prefer to use other version control like GitLab](https://gitlab.com/)
+- [opensource](https://opensource.com/)
+- [Mozilla Science working open](http://mozillascience.github.io/working-open-workshop/)
+- [Commision recommendation (EU) 2018 on access to and preservation of scientific information](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018H0790) point 12
+- [rubygarage](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
+- Shiny app that randomly picks an issue from an open source project to help with: <https://ropensci.shinyapps.io/contributr/>
+- The rOpenSci R package [Collaboration Guide](https://ropensci.github.io/dev_guide/collaboration.html)
+- The rOpenSci R package [Contributing Guide](https://ropensci.github.io/dev_guide/contributingguide.html)
