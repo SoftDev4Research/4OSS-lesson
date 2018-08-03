@@ -48,26 +48,24 @@ In case of software, metadata is “a set of data that describes and gives infor
 **Definition**
 From Wikipedia, [“Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. It either explains how it operates or how to use it, and may mean different things to people in different roles.”](https://en.wikipedia.org/wiki/Software_documentation)
 
-That is, metadata helps describe the software in a standardized way, so it can be findable/discoverable, by both machines and humans.
+In short, metadata helps describe the software in a standardized way, so it can be findable by both machines and humans.
 
 > ## Software metadata vs documentation
 >
-> Metadata is for finding software while documentation is for understanding it
+> Metadata is for finding software while documentation is for understanding it.
 >
 {: .callout}
 
 
-## What are the existing / commonly used standards / descriptions for software metadata (Fatma)
+Before going into the examples for software, let's talk about the existing commonly used standards/descriptions for a scientific metadata.
 
-**Definition**
 A standard can be defined as:
-- A structure agreed and adopted by a community
-- A pattern or model used or accepted as normal or average
-- A standard may be represented by an Ontology, or a Controlled Vocabulary, etc
+- A structure or a model agreed and adopted by a community
+- A standard is represented by an Ontology, or a Controlled Vocabulary
 
-For capturing good meta-data, it is better to use an existing standard
+For capturing a good meta-data, it is better to use an existing standard.
 
-> ## Ontology definition 
+> ## What is an Ontology?
 >
 > “In computer science and information science, an ontology encompasses a representation, formal naming, and definition of the categories, properties, and relations between the concepts, data, and entities that substantiate one, many, or all domains.” - Wikipedia (https://en.wikipedia.org/wiki/Ontology_(information_science)
 >
@@ -81,16 +79,14 @@ Examples
 - The [Sequence Ontology (SO)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1175956/) is a structured controlled vocabulary for genomic annotation. SO provides a common set of terms and definitions that will facilitate the exchange, analysis and management of genomic data. 
 - The [Darwin Core](https://http://rs.tdwg.org/dwc/) standard is body of standards. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries. 
 
+## Standards for software metadata
 
-**About good standards**
+In this section we will try to answer two main questions:
 
-- What is a good standard? 
-- How can I make sure that I am using a good standard? 
-- How to choose a standard?
+1. What are the standards for a software?
+2. How can I choose a good standard for my software? 
 
-The process in choosing a "good standard" is to see what is being (extensively) used by the community. It should ideally be well known and highlighted by the existence of a certain number of citations.
-
-
+The process in choosing a "good standard" is to see what is being (extensively) accepted in the scientific community. It should ideally be well known and highlighted by the existence of a certain number of citations.
 
 Examples in Life Sciences:
 - [EDAM Ontology](http://edamontology.org/page)
@@ -98,7 +94,7 @@ EDAM is a comprehensive ontology of well-established, familiar concepts that are
 - [BioSchema.org](http://bioschemas.org/specifications/Tool/specification/)
 This is an extension, based on [schema.org](schema.org)
 
-General Examples
+Here a few more examples:
 - [CodeMeta](https://codemeta.github.io/)
 Includes tools for preparing meta-data in JSON format
 - [Schema.org](https://schema.org/SoftwareApplication)
@@ -117,10 +113,12 @@ To describe software applications
 | Support email for questions | aperson@gmail.com |
 
 
-
 > ## Exercise: Using a registry, e.g., bio.tools
 >
-> Ask the participants to go to the https://schema.org/SoftwareApplication and try to map the “metadata” they prepared for the previous movie/Software exercise. How many have you mapped? What are the top x metadata entries that you have missed and you think are necessary? What are your unmapped “metadata” that do not have a respective entry in schema - is there a closely related entry, or a composite one? 
+> Please read this [Software Application Schema](https://schema.org/SoftwareApplication) to help you map the “metadata” you prepared for the previous exercise and answer the following questions:
+> - How many have you mapped? 
+> - What are the top x metadata entries that you have missed and you think are necessary? 
+> - What are your unmapped “metadata” that do not have a respective entry in schema? Is there a closely related entry, or a composite one? 
 > 
 > > ## Solution
 > >
