@@ -62,6 +62,7 @@ version control repository.
     - _italics_, __bold__, [link](https://f1000research.com/articles/6-876/v1), list
 - read more about Markdown here: https://guides.github.com/features/mastering-markdown/
 
+
 > ## Challenge: Improve the README
 >
 > The README.md file that GitHub generated when we created the project is quite
@@ -95,8 +96,83 @@ version control repository.
 
 ## Documentation
 
-- GitHub guide to GitHub Pages
-- ReadTheDocs guide
+To make people using or contributing, a software needs to be documented.
+
+> ## Discussion
+>
+> - What experiences have you had with good or bad documentation?
+> - What was important for you **as a user**?
+> - What was important for you **as a developer**?
+>
+{:.discussion}
+
+The documentation of a software should be developed to target two types of audience: the end-users and the potential contributors (usually developers).
+
+For end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instruction should be added clearly-stated list of dependencies. Ideally these should be handled with an automated package management solution. The documentation should also depict some examples of how to use the software (ideally to solve real-world analysis problems), explanation of the expected inputs and outputs. 
+
+The software API should be documented to a suitable level. In the best documentation, all functions/methods are documented including example inputs and outputs.
+
+> ## Notes
+>
+> As an example, the [Journal of Open Source Software requirements](https://joss.readthedocs.io/en/latest/review_criteria.html#documentation) has defined that a software can be accepted for publication if it has at least in its documentation:
+> - A statement of need: Do the authors clearly state what problems the software is designed to solve and who the target audience is?
+> - Installation instructions: Is there a clearly-stated list of dependencies? Ideally these should be handled with an automated package management solution.
+> - Example usage: Do the authors include examples of how to use the software (ideally to solve real-world analysis problems).
+> - Functionality documentation: Is the core functionality of the software documented to a satisfactory level (e.g., API method documentation)?
+>
+{: .callout}
+
+
+> ## Challenge
+> Try to use the following software (link...)
+> 
+> 1. What information was missing?
+> 2. Talk to your neighbour and see if your lists agree.
+>
+> > ## Solution
+> > - No input definition
+> > - 
+> {:.solution}
+{:.challenge}
+
+One of the main challenge of documentation is to keep it up-to-date, following the evolution of the software. To avoid this issue, a good documentation follow these recommendations:
+- The documentation is in the same place as your code, i.e. in the code repository (not on some webserver or a wiki page)
+- The documentation is written in a lightweight markup (Markdown, reStructuredText) to simplify the contributions
+- The API documentation is embedded inside the functions
+- The maintainers of the software ask contributors to also contribute documentation when they contribute code (*connects to the community episode*)
+- A Frequently Asked Question page is filled with every particular question about the code
+
+The simplest documentation is the `README.md` file. For more visibility, a small website can be easily created to host the documentation, for example using the [GitHub pages](https://pages.github.com/) or [ReadTheDoc](https://readthedocs.org/).
+
+> ## Challenge
+>
+> Create a simple page of documentation for your software using the [GitHub page](https://pages.github.com/)
+>  
+> > ## Solution
+> > 
+> > - Create a `docs` folder at the root of your repository
+> > - Add an `index.md` file there
+> > - Fill the `index.md` with minimum documentation mentioned before
+> > - Commit and push it to GitHub
+> > - Go to the repository on GitHub 
+> > - Click on `Setting` on the top
+> > - Scroll to `GitHub Pages`
+> > - Select `master branch /docs folder` as source
+> > - Click on `Save`
+> > - Copy the link that should now appear
+> > - Check it
+> > - Go back to the root repository on GitHub
+> > - Click on the `Edit` button
+> > - Paste the link to `Website`
+> > - Click on `Save`
+> >
+> {:.solution}
+>
+{:.challenge}
+
+More complex documentation can be also be generated using [Sphinx](http://www.sphinx-doc.org/en/master/). For example, the docstrings for each function could be extracted to populate an extensive API documentation. Even complex, this documentation can be stored on GitHub: it is only text.
+
+Good documentation can make a big difference on how a software is used but also in creating a community around it to support it.
 
 ## making software (re)usable
 
