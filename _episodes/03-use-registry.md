@@ -120,7 +120,7 @@ To describe software applications
 
 > ## Exercise: Using a registry, e.g., bio.tools
 >
-> Ask the participants to go to the https://schema.org/SoftwareApplication and try to map the “metadata” they prepared for the previous movie/Software exercise. How many have you mapped? What are the top x metadata entries that you have missed and you think are necessary? What are your unmapped “metadata” that do not have a respective entry in schema - is there a closely related entry, or a composite one? 
+> Ask the learners to go to https://schema.org/SoftwareApplication and try to map the “metadata” they prepared for the previous movie/Software exercise. How many terms have you mapped? What are the top x metadata entries that you have missed and you think are necessary? What are your unmapped “metadata” that do not have a respective entry in schema - is there a closely related entry, or a composite one? 
 > 
 > > ## Solution
 > >
@@ -131,7 +131,7 @@ To describe software applications
 
 
 > Callout:
-> This is a very complex way of adding meta-data. Almost all of the time, you are better served by using an existing platform that is based on the standards you’ve selected.
+> This is a very complex way of adding meta-data. Almost all of the time, you are better served by using an existing platform that is based on the standards that you have selected.
 {: .callout}
 
 
@@ -169,7 +169,7 @@ Zenodo is a general-purpose open access repository.
 > 
 > TODO: bio.tools image
 >
-> Once you are done, as any of your colleagues what their tool is about. Use the search box to find it.
+> Once you are done, ask any of your colleagues what their tool is about. Use the search box to find it.
 > 
 > > ## Solution
 > >
