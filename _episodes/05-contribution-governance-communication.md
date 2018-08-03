@@ -28,6 +28,8 @@ clear and transparent as possible.
 > ## Discussion: Why allow others to contribute to your project?
 > #### Time: 3 min
 > Think and list how your project might benefit from having people contributing to it.
+> What kind of challenges do you expect will arise from having outside contributors to your project?
+> Which strategies can you put in place to mitigate these challenges?
 {: .discussion}
 
 TEXT MISSING
