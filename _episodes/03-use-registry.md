@@ -24,20 +24,20 @@ keypoints:
 You are already using meta-data, but you might not be fully aware of it.
 
 **Definition**
-Metadata (for data) can be defined as [“a set of data that describes and gives information about other data”](https://en.wikipedia.org/wiki/Metadata) or [“Meta is a prefix that in most information technology usages means 'an underlying definition or description'”](https://whatis.techtarget.com/definition/metadata). For some more information and examples, just [follow this link](https://web.archive.org/web/20160306145239/http://www.theguardian.com/technology/interactive/2013/jun/12/what-is-metadata-nsa-surveillance#meta=0000000). 
+Metadata (for data) can be defined as [“a set of data that describes and gives information about other data”](https://en.wikipedia.org/wiki/Metadata) or [“Meta is a prefix that in most information technology usages means 'an underlying definition or description”](https://whatis.techtarget.com/definition/metadata). For some more information and examples, just [follow this link](https://web.archive.org/web/20160306145239/http://www.theguardian.com/technology/interactive/2013/jun/12/what-is-metadata-nsa-surveillance#meta=0000000). 
 
-For the software case, we have defined metadata as “a set of data that describes and gives information about software with the purpose of make it findable/discoverable”
+In case of software, metadata is “a set of data that describes and gives information about software with the purpose of making it findable/discoverable”
 
-> ## Exercise: Thinking of metadata
+> ## Exercise: Think about metadata
 > #### Time 5 minutes
 >
-> Let's think about metadata useful to describe a publication. We have for instance title and authors. What other metadata can you think about? Why would you say those are metadata?
+> Let's think about a metadata useful to describe a publication, for instance title and authors. What other metadata can you think about? Why would you say those are metadata?
 > 
 > By the end of this exercise, you should be able to better understand the difference between data and metadata.
 >
 > > ## Solution
 > >
-> > Some other common metadata for publications are starting page, ending page, journal where it was published, voumen and item. 
+> > Some other common metadata for publications are starting page, ending page, journal where it was published, volume and item. 
 > > 
 > > They are considered metadata because they give you information about the publication but they are not the publication. 
 > > 
