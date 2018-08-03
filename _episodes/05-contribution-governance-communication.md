@@ -17,58 +17,57 @@ keypoints:
   - "Clarifying communication means and expectations for the project saves time for current and new contributors."
 ---
 
+## Clear and transparent contributions
+
 So far you have a github repository to share your project, you've added a
-license and metadata to it. Now, to make things even better, why not think about inviting others to work on your project by making contributions!
+license and metadata to it. Now, to make things even better, why not think about
+inviting others to work on your project by making contributions!
 
 We can start discussing some of the aspects that you as a developer of your software
 should have in mind to make contributions as clear and transparent as possible.
 
-> ## Discussion: Why allow others to contribute to your project?
+> ## Discussion: What are the benfits of allowing others to contribute to your project?
 > #### Time: 3 min
 > Think and list how your project might benefit from having people contributing to it.
 > What kind of challenges do you expect will arise from having outside contributors to your project?
 > Which strategies can you put in place to mitigate these challenges?
+>
+> > ## Outcome
+> >
+> > In this discussion, learners should acknowledge the importance of contributors
+> > in the development of your project.
+> {: .solution}
 {: .discussion}
 
-## Clear and transparent contributions
+## Focus on contributors
 
 The open source software provides a great opportunity for the developers from
-the community to contribute to the different aspects of the projects. With their
-involvements, developers can improve their skills and connect people with similar
-interest while building their profile as an active contributor in the project.
+the community to contribute to its development. With their involvement,
+developers can improve their skills and connect people with similar
+interests while building their profile as an active contributor in the project.
+
+### Welcome your contributors!
 
 Make your contributors feel welcome, treat them well, respond to their queries
-and allow them to demonstrate their abilities. To allow meaningful contributions,
+and allow them to demonstrate their abilities. Being welcoming to your contributors
+sets the tone for future contributors, and incites future  contributors to
+also contribute to your project. To allow meaningful contributions,
 it is crucial to make your project [FAIR](https://www.nature.com/articles/sdata201618)
-(Findable, Accessible,Interoperable and Reusable). Define your project clearly,
+(Findable, Accessible, Interoperable and Reusable). Define your project clearly,
 by listing the aim of the project, areas of applications and area of improvements.
 List all the availabilities such as your source-code, datasets, metadata,
 documentation, list of tasks, and contribution guideline.
 
+### Respect your contributors!
+
 It is a lot to consider, but remember that in the vast majority of cases,
 people take time to contribute to your project because they find what you created
-useful and want to improve it. These contributors may
-spend considerable amount of their time (often their unpaid, free time) to
-work on your project.
-Being welcoming to your contributors sets the tone for future contributors,
-and incites future  contributors to also contribute to your project.
-If your issue tracker is
-filled with ignored emails or comments, rude replies, and uncalled bad behavior,
-your project is much less likely to benefit from others' contributions.
+useful and want to improve it. These contributors may spend considerable amount of
+their time (often their unpaid, free time) to work on your project, so be respectful.
+If your issue tracker is filled with ignored emails or comments, rude replies,
+and uncalled bad behavior, your project will not be attractive for the developers.
 
-As your project grows and more people start to contribute, in addition to the
-minimal CONTRIBUTING.md file you might need to provide support to your
-contributors in order to encourage them to make future contributions.
-For example, it's important to
-identify what motivates developers to contribute, what resources (e.g.codes,
-  data, metadata)
-they need to work on your project, what are the right skills to work on a
-certain task, and if they lack any skill, they have resources to help them develop
-those skills. For the developers to make relevant contributions, it is also worth
- thinking about reaching out to your audience such as by presenting your tools at conferences,
-workshops, online platforms and/or appropriate communication channels.
-
-> ## Discussion: Making clear and transparent contributions
+> ## Discussion: What should others know before contributing to your project?
 > #### Time: 10 min
 > Have you ever contributed to a project? What did you need to know to
 > contribute to that project? Based on your own experience, list the minimum
@@ -76,8 +75,9 @@ workshops, online platforms and/or appropriate communication channels.
 >
 > > ## Outcome
 > >
-> > In this exercise, learners should realise how valuable it is to open their
-> > project for contributions.
+> > In this exercise, learners should realise the importance of providing appropriate
+> > information to allow others to make contributions to your project without
+> > overwhelming or confusing them.
 > >
 > > Then you might suggest to include a minimum example document for contributing.
 > > The contribution file should contain the bare minimum information:
@@ -149,6 +149,18 @@ OK! First think about the minimal required information that you can provide to y
 > - [rmarkdown](https://github.com/rstudio/rmarkdown/blob/master/CONTRIBUTING.md)
 {: .challenge}
 
+### Support your contributors!
+
+As your project grows and more people start to contribute, in addition to the
+minimal CONTRIBUTING.md file you might need to provide support to your
+contributors in order to encourage them to make future contributions.
+For example, it's important to identify what motivates developers to contribute,
+what resources they need to work on your project (e.g.codes, data, metadata),
+what are the right skills to work on a certain task, and if they lack any skill,
+they have resources to help them develop those skills.
+
+### Reward your contributors!
+
 As an author, you should acknowledge all your contributors and reward their
 contributions for example, by mentioning them in your contributors list,
 by offering them opportunities for training, teaching or mentoring,
@@ -177,6 +189,13 @@ depending on the size of your project and team.
 > {: .solution}
 {: .discussion}
 
+### Promote your work
+
+For the developers to make relevant contributions, it is also worth thinking
+about reaching out to your audience (potential future contributors) by engaging
+with your community by presenting your tools at conferences or workshops,
+promoting it on the online platforms and being active on the appropriate communication channels.
+
 ## Governance
 
 Governance in an open source software project is a management framework for
@@ -194,7 +213,6 @@ contact person, but also helps them to identify roles that they can fill in your
 
 A properly managed project uses governance to make sure that there are no responsibilities
 left behind, unassigned, and optimizes for the rate of development progress.
-
 
 > ## Challenge
 > #### Time: 10 min
@@ -219,9 +237,6 @@ left behind, unassigned, and optimizes for the rate of development progress.
 > > and responsibilities within projects.
 > {: .solution}
 {: .challenge}
-
-
-
 
 ## Communication
 
@@ -251,7 +266,6 @@ grows you may need to create additional lists only for important announcements f
 > > - Archive
 > {: .solution}
 {: .discussion}
-
 
 ## Recommendations
 
@@ -318,8 +332,6 @@ The following checklist is only recommended key points to consider in making con
 > - One contact person
 > - Minimal document
 {: .solution}
-
-
 
 ## Nice examples of people contributing publicly
 
