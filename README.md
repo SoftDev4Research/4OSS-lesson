@@ -28,7 +28,7 @@ This lesson material is being developed in the open, and would benefit from your
 - If you spot a typo, feel free to edit the underlying page and send a pull request. If you've never done this before, follow the [hello world example from github pages](https://guides.github.com/activities/hello-world/).
 - If you make a significant contribution you will be listed as an author.
 
-### Comunication
+### Communication
 
 You can raise your comments, improvements and questions using [issues](https://github.com/SoftDev4Research/4OSS-lesson/issues). We also highly encourage the use of [labels for each new issue](https://github.com/SoftDev4Research/4OSS-lesson/labels). We are working remotely and meeting in person from time to time. We communicate by email and through github issues.
 
