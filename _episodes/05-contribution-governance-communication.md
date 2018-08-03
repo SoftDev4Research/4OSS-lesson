@@ -183,6 +183,17 @@ A properly managed project uses governance to make sure that there are no respon
 > {: .solution}
 {: .challenge}
 
+Remember that in the vast majority of cases, people take time to contribute to your
+project because they find what you created useful and want to improve it. These contributors may
+spend considerable amount of their time (often their unpaid, free time) to work on your project.
+Being welcoming to your contributors sets the tone for future contributors, and incites future
+contributors to also contribute to your project. If your issue tracker is filled with un-replied
+comments, rude replies, and uncalled bad behavior, your project is much less likely to benefit from
+others' contributions.
+
+
+
+
 ## Communication
 
 Let's now talk about transparent communication processes. There are several options available
