@@ -5,12 +5,12 @@ exercises: 0
 questions:
 - "Why are metadata important in research software?"
 - "What are good metadata?"
-- "Which are the most commonly used platforms for registering research softwaetadata."
+- "Which are the most commonly used platforms for registering research software data."
 objectives:
-- "Understand the importance of metadata."
-- "Understand why meta-data are necessary for software discoverability."
-- "Have a clear concept of what good metadata entail."
-- "Use one of the existing platforms to upload metadata."
+- "Understand the importance of metadata"
+- "Understand why metadata are necessary for software discoverability"
+- "Have a clear concept of what good metadata entail"
+- "Use one of the existing platforms to upload metadata"
 keypoints:
 - "Metadata is for finding software and documentation for understanding software."
 - "Metadata is essential in making research software findable."
@@ -26,25 +26,25 @@ You are already using meta-data, but you might not be fully aware of it.
 **Definition**
 Metadata (for data) can be defined as [“a set of data that describes and gives information about other data”](https://en.wikipedia.org/wiki/Metadata) or [“Meta is a prefix that in most information technology usages means 'an underlying definition or description'”](https://whatis.techtarget.com/definition/metadata). For some more information and examples, just [follow this link](https://web.archive.org/web/20160306145239/http://www.theguardian.com/technology/interactive/2013/jun/12/what-is-metadata-nsa-surveillance#meta=0000000). 
 
-For the software case, we have defined metadata as “a set of data that describes and gives information about software with the purpose of make it findable/discoverable”
+For the software case, we have defined metadata as “a set of data that describes and gives information about software with the purpose of making it findable/discoverable”
 
 > ## Exercise: Thinking of metadata
 > #### Time 5 minutes
 >
-> Let's think about metadata useful to describe a publication. We have for instance title and authors. What other metadata can you think about? Why would you say those are metadata?
+> Let's think about why metadata is useful to describe a publication. We have for instance a title and authors. What other metadata can you think of? Why would you say those are metadata?
 > 
 > By the end of this exercise, you should be able to better understand the difference between data and metadata.
 >
 > > ## Solution
 > >
-> > Some other common metadata for publications are starting page, ending page, journal where it was published, voumen and item. 
+> > Some other common metadata for publications are starting page, ending page, journal where it was published, volume and item.
 > > 
 > > They are considered metadata because they give you information about the publication but they are not the publication. 
 > > 
 > {: .solution}
 {: .discussion}
 
-## Documentation vs Metadata
+## Documentation vs metadata
 **Definition**
 From Wikipedia, [“Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. It either explains how it operates or how to use it, and may mean different things to people in different roles.”](https://en.wikipedia.org/wiki/Software_documentation)
 
@@ -52,18 +52,18 @@ That is, metadata helps describe the software in a standardized way, so it can b
 
 > ## Software metadata vs documentation
 >
-> Metadata is for finding software while documentation is for understanding it
+> Metadata is for finding software while documentation is for understanding it.
 >
 {: .callout}
 
 
-## What are the existing / commonly used standards / descriptions for software metadata (Fatma)
+## What are the existing commonly used standards descriptions for software metadata
 
 **Definition**
 A standard can be defined as:
 - A structure agreed and adopted by a community
 - A pattern or model used or accepted as normal or average
-- A standard may be represented by an Ontology, or a Controlled Vocabulary, etc
+- A standard may be represented by an *ontology*, or a *controlled vocabulary*, etc.
 
 For capturing good meta-data, it is better to use an existing standard
 
@@ -75,9 +75,9 @@ For capturing good meta-data, it is better to use an existing standard
 
 
 Examples
-- The [Gene Ontology](https://http://www.geneontology.org/) is the framework for the model of biology. The GO defines concepts/classes used to describe gene function, and relationships between these concepts. It classifies functions along three aspects:molecular function, cellular component and biological process
--  The [CF (Climate and Forecast) metadata](https://http://cfconventions.org/) are designed to promote the processing and sharing of files created with the NetCDF API. The CF conventions are increasingly gaining acceptance and have been adopted by a number of projects and groups as a primary standard. The conventions define metadata that provide a definitive description of what the data in each variable represents, and the spatial and temporal properties of the data.
-- The [myGrid ontology](https://http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.4077&rep=rep1&type=pdf) is designed to support web service discovery and composition in the bioinformatics domain. myGrid supports in silico experiments in the life sciences, enabling the design and enactment of workflows as well as providing components to assist service discovery, data and metadata management. The myGrid ontology is one component in a larger semantic discovery framework for the identification of the highly distributed and heterogeneous bioinformatics services in the public domain.  
+- The [Gene Ontology](https://http://www.geneontology.org/) (GO) is the framework for the model of biology. The GO defines concepts/classes used to describe gene function, and relationships between these concepts. It classifies functions along three aspects: molecular function, cellular component and biological process
+-  The [Climate and Forecast (CF) metadata](https://http://cfconventions.org/) are designed to promote the processing and sharing of files created with the NetCDF API. The CF conventions are increasingly gaining acceptance and have been adopted by a number of projects and groups as a primary standard. The conventions define metadata that provide a definitive description of what the data in each variable represents, and the spatial and temporal properties of the data.
+- The [myGrid Ontology](https://http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.4077&rep=rep1&type=pdf) is designed to support web service discovery and composition in the bioinformatics domain. myGrid supports in silico experiments in the life sciences, enabling the design and enactment of workflows as well as providing components to assist service discovery, data and metadata management. The myGrid ontology is one component in a larger semantic discovery framework for the identification of the highly distributed and heterogeneous bioinformatics services in the public domain.  
 - The [Sequence Ontology (SO)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1175956/) is a structured controlled vocabulary for genomic annotation. SO provides a common set of terms and definitions that will facilitate the exchange, analysis and management of genomic data. 
 - The [Darwin Core](https://http://rs.tdwg.org/dwc/) standard is body of standards. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries. 
 
@@ -153,7 +153,7 @@ This is a fairly big registry of tools relevant in Life Sciences, containing suf
 The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications. It is fairly simple compared to other registries, but it focused on a particular domain (astrophysics).
 
 4. [BioCatalogue](http://www.biocatalogue.org)
-The BioCatalogue is a curated catalogue of Life Science Web Services. The BioCatalogue was launched in June 2009 at the Intelligent Systems for Molecular Biology Conference. The project is a collaboration between the myGrid project at the University of Manchester led by Carole Goble and the European Bioinformatics Institute led by Rodrigo Lopez. It is funded by the Biotechnology and Biological Sciences Research Council. It contains only web  services. The BioCatalogue is based on an open source Ruby on Rails codebase 
+The BioCatalogue is a curated catalogue of Life Science Web Services. The BioCatalogue was launched in June 2009 at the Intelligent Systems for Molecular Biology Conference. The project is a collaboration between the myGrid project at the University of Manchester led by Carole Goble and the European Bioinformatics Institute led by Rodrigo Lopez. It is funded by the Biotechnology and Biological Sciences Research Council. It contains only web services. The BioCatalogue is based on an open source Ruby on Rails codebase.
 
 5. [Metadata tools from the US Federal Geographic Data Committee](https://wiki.osgeo.org/wiki/Metadata_software)
 This is a complete list of tools for capturing software metadata in the Geographic Data domain.
