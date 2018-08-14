@@ -21,7 +21,7 @@ keypoints:
 - "GitHub makes it easier to get a DOI and publish your software."
 ---
 
-## Creating a project on GitHub
+## Hosting a project on GitHub
 
 Perhaps the most important aspect of good research software is that it is accessible.
 Even the fastest, most accurate, beautifully-written software can't fulfill its
@@ -52,18 +52,9 @@ external contributions, so work to make yours welcoming and inclusive. For more
 on this topic, and other advice on starting an open source project, check out the
 [Open Source Guide on naming & branding](https://opensource.guide/starting-a-project/#naming-and-branding-your-project).
 
-> ## Challenge: Create a project on GitHub
-> - make sure that you have a GitHub account
-> - click "+ -> new repository"
-> - choose a name
->   - this is more important than you might think
->   - some stuff to think about: https://opensource.guide/starting-a-project/#naming-and-branding-your-project
->   - make sure that you've ticked the "Initialize this project with a README" box
->
-{: .challenge}
+### README - The 'front page' of your project
 
-- congratulations! you've created your first repository :)
-- look at the README.md file
+- Take a look at the README.md file in the repository that you created in [the introduction](https://softdev4research.github.io/4OSS-lesson/01-introduction/index.html)
     - automatically displayed on the front page of your repository
     - project name and subheading emphasised by default, using Markdown syntax
     - _italics_, __bold__, [link](https://f1000research.com/articles/6-876/v1), list
