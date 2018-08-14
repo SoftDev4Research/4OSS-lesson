@@ -44,6 +44,14 @@ GitHub is one of the most popular and comprehenive of these platforms, facilitat
 licensing, documentation, and publication of code as well as providing a remote
 version control repository.
 
+When first creating a project, you will need to make a decision about what the project
+will be called. This is also the appropriate time to consider other factors that
+will have an impact on how people perceive and interact with your project. Bear in
+mind that the health and longevity of an open source software project relies on
+external contributions, so work to make yours welcoming and inclusive. For more
+on this topic, and other advice on starting an open source project, check out the
+[Open Source Guide on naming & branding](https://opensource.guide/starting-a-project/#naming-and-branding-your-project).
+
 > ## Challenge: Create a project on GitHub
 > - make sure that you have a GitHub account
 > - click "+ -> new repository"
@@ -51,8 +59,7 @@ version control repository.
 >   - this is more important than you might think
 >   - some stuff to think about: https://opensource.guide/starting-a-project/#naming-and-branding-your-project
 >   - make sure that you've ticked the "Initialize this project with a README" box
->   - you can add a license now as well
->   - you should have a good idea of what is the appropriate license for your project after the previous lesson (https://softdev4research.github.io/4OSS-lesson/04-use-license/index.html) but, if you need help choosing an license, you can also click on the "info" button next to the "add a license" dropdown, which will take you to https://choosealicense.com/.
+>
 {: .challenge}
 
 - congratulations! you've created your first repository :)
@@ -73,6 +80,7 @@ version control repository.
 {: .challenge}
 
 - as well as the README & LICENSE `.md` files, a good software project might include guidance for contributing to the project (CONTRIBUTING.md - see lesson on contributions, governance, and communication), details of how to correctly cite the software after publication (CITATION.md - see later in this lesson), or even a `paper.md` file if the software is published via the Journal of Open Source Software (JOSS)
+- you should have a good idea of what is the appropriate license for your project after the previous lesson (https://softdev4research.github.io/4OSS-lesson/04-use-license/index.html) but, if you need help choosing an license, you can also click on the "info" button next to the "add a license" dropdown, which will take you to https://choosealicense.com/
 - making the project public at the start is not enough! See the [Software Carpentry lesson on Version Control with Git](http://swcarpentry.github.io/git-novice/) for advice on best practice in software version control.
 
 > ## Discussion: How does version control help your project?
@@ -86,13 +94,6 @@ version control repository.
 > > - promotes good programming practice amongst project members
 > {: .solution}
 {: .discussion}
-
-- git SWC lesson
-- OS naming & branding guide (https://opensource.guide/starting-a-project/#naming-and-branding-your-project)
-- [Markdown guide](https://guides.github.com/features/mastering-markdown/)
-- License recommendation episode
-- contributing recommendation episode
-- How to set up a repository on GitHub
 
 ## Documentation
 
@@ -108,7 +109,7 @@ To make people using or contributing, a software needs to be documented.
 
 The documentation of a software should be developed to target two types of audience: the end-users and the potential contributors (usually developers).
 
-For end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instruction should be added clearly-stated list of dependencies. Ideally these should be handled with an automated package management solution. The documentation should also depict some examples of how to use the software (ideally to solve real-world analysis problems), explanation of the expected inputs and outputs. 
+For end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instruction should be added clearly-stated list of dependencies. Ideally these should be handled with an automated package management solution. The documentation should also depict some examples of how to use the software (ideally to solve real-world analysis problems), explanation of the expected inputs and outputs.
 
 The software API should be documented to a suitable level. In the best documentation, all functions/methods are documented including example inputs and outputs.
 
@@ -125,13 +126,13 @@ The software API should be documented to a suitable level. In the best documenta
 
 > ## Challenge
 > Try to use the following software (link...)
-> 
+>
 > 1. What information was missing?
 > 2. Talk to your neighbour and see if your lists agree.
 >
 > > ## Solution
 > > - No input definition
-> > - 
+> > -
 > {:.solution}
 {:.challenge}
 
@@ -147,14 +148,14 @@ The simplest documentation is the `README.md` file. For more visibility, a small
 > ## Challenge
 >
 > Create a simple page of documentation for your software using the [GitHub page](https://pages.github.com/)
->  
+>
 > > ## Solution
-> > 
+> >
 > > - Create a `docs` folder at the root of your repository
 > > - Add an `index.md` file there
 > > - Fill the `index.md` with minimum documentation mentioned before
 > > - Commit and push it to GitHub
-> > - Go to the repository on GitHub 
+> > - Go to the repository on GitHub
 > > - Click on `Setting` on the top
 > > - Scroll to `GitHub Pages`
 > > - Select `master branch /docs folder` as source
@@ -175,6 +176,32 @@ More complex documentation can be also be generated using [Sphinx](http://www.sp
 Good documentation can make a big difference on how a software is used but also in creating a community around it to support it.
 
 ## making software (re)usable
+
+As we discussed earlier, a piece of research software can be considered successful
+if many people find it useful and cite it. As well as providing good documentation,
+there are other steps that you should take to encourage people to use and contribute
+to your research software.
+
+> ## Challenge
+>
+> Think about a negative experience that you've had with a piece of software.
+> What could have been done to improve your experience? Discuss this with the
+> person next to you. Based on this discussion, can you make any recommendations
+> to the rest of the group around how to encourage other people to use their
+> research software?
+>
+{:.challenge}
+
+- installation
+- info on dependecies, requirements
+    - files that provide detail on this
+    - containerisation
+    - mention mybinder.org
+- interface
+- good coding practices and following standards
+    - helps with re-use, adaptation, contribution
+    - link to SWC programming lessons & FAIR Data & Software Workshop material (https://events.tib.eu/fair-data-software/)
+    - tests can help with installation, debugging, encourage better issue reporting
 
 - good programming practice
   - SWC R & Python lessons
