@@ -52,7 +52,7 @@ external contributions, so work to make yours welcoming and inclusive. For more
 on this topic, and other advice on starting an open source project, check out the
 [Open Source Guide on naming & branding](https://opensource.guide/starting-a-project/#naming-and-branding-your-project).
 
-### README - The 'front page' of your project
+## README - The 'front page' of your project
 
 - Take a look at the README.md file in the repository that you created in [the introduction](https://softdev4research.github.io/4OSS-lesson/01-introduction/index.html)
     - automatically displayed on the front page of your repository
@@ -182,6 +182,65 @@ to your research software.
 > research software?
 >
 {:.challenge}
+
+## The Importance of Good Code
+
+Following good coding standards is always important. Even when writing code that
+you never intend to share with anyone else, it's worth following putting the
+effort into organising your code and making it readable. There are several reasons
+for this: it's good to keep yourself in the habit for when it really matters; you
+never know when you might need to come back and adapt/update the code, and understandable
+code helps to reduce the pain induced when doing so; it makes debugging considerable
+less painful, and; it reduces your embarrassment when, one day, you find that you
+do need to share your code with someone.
+
+Beyond these points, it's particularly important to maintain a good standard and
+consistency of code when establishing an open source project. For research software
+to be successful, it has to work, and it should be used by other people. Code that
+is well-written and documented has the following advantages:
+
+- it is easier to contribute to
+  - someone who discovers your project and wants to help improve it doesn't want to spend hours unravelling the complexities of the code before they can make their Pull Request. Similarly, you will have more chance of getting good bug reports and even user-submitted bug fixes if your error messages are accurate and informative and the flow of your code is easy to follow.
+- it is easier to adapt and re-use
+  - often, multiple pieces of research software are combined and used in scripts and pipelines. Modular code is much easier to import and use in this fashion. Similarly, those wishing to adapt your code to fit their purposes are more likely to do so if they can easily understand the changes that would need to be made.
+- it encourages a similar standard in the code contributed by other members of the project
+- it gives an impression that your software is reliable and trustworthy
+- it is easier to update when (inevitably) dependencies change, a new version of the language that it's written in is released, and/or new features are added
+
+The Software Carpentry lessons on [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) and
+[Programming with R](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html)
+contain plenty of advice on good programming practices. Some languages have
+coding standards that have been adopted with varying levels of fervour by their
+developer community. Examples include
+[PEP8](https://www.python.org/dev/peps/pep-0008/) for Python,
+[Hadley Wickham's Style Guide for R](http://r-pkgs.had.co.nz/style.html), and the
+[ISO standards for C++](https://isocpp.org/wiki/faq/coding-standards).
+Google also have [their own set of styles guides](https://google.github.io/styleguide/)
+for all languages currently popular. Incidentally, Google's guides are hosted via
+GitHub Pages (see below).
+
+> ## Challenge
+> Many of these communities have developed tooling around the style guides for their
+> language of choice (these are referred to as "linters"). One such example is the
+> [`pycodestyle`](https://pypi.org/project/pep8/) executable, which scans through Python
+> code and flags up anything in the script(s) that doesn't conform to the standards
+> for the language.
+>
+> The script `positive_limits.py` takes the name of a file containing lines of
+> numbers and returns the lower and upper positive (i.e. >0) limits of those numbers.
+> Look at the script and, without making any changes, make a note of the changes that
+> you would make to improve the style of the script. Now, in the shell, run
+>
+> ```Bash
+> pycodestyle --show-source positive_limits.py
+> ```
+>
+> and look through the output. How closely does the output of `pycodestyle` match
+> your list? Did you notice anything that the linter didn't?
+{: .challenge}
+
+
+Main points for this section:
 
 - installation
 - info on dependecies, requirements
