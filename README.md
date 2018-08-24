@@ -44,8 +44,11 @@ You can have a look at the [useful resources](UsefulLinks.md) if you need more i
    - [Lesson development hackathon, Utrecht (1-3 August)](https://www.elixir-europe.org/events/4-oss-hackathon) and [Progress](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/notesHackathonUtrech.md)
  - September
    - [ECCB2018, Athens (8-12 September)](http://eccb18.org/)
+   - Aprove content (21 September)
+   - Issue Bonanza (24-25 September)
  - October
    - [Workshop, Utrecht (2 October)](https://www.aanmelder.nl/dtl2018)
+   - Bug BBQ (3-4 October)
    - [hackathon at NETTAB2018, Genoa (24-25 October)](http://www.igst.it/nettab/2018/)
    - [short talk WSSSPE, Amsterdam (29 October)](http://wssspe.researchcomputing.org.uk/category/wssspe6-1/)
  - November
