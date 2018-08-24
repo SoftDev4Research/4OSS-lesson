@@ -178,8 +178,8 @@ Zenodo is a general-purpose open access repository.
 >
 > TODO: bio.tools image
 >
-> Once you are done, as any of your colleagues what their tool is about. Use the search box to find it.
->
+> Once you are done, ask any of your colleagues what their tool is about. Use the search box to find it.
+> 
 > > ## Solution
 > >
 > > We have a tool to visualize protein sequence annotations developed in JavaScript and hosted in GitHub. A publication indexed in PubMed is already available.
