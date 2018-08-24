@@ -24,15 +24,19 @@ keypoints:
 You are already using metadata, but you might not be fully aware of it.
 
 **Definition**
+
 Metadata (for data) can be defined as ["a set of data that describes and gives information about other data"](https://en.wikipedia.org/wiki/Metadata) or ["Meta is a prefix that in most information technology usages means 'an underlying definition or description'"](https://whatis.techtarget.com/definition/metadata). For some more information and examples, [follow this link](https://web.archive.org/web/20160306145239/http://www.theguardian.com/technology/interactive/2013/jun/12/what-is-metadata-nsa-surveillance#meta=0000000).
 
 For the software case, we have defined metadata as "a set of data that describes and gives information about software with the purpose of make it findable/discoverable"
 
-> ## Exercise: Thinking of metadata
+
+> ## Exercise: Think about metadata
 > #### Time 5 minutes
 >
+
 > Let's think about metadata useful to describe a publication. We have for instance title and authors. What other metadata can you think about? Why would you say those are metadata?
 >
+
 > By the end of this exercise, you should be able to better understand the difference between data and metadata.
 >
 > > ## Solution
@@ -48,13 +52,15 @@ For the software case, we have defined metadata as "a set of data that describes
 **Definition**
 From Wikipedia, ["Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. It either explains how it operates or how to use it, and may mean different things to people in different roles."](https://en.wikipedia.org/wiki/Software_documentation)
 
+
 That is, metadata helps describe the software in a standardised way, so it can be findable/discoverable, by both machines and humans.
 
 > ## Software metadata vs documentation
 >
-> Metadata is for finding software while documentation is for understanding it
+> Metadata is for finding software while documentation is for understanding it.
 >
 {: .callout}
+
 
 
 ## Existing and commonly used standards for metadata
@@ -62,6 +68,7 @@ That is, metadata helps describe the software in a standardised way, so it can b
 A standard can be defined as "a structure agreed and adopted by a community" or as "a pattern or model used and accepted as normal or average". Standards may be represented by an Ontology, or a Controlled Vocabulary, etc.
 
 > ## Ontology definition
+
 >
 > "In computer science and information science, an ontology encompasses a representation, formal naming, and definition of the categories, properties, and relations between the concepts, data, and entities that substantiate one, many, or all domains." - Wikipedia (https://en.wikipedia.org/wiki/Ontology_(information_science)
 >
@@ -76,8 +83,7 @@ Examples:
 - The [Sequence Ontology (SO)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1175956/) is a structured controlled vocabulary for genomic annotation. SO provides a common set of terms and definitions that will facilitate the exchange, analysis and management of genomic data.
 - The [Darwin Core](https://http://rs.tdwg.org/dwc/) standard is body of standards. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries.
 
-
-## About good standards
+## Standards for software metadata
 
 - What is a good standard?
 - How can I make sure that I am using a good standard?
@@ -85,6 +91,8 @@ Examples:
 
 The process of choosing a "good standard" is to see what is being (extensively) used by the community. It should ideally be well known and highlighted by the existence of a certain number of citations.
 
+
+The process in choosing a "good standard" is to see what is being (extensively) accepted in the scientific community. It should ideally be well known and highlighted by the existence of a certain number of citations.
 
 Example of standards:
 - [The Dublin Core Metadata Initiative](http://dublincore.org/)), or "DCMI"
@@ -98,7 +106,6 @@ To publish software with its respective metadata
 - [EDAM Ontology](http://edamontology.org/page)
 EDAM is a comprehensive ontology of well-established, familiar concepts that are prevalent within bioinformatics and computational biology, including types of data and data identifiers, data formats, operations and topics)
 - [BioSchema.org](http://bioschemas.org/specifications/Tool/specification/)
-
 Bioschemas is a community project built upon [schema.org](schema.org). It provides customisations, a.k.a. profiles, on top of schemas.org types and properties. Profiles include examples together with guidelines regarding cardinality, marginality and reuse of well-known vocabularies in Life Sciences.
 
 
@@ -116,13 +123,10 @@ The following table shows examples of metadata you would find on a software pack
 | Support email for questions | aperson@gmail.com |
 
 
-
 > ## Exercise: Using a registry, e.g., bio.tools
 >
-
 > Ask the participants to go to the https://schema.org/SoftwareApplication and try to map the "metadata" they prepared for the previous movie/Software exercise. How many have you mapped? What are the top x metadata entries that you have missed and you think are necessary? What are your unmapped "metadata" that do not have a respective entry in schema - is there a closely related entry, or a composite one?
 >
-
 > > ## Solution
 > >
 > > Todo
