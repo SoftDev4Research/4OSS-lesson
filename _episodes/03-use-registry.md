@@ -177,6 +177,7 @@ Zenodo is a research data repository. It was created by OpenAIRE and CERN to pro
 Zenodo has integration with GitHub to make code hosted in GitHub citable.
 Zenodo is a general-purpose open access repository.
 
+
 > ## Exercise: Using a registry, e.g., bio.tools
 >
 > Connect to the test instance of [bio.tools](link to test instance) and create a new entry on a software tool / github repo that you own or any of your favourite tools. You could find useful having a look to their [documentation on adding a tool](http://biotools.readthedocs.io/en/latest/user_guide.html#add-content).
@@ -191,7 +192,6 @@ Zenodo is a general-purpose open access repository.
 > >
 > > These are the fields you would fill up to describe the tool we described:
 > >
-
 > > TODO: list of fields and so on.
 > >
 > > If you go to the search box and look for "protein visualisation", you will see an entry like:
