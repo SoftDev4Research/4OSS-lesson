@@ -136,7 +136,7 @@ The following table shows examples of metadata you would find on a software pack
 
 
 > Callout:
-> This is a very complex way of adding metadata. Almost all of the time, you are better served by using an existing platform that is based on the standards you’ve selected.
+> This is a very complex way of adding metadata. Almost all of the time, you are better served by using an existing platform that is based on the standards that you have selected.
 {: .callout}
 
 
