@@ -14,7 +14,7 @@ objectives:
 keypoints:
 - "Metadata is for finding software and documentation for understanding software."
 - "Metadata is essential in making research software findable."
-- "Good (i.e. standardized) metadata ensures that the software is easily discoverable and reusable."
+- "Good (i.e. standardised) metadata ensures that the software is easily discoverable and reusable."
 - "Different platforms use different levels of granularity in metadata."
 - "[bio.tools](https://bio.tools/) is a good example of a software metadata registry in life sciences."
 ---
@@ -48,7 +48,7 @@ For the software case, we have defined metadata as "a set of data that describes
 **Definition**
 From Wikipedia, ["Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. It either explains how it operates or how to use it, and may mean different things to people in different roles."](https://en.wikipedia.org/wiki/Software_documentation)
 
-That is, metadata helps describe the software in a standardized way, so it can be findable/discoverable, by both machines and humans.
+That is, metadata helps describe the software in a standardised way, so it can be findable/discoverable, by both machines and humans.
 
 > ## Software metadata vs documentation
 >
@@ -98,7 +98,9 @@ To publish software with its respective metadata
 - [EDAM Ontology](http://edamontology.org/page)
 EDAM is a comprehensive ontology of well-established, familiar concepts that are prevalent within bioinformatics and computational biology, including types of data and data identifiers, data formats, operations and topics)
 - [BioSchema.org](http://bioschemas.org/specifications/Tool/specification/)
-This is built upon [schema.org](schema.org)
+
+Bioschemas is a community project built upon [schema.org](schema.org). It provides customisations, a.k.a. profiles, on top of schemas.org types and properties. Profiles include examples together with guidelines regarding cardinality, marginality and reuse of well-known vocabularies in Life Sciences.
+
 
 The following table shows examples of metadata you would find on a software package in the SoftwareX journal. It gives a short description and a possible value.
 
@@ -117,8 +119,10 @@ The following table shows examples of metadata you would find on a software pack
 
 > ## Exercise: Using a registry, e.g., bio.tools
 >
+
 > Ask the participants to go to the https://schema.org/SoftwareApplication and try to map the "metadata" they prepared for the previous movie/Software exercise. How many have you mapped? What are the top x metadata entries that you have missed and you think are necessary? What are your unmapped "metadata" that do not have a respective entry in schema - is there a closely related entry, or a composite one?
 >
+
 > > ## Solution
 > >
 > > Todo
@@ -135,13 +139,17 @@ The following table shows examples of metadata you would find on a software pack
 
 ## Existing platforms and tools for software metadata
 
-The [schema.org](https://schema.org/SoftwareApplication) is the raw form of the possible metadata fields. It is very detailed but it is not readily useful for writing down the metadata of your software.
 
-Most of the time, this is actually done through the available platforms, that internally use these standards. The following list indicates some of the most prevelant ones:
+The [schema.org](https://schema.org/SoftwareApplication) is the raw form of the possible metadata fields. It is very detailed but it is not readily useful for writing down the metadata of your software. Bioschemas has made an effort to narrow down and customise schema.org. types relevant for Life Sciences, one of them is the SoftwareApplication type. More information is available on [this link](http://bioschemas.org/specifications/Tool/specification/).
+
+
+Adding metadata describing your software is commonly done via available platforms, that internally use those standards. The following list indicates some of the most prevelant ones:
 
 1. [bio.tools](https://bio.tools)
 This is a portal to bioinformatics resources worldwide, aimed to help bioinformaticians and scientists find, understand, compare and select resources, as well as use and connect them in workflows.
+
 As a platform, it makes use of the [EDAM ontology](http://EDAMontology.org), and therefore provides a standardized vocabulary for providing metadata. Moreover, it includes aspects such as `language` and `platform`. However, it does not support filters by `language` nor does it assign a doi to the software (which is to be expected, as it serves as a registry and not a repository).
+
 
 2. [OMICTools](https://omictools.com/)
 This is a commercial service providing a registry of tools relevant in life sciences, containing sufficient metadata for connecting different tools in a single pipeline. However, it is not an open registry, i.e. the authors need to contact the development team in order for a tool to be included.
@@ -174,9 +182,10 @@ Zenodo is a general-purpose open access repository.
 > >
 > > These are the fields you would fill up to describe the tool we described:
 > >
+
 > > TODO: list of fields and so on.
 > >
-> > If you go to the search box and look for "protein visualization", you will see an entry like:
+> > If you go to the search box and look for "protein visualisation", you will see an entry like:
 > > TODO : add image
 > >
 > > That's it! You have published your tool in the development version or bio.tools. You are ready to go live and published yout tool for real! Remember bio.tools focuses on life sciences.
