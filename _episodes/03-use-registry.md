@@ -28,13 +28,12 @@ You are already using metadata, but you might not be fully aware of it.
 
 Metadata (for data) can be defined as ["a set of data that describes and gives information about other data"](https://en.wikipedia.org/wiki/Metadata) or ["Meta is a prefix that in most information technology usages means 'an underlying definition or description'"](https://whatis.techtarget.com/definition/metadata). For some more information and examples, [follow this link](https://web.archive.org/web/20160306145239/http://www.theguardian.com/technology/interactive/2013/jun/12/what-is-metadata-nsa-surveillance#meta=0000000).
 
-For the software case, we have defined metadata as "a set of data that describes and gives information about software with the purpose of make it findable/discoverable"
+For the software case, we have defined metadata as "a set of data that describes and gives information about software with the purpose of make it findable/discoverable".
 
 
 > ## Exercise: Think about metadata
 > #### Time 5 minutes
 >
-
 > Let's think about why metadata is useful to describe a publication. We have for instance a title and authors. What other metadata can you think of? Why would you say those are metadata?
 > 
 > By the end of this exercise, you should be able to better understand the difference between data and metadata.
@@ -74,7 +73,6 @@ A standard can be defined as:
 A standard can be defined as "a structure agreed and adopted by a community" or as "a pattern or model used and accepted as normal or average". Standards may be represented by an Ontology, or a Controlled Vocabulary, etc.
 
 > ## Ontology definition
-
 >
 > "In computer science and information science, an ontology encompasses a representation, formal naming, and definition of the categories, properties, and relations between the concepts, data, and entities that substantiate one, many, or all domains." - Wikipedia (https://en.wikipedia.org/wiki/Ontology_(information_science)
 >
