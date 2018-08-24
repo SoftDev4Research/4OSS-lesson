@@ -1,4 +1,7 @@
-# Utrecht hackathon 
+# 4OSS lesson Hackathon 
+
+1-3 August, 2018
+Utrecht, The Netherlands, DTL @JIM
 
 We had an awesome and productive time
 
