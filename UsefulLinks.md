@@ -35,6 +35,7 @@ You can use `Ctrl+ click` to open links in a new tab.
 - European commission [open source](https://ec.europa.eu/research/openscience/index.cfm)
 - OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source
 (https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md)
+- [Ten Simple Rules for Creating an Effective Lesson](http://third-bit.com/2018/08/18/ten-simple-rules-for-creating-an-effective-lesson.html)
 
 ### GitHub and Markdown
 - GitHub guides (10 min read and examples) https://guides.github.com/activities/hello-world
