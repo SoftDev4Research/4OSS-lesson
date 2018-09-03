@@ -223,4 +223,4 @@ Zenodo is a general-purpose open access repository.
 {: .challenge}
 
 ## Wrap up
-By adding good enough metadata to our research software, we are directly supporting its findability, thus increasing the overall visibility of the software. This is tied to the FAIR principles mentioned in the introductory episode of this lesson;
+By adding good enough metadata to our research software, we are directly supporting its findability, thus increasing the overall visibility of the software. This is tied to the **findable** aspect of the FAIR principles mentioned in the introductory episode of this lesson.
