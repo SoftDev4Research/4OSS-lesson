@@ -13,9 +13,9 @@ keypoints:
 - "The discussed best practices are not tailored to software developers, but rather to a wider audience"
 ---
 
-Scientific research relies on computer software, yet software is not always developed following practices that ensure its quality and sustainability. One of the most recent publications ([Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)) provided a simple, yet robust framework of simple recommendations that encourage the adoption of existing best practices in developing research software. These recommendations are designed around Open Science values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent.
+Scientific research nowadays relies heavily on the computational aspects provided by computer software, yet software is not always developed following practices that ensure its quality and sustainability. One of the recent publications ([Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)) provided a simple, yet robust framework of simple recommendations that encourage the adoption of existing best practices in developing research software. These recommendations are designed around Open Science values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent.
 
-Based on these recommendations, this lesson focuses on providing both the underlying context as well as some practical exercises towards establishing their usefulness in the long term. The consequent episodes of this lesson are structured in the form of one episode per recommendation;
+Based on these recommendations, this lesson focuses on providing both the underlying context as well as some practical exercises towards establishing their usefulness in the long term. The consequent episodes of this lesson are structured in the form of one episode per recommendation:
 1. Make source code publicly accessible from day one
 2. Make software easy to discover by providing software metadata via a popular community registry
 3. Adopt a license and comply with the license of third-party dependencies
