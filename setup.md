@@ -4,7 +4,7 @@ title: Setup
 root: .
 ---
 
-In order to be prepared for the lesson, you need to have accounts to the following (free) services:
+In order to be prepared for the lesson, you need to have accounts on the following (free) services:
 
 1. GitHub
 

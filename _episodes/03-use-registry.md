@@ -54,11 +54,7 @@ For the software case, we have defined metadata as "_a set of data that describe
 **Definition**
 From Wikipedia, ["Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. It either explains how it operates or how to use it, and may mean different things to people in different roles."](https://en.wikipedia.org/wiki/Software_documentation)
 
-All software documentation can be divided into two main categories ([ref](https://www.altexsoft.com/blog/business/software-documentation-types-and-best-practices/)), _Product_ documentation and _Process_ documentation. Most of the time you will be dealing with the _Product documentation_, which describes the product that is being developed and provides instructions on how to perform various tasks with it. Product documentation can be broken down into:
-- System documentation and
-- User documentation
-
-_System documentation_ represents documents that describe the system itself and its parts. It includes requirements documents, design decisions, architecture descriptions, program source code, and help guides. On the other hand, _User documentation_ covers manuals that are mainly prepared for end-users of the product and system administrators. User documentation includes tutorials, user guides, troubleshooting manuals, installation, and reference manuals.
+All software documentation can be divided into two main categories ([ref](https://www.altexsoft.com/blog/business/software-documentation-types-and-best-practices/)), _Product_ documentation and _Process_ documentation, with the former further broken down to _System_ and _User_ documentation. However, in the majority of cases in research software, documentation refers to _User documentation_, i.e. information in the form of manuals that are mainly prepared for end-users of the product and system administrators. As such, (user) documentation includes tutorials, user guides, troubleshooting manuals, installation, and reference manuals.
 
 Opposed to the documentation, metadata helps describe the software in a standardized way, so it can be findable/discoverable, by both machines and humans.
 

@@ -3,10 +3,11 @@ title: "Introduction"
 teaching: 10
 exercises: 0
 questions:
-- "Why are best practices necessary in research software"
+- "Why are best practices necessary in research software?"
+- "How Open Source can help with better quality of software?"
 objectives:
-- "What are the basics of Open Science in research software"
-- "What are the FAIR principles"
+- "Basics of Open Science in research software"
+- "Introduction to the FAIR principles"
 keypoints:
 - "Best practices in research software are tied to the FAIR principles"
 - "They are not tailored to software developers, but rather to a wider audience"
