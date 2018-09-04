@@ -219,4 +219,15 @@ Zenodo is a general-purpose open access repository.
 {: .challenge}
 
 ## Wrap up
-By adding good enough metadata to our research software, we are directly supporting its findability, thus increasing the overall visibility of the software. This is tied to the **findable** aspect of the FAIR principles mentioned in the introductory episode of this lesson.
+By adding good enough metadata to our research software, we are directly supporting its findability, thus increasing the overall visibility of the software. This is tied to the **findable** aspect of the FAIR principles mentioned in the introductory episode of this lesson. The connection can be further enhanced through the rest of the best practices. For example, metadata can also support accessibility if you include a license there, or interoperability if you include input/output data types or format. There might also be some metadata supporting reusability as well.
+
+> ## Optional Challenge: Mapping your metadata to the FAIR principles
+>
+> Using the metadata you identified for your tool earlier, try to map each one to the four FAIR principles. You can see an example in Table 1 of the [F1000 paper](https://f1000research.com/articles/6-876/v1).
+>
+>
+> > ## Solution
+> >
+> >
+> {: .solution}
+{: .challenge}
