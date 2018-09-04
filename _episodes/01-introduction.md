@@ -40,3 +40,17 @@ The FAIR Guiding Principles, as described in [Scientific Data by Wilkinson et al
 ## Why best practices in research software
 
 There are many best practices currently in place that directly aim and are tailored for software developers. These includes aspects such as test-first programing and test coverage ([ref](https://github.com/r-lib/covr)), code quality ([ref](https://qaas.cyclopt.com/)), continuous integration ([ref](https://travis-ci.org)), etc. Unlike many software development best practices, this lesson aims to target a wider audience, particularly research funders, research institutions, journals, group leaders, and managers of projects producing research software. The adoption of these recommendations offer a simple mechanism for these stakeholders to promote the development of better software and an opportunity for developers to improve and showcase their software development skills.
+
+## Starting with a challenge
+
+> ## Challenge: Create a project on GitHub
+> - make sure that you have a GitHub account
+> - click "+ -> new repository"
+> - choose a name
+>   - this is more important than you might think
+>   - some stuff to think about: https://opensource.guide/starting-a-project/#naming-and-branding-your-project
+>   - make sure that you've ticked the "Initialize this project with a README" box
+>
+{: .challenge}
+
+Congratulations, you've created your first repository! This is the first step towards making your source code publicly accessible from day one.

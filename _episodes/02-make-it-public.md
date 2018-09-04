@@ -21,7 +21,7 @@ keypoints:
 - "GitHub makes it easier to get a DOI and publish your software."
 ---
 
-## Creating a project on GitHub
+## Hosting a project on GitHub
 
 Perhaps the most important aspect of good research software is that it is accessible.
 Even the fastest, most accurate, beautifully-written software can't fulfill its
@@ -44,19 +44,17 @@ GitHub is one of the most popular and comprehenive of these platforms, facilitat
 licensing, documentation, and publication of code as well as providing a remote
 version control repository.
 
-> ## Challenge: Create a project on GitHub
-> - make sure that you have a GitHub account
-> - click "+ -> new repository"
-> - choose a name
->   - this is more important than you might think
->   - some stuff to think about: https://opensource.guide/starting-a-project/#naming-and-branding-your-project
->   - make sure that you've ticked the "Initialize this project with a README" box
->   - you can add a license now as well
->   - you should have a good idea of what is the appropriate license for your project after the previous lesson (https://softdev4research.github.io/4OSS-lesson/04-use-license/index.html) but, if you need help choosing an license, you can also click on the "info" button next to the "add a license" dropdown, which will take you to https://choosealicense.com/.
-{: .challenge}
+When first creating a project, you will need to make a decision about what the project
+will be called. This is also the appropriate time to consider other factors that
+will have an impact on how people perceive and interact with your project. Bear in
+mind that the health and longevity of an open source software project relies on
+external contributions, so work to make yours welcoming and inclusive. For more
+on this topic, and other advice on starting an open source project, check out the
+[Open Source Guide on naming & branding](https://opensource.guide/starting-a-project/#naming-and-branding-your-project).
 
-- congratulations! you've created your first repository :)
-- look at the README.md file
+## README - The 'front page' of your project
+
+- Take a look at the README.md file in the repository that you created in [the introduction](https://softdev4research.github.io/4OSS-lesson/01-introduction/index.html)
     - automatically displayed on the front page of your repository
     - project name and subheading emphasised by default, using Markdown syntax
     - _italics_, __bold__, [link](https://f1000research.com/articles/6-876/v1), list
@@ -72,7 +70,8 @@ version control repository.
 > think is important.
 {: .challenge}
 
-- as well as the README & LICENSE `.md` files, a good software project should include guidance for contributing to the project (CONTRIBUTING.md - see lesson on contributions, governance, and communication), details of how to correctly cite the software after publication (CITATION.md - see later in this lesson), or even a `paper.md` file if the software is published via the Journal of Open Source Software (JOSS)
+- as well as the README & LICENSE `.md` files, a good software project might include guidance for contributing to the project (CONTRIBUTING.md - see lesson on contributions, governance, and communication), details of how to correctly cite the software after publication (CITATION.md - see later in this lesson), or even a `paper.md` file if the software is published via the Journal of Open Source Software (JOSS)
+- you should have a good idea of what is the appropriate license for your project after the previous lesson (https://softdev4research.github.io/4OSS-lesson/04-use-license/index.html) but, if you need help choosing an license, you can also click on the "info" button next to the "add a license" dropdown, which will take you to https://choosealicense.com/
 - making the project public at the start is not enough! See the [Software Carpentry lesson on Version Control with Git](http://swcarpentry.github.io/git-novice/) for advice on best practice in software version control.
 
 > ## Discussion: How does version control help your project?
@@ -86,13 +85,6 @@ version control repository.
 > > - promotes good programming practice amongst project members
 > {: .solution}
 {: .discussion}
-
-- git SWC lesson
-- OS naming & branding guide (https://opensource.guide/starting-a-project/#naming-and-branding-your-project)
-- [Markdown guide](https://guides.github.com/features/mastering-markdown/)
-- License recommendation episode
-- contributing recommendation episode
-- How to set up a repository on GitHub
 
 ## Documentation
 
@@ -108,7 +100,7 @@ To make people using or contributing, a software needs to be documented.
 
 The documentation of a software should be developed to target two types of audience: the end-users and the potential contributors (usually developers).
 
-For end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instruction should be added clearly-stated list of dependencies. Ideally these should be handled with an automated package management solution. The documentation should also depict some examples of how to use the software (ideally to solve real-world analysis problems), explanation of the expected inputs and outputs. 
+For end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instruction should be added clearly-stated list of dependencies. Ideally these should be handled with an automated package management solution. The documentation should also depict some examples of how to use the software (ideally to solve real-world analysis problems), explanation of the expected inputs and outputs.
 
 The software API should be documented to a suitable level. In the best documentation, all functions/methods are documented including example inputs and outputs.
 
@@ -125,13 +117,13 @@ The software API should be documented to a suitable level. In the best documenta
 
 > ## Challenge
 > Try to use the following software (link...)
-> 
+>
 > 1. What information was missing?
 > 2. Talk to your neighbour and see if your lists agree.
 >
 > > ## Solution
 > > - No input definition
-> > - 
+> > -
 > {:.solution}
 {:.challenge}
 
@@ -147,14 +139,14 @@ The simplest documentation is the `README.md` file. For more visibility, a small
 > ## Challenge
 >
 > Create a simple page of documentation for your software using the [GitHub page](https://pages.github.com/)
->  
+>
 > > ## Solution
-> > 
+> >
 > > - Create a `docs` folder at the root of your repository
 > > - Add an `index.md` file there
 > > - Fill the `index.md` with minimum documentation mentioned before
 > > - Commit and push it to GitHub
-> > - Go to the repository on GitHub 
+> > - Go to the repository on GitHub
 > > - Click on `Setting` on the top
 > > - Scroll to `GitHub Pages`
 > > - Select `master branch /docs folder` as source
@@ -175,6 +167,91 @@ More complex documentation can be also be generated using [Sphinx](http://www.sp
 Good documentation can make a big difference on how a software is used but also in creating a community around it to support it.
 
 ## making software (re)usable
+
+As we discussed earlier, a piece of research software can be considered successful
+if many people find it useful and cite it. As well as providing good documentation,
+there are other steps that you should take to encourage people to use and contribute
+to your research software.
+
+> ## Challenge
+>
+> Think about a negative experience that you've had with a piece of software.
+> What could have been done to improve your experience? Discuss this with the
+> person next to you. Based on this discussion, can you make any recommendations
+> to the rest of the group around how to encourage other people to use their
+> research software?
+>
+{:.challenge}
+
+## The Importance of Good Code
+
+Following good coding standards is always important. Even when writing code that
+you never intend to share with anyone else, it's worth following putting the
+effort into organising your code and making it readable. There are several reasons
+for this: it's good to keep yourself in the habit for when it really matters; you
+never know when you might need to come back and adapt/update the code, and understandable
+code helps to reduce the pain induced when doing so; it makes debugging considerable
+less painful, and; it reduces your embarrassment when, one day, you find that you
+do need to share your code with someone.
+
+Beyond these points, it's particularly important to maintain a good standard and
+consistency of code when establishing an open source project. For research software
+to be successful, it has to work, and it should be used by other people. Code that
+is well-written and documented has the following advantages:
+
+- it is easier to contribute to
+  - someone who discovers your project and wants to help improve it doesn't want to spend hours unravelling the complexities of the code before they can make their Pull Request. Similarly, you will have more chance of getting good bug reports and even user-submitted bug fixes if your error messages are accurate and informative and the flow of your code is easy to follow.
+- it is easier to adapt and re-use
+  - often, multiple pieces of research software are combined and used in scripts and pipelines. Modular code is much easier to import and use in this fashion. Similarly, those wishing to adapt your code to fit their purposes are more likely to do so if they can easily understand the changes that would need to be made.
+- it encourages a similar standard in the code contributed by other members of the project
+- it gives an impression that your software is reliable and trustworthy
+- it is easier to update when (inevitably) dependencies change, a new version of the language that it's written in is released, and/or new features are added
+
+The Software Carpentry lessons on [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) and
+[Programming with R](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html)
+contain plenty of advice on good programming practices. Some languages have
+coding standards that have been adopted with varying levels of fervour by their
+developer community. Examples include
+[PEP8](https://www.python.org/dev/peps/pep-0008/) for Python,
+[Hadley Wickham's Style Guide for R](http://r-pkgs.had.co.nz/style.html), and the
+[ISO standards for C++](https://isocpp.org/wiki/faq/coding-standards).
+Google also have [their own set of styles guides](https://google.github.io/styleguide/)
+for all languages currently popular. Incidentally, Google's guides are hosted via
+GitHub Pages (see below).
+
+> ## Challenge
+> Many of these communities have developed tooling around the style guides for their
+> language of choice (these are referred to as "linters"). One such example is the
+> [`pycodestyle`](https://pypi.org/project/pep8/) executable, which scans through Python
+> code and flags up anything in the script(s) that doesn't conform to the standards
+> for the language.
+>
+> The script `positive_limits.py` takes the name of a file containing lines of
+> numbers and returns the lower and upper positive (i.e. >0) limits of those numbers.
+> Look at the script and, without making any changes, make a note of the changes that
+> you would make to improve the style of the script. Now, in the shell, run
+>
+> ```Bash
+> pycodestyle --show-source positive_limits.py
+> ```
+>
+> and look through the output. How closely does the output of `pycodestyle` match
+> your list? Did you notice anything that the linter didn't?
+{: .challenge}
+
+
+Main points for this section:
+
+- installation
+- info on dependecies, requirements
+    - files that provide detail on this
+    - containerisation
+    - mention mybinder.org
+- interface
+- good coding practices and following standards
+    - helps with re-use, adaptation, contribution
+    - link to SWC programming lessons & FAIR Data & Software Workshop material (https://events.tib.eu/fair-data-software/)
+    - tests can help with installation, debugging, encourage better issue reporting
 
 - good programming practice
   - SWC R & Python lessons
