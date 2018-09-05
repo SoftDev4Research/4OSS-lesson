@@ -101,7 +101,7 @@ A standard can be defined as "a structure agreed and adopted by a community" or 
 >
 {: .callout}
 
-**Controlled vocabularies** provide a way to organize knowledge for subsequent retrieval. It is usually a carefully selected list of words and phrases, which are used to tag units of information (document or work) so that they may be more easily retrieved by a search. The fundamental difference between an **ontology** and a **controlled vocabulary** is the level of abstraction and relationships among concept. A formal ontology is a controlled vocabulary expressed in an ontology representation language. ([ref](https://semwebtec.wordpress.com/2010/11/23/contolled-vocabulary-vs-ontology/))
+**Controlled vocabularies** provide a way to organize knowledge for subsequent retrieval. It is usually a carefully selected list of words and phrases, which are used to tag units of information (document or work) so that they may be more easily retrieved by a search. The fundamental difference between an **ontology** and other **controlled vocabularies**, e.g., thesauri, is the level of abstraction and relationships among concept. A formal ontology is a controlled vocabulary expressed in an ontology representation language. ([ref](https://semwebtec.wordpress.com/2010/11/23/contolled-vocabulary-vs-ontology/))
 
 Examples
 - The [Gene Ontology](https://http://www.geneontology.org/) (GO) is the framework for the model of biology. The GO defines concepts/classes used to describe gene function, and relationships between these concepts. It classifies functions along three aspects: molecular function, cellular component and biological process
