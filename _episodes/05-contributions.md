@@ -21,7 +21,7 @@ keypoints:
 
 So far, you have a github repository to share your project, you've added a `README`, 
 `LICENCE` and metadata to it. Now, to make things even better, why not think about
-inviting others to work on your project by making contributions!
+ inviting others to make contributions to your project!
 
 We can start discussing some of the aspects that you as a developer of your software
 should have in mind to make contributions as clear and transparent as possible.
