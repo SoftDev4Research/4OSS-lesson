@@ -26,7 +26,7 @@ inviting others to work on your project by making contributions!
 We can start discussing some of the aspects that you as a developer of your software
 should have in mind to make contributions as clear and transparent as possible.
 
-> ## Discussion: What are the benfits of allowing others to contribute to your project?
+> ## Discussion: What are the benefits of allowing others to contribute to your project?
 > #### Time: 3 min
 > Think and list how your project might benefit from having people contributing to it.
 > What kind of challenges do you expect will arise from having outside contributors to your project?
