@@ -178,7 +178,7 @@ in a simple paragraph, or covered in more details in the CONTRIBUTING.md file. I
 > > ## Solution
 > >
 > > Here is a list of recommendations to provide support to your
-> > contributors, but remember this is not an extensive list.
+> > contributors, but remember this is not an exhaustive list.
 > > - Installation instructions
 > > - Style guidelines
 > > - FAQ’s
