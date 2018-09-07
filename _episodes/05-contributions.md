@@ -246,9 +246,10 @@ Let's now talk about transparent communication processes. There are several opti
 to establish transparent communication with everyone involved in an open source project.
 However, the choice of communication channel depends on the team size, which also
 influences the frequency of communications. From the start of your project, use open
-and public communication channels for members of your project. Mailing lists and other online
-forums work well for open source projects, and scale well as your project grows. As your user base
-grows you may need to create additional lists only for important announcements for instance.
+and public communication channels for members of your project. Issue threads, mailing lists and other online
+forums work well for open source projects, and scale well as your project grows. As your team
+grows you may need to create additional and separated communication channels, so that you reach your
+target audience on time, and with announcements that benefit a specific audience.
 
 > ## Discussion: Develop communication strategies
 > #### Time: 5 minutes
