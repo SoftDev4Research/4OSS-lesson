@@ -65,9 +65,9 @@ documentation, list of tasks, and contribution guidelines.
 It is a lot to consider, but remember that in the vast majority of cases,
 people take time to contribute to your project because they find what you created
 useful and want to improve it. These contributors may spend considerable amount of
-their time (often their unpaid, free time) to work on your project, so be respectful.
+their time (often voluntarily) to work on your project, so be respectful.
 If your issue tracker is filled with ignored emails or comments, rude replies,
-and uncalled bad behavior, your project will not be attractive for the developers.
+and uncalled bad behavior, your project will not be attractive for contributors.
 
 > ## Discussion: What should others know before contributing to your project?
 > #### Time: 10 min
