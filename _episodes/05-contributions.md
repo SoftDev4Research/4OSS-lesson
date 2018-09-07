@@ -269,7 +269,8 @@ grows you may need to create additional lists only for important announcements f
 
 ## Recommendations
 
-The following checklist is only recommended key points to consider in making contributions easier, clear and transparent.
+The following checklist contains some points to be addressed in order to make 
+contributions easier, clearer and more transparent
 
 > ## A checklist of things that can be included in your Contributing guidelines
 >
