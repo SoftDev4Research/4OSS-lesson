@@ -102,8 +102,7 @@ contributors to your open source project might want you to consider.
 5. What else should I know?
 6. What's in it for me?
 
-*"I don’t want to read all these, I only have a question!"*
-OK! First think about the minimal required information that you can provide to your contributors without overwhelming them.
+Although addressing all these questions is a very good idea, sometimes people just want a clear-cut guideline. So, first think about the minimal required information that you can provide to your contributors without overwhelming them.
 
 > ## Challenge: Part I - Creating a Minimal Contributor’s Guideline
 > #### Time: 10 minutes
