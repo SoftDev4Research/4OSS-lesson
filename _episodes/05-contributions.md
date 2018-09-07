@@ -26,7 +26,7 @@ So far, you have a github repository to share your project, you've added a `READ
 We can start discussing some of the aspects that you as a developer of your software
 should have in mind to make contributions as clear and transparent as possible.
 
-> ## Discussion: What are the benefits of the external contributions to your project?
+> ## Discussion: What are the benefits of having external contributions in your project?
 > #### Time: 3 min
 > Think and list how your project might benefit from having people contributing to it.
 > What kind of challenges do you expect will arise from having outside contributors to your project?
