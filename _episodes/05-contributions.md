@@ -57,8 +57,8 @@ also contribute to your project. To allow meaningful contributions,
 it is crucial to make your project [FAIR](https://www.nature.com/articles/sdata201618)
 (Findable, Accessible, Interoperable and Reusable). Define your project clearly,
 by listing the aim of the project, areas of applications and area of improvements.
-List all the availabilities such as your source-code, datasets, metadata,
-documentation, list of tasks, and contribution guideline.
+List all the resources such as your source-code, datasets, metadata,
+documentation, list of tasks, and contribution guidelines.
 
 ### Respect your contributors!
 
