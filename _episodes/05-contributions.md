@@ -35,7 +35,7 @@ should have in mind to make contributions as clear and transparent as possible.
 > > ## Outcome
 > >
 > > In this discussion, learners should acknowledge the importance of contributors
-> > in the development of your project.
+> > in the development of the project.
 > {: .solution}
 {: .discussion}
 
