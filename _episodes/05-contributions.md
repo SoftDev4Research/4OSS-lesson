@@ -294,7 +294,7 @@ contributions easier, clearer and more transparent
 > - What is allowed and not allowed
 > - What happens with my contributions
 > - Time frame that someone from the team responds to a contribution
-> - What if the contribution is accepted/ejected
+> - What if the contribution is accepted/rejected
 > - Citing your contributions (optional description of author, contributor, etc.)
 >
 > 3. Who should I contact?
