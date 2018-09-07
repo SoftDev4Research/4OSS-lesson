@@ -88,8 +88,8 @@ and uncalled bad behavior, your project will not be attractive for contributors.
 > > - introduction: Overview of the document
 > > - how-to: Show one or two examples of contributions and time frame
 > >
-> > References:
-> > - https://rubygarage.org/blog/how-contribute-to-open-source-projects
+> > Further reading: 
+> > - [https://rubygarage.org/blog/how-contribute-to-open-source-projects](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
 > {: .solution}
 {: .discussion}
 
