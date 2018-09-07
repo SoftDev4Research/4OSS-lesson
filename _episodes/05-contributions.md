@@ -78,7 +78,7 @@ and uncalled bad behavior, your project will not be attractive for contributors.
 > > ## Outcome
 > >
 > > In this exercise, learners should realise the importance of providing appropriate
-> > information to allow others to make contributions to your project without
+> > information to allow others to make contributions to the project, without
 > > overwhelming or confusing them.
 > >
 > > Then you might suggest to include a minimum example document for contributing.
@@ -86,7 +86,7 @@ and uncalled bad behavior, your project will not be attractive for contributors.
 > > - location: root-project/CONTRIBUTING.md
 > > - cheer: Give a super nice welcome to contributors!
 > > - introduction: Overview of the document
-> > - how-to: Cover one or two examples of contributions and time frame
+> > - how-to: Show one or two examples of contributions and time frame
 > >
 > > References:
 > > - https://rubygarage.org/blog/how-contribute-to-open-source-projects
