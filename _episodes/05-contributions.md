@@ -23,7 +23,7 @@ So far, you have a github repository to share your project, you've added a `READ
 `LICENCE` and metadata to it. Now, to make things even better, why not think about
  inviting others to make contributions to your project!
 
-We can start discussing some of the aspects that you as a developer of your software
+We can start discussing some of the aspects that you as project owner
 should have in mind to make contributions as clear and transparent as possible.
 
 > ## Discussion: What are the benefits of having external contributions in your project?
