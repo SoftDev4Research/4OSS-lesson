@@ -201,20 +201,19 @@ promoting it online and being active on the appropriate communication channels.
 ## Governance
 
 Governance in an open source software project is a management framework for
-dynamic decision making. A governance structure aims at the assignment of roles and tasks to project
-contributors. Ideally, this structure clearly defines
+dynamic decision making. A governance structure aims at the assignment of roles, timing and tasks related to the project. Ideally, this structure clearly defines
 responsibilities, accountability and recognition. Roles are attributed by
 managers while developing, testing, documenting and reviewing.
 
-At the start of your project, when few people are involved in its development, your governance
-structure may be simple and roles may overlap. As your project grows, a manager may need to
+At the start of your project, when a few people are involved in its development, your governance
+structure may be simple and roles may overlap. As your project grows, you as project manager/lead may need to
 redistribute responsibilities.
 
 A clearly defined governance structure not only allows your contributors to identify the correct
 contact person, but also helps them to identify roles that they can fill in your project.
 
 A properly managed project uses governance to make sure that there are no responsibilities
-left behind, unassigned, and optimizes for the rate of development progress.
+left behind, unassigned, and optimises for scalable development.
 
 > ## Challenge
 > #### Time: 10 min
