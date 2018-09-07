@@ -253,7 +253,7 @@ target audience on time, and with announcements that benefit a specific audience
 
 > ## Discussion: Develop communication strategies
 > #### Time: 5 minutes
-> Let's discuss what types of communication media do people prefer. Think about the team size,
+> Let's discuss what types of communication channels do people prefer. Think about the team size,
 > and what would be most convenient way for people to communicate and get updates.
 >
 > > ## Solution
