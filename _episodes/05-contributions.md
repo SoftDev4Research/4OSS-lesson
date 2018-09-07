@@ -71,7 +71,7 @@ and uncalled bad behavior, your project will not be attractive for the developer
 > #### Time: 10 min
 > Have you ever contributed to a project? What did you need to know to
 > contribute to that project? Based on your own experience, list the minimum
-> required information someone might require to contribute to your project.
+> required information someone needs to contribute to your project.
 >
 > > ## Outcome
 > >
