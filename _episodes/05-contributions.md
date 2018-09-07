@@ -334,7 +334,7 @@ contributions easier, clearer and more transparent
 > - Minimal document
 {: .solution}
 
-## Nice examples of people contributing publicly
+## Nice testimonials examples of people contributing publicly
 
 > ## Testimonial
 >
