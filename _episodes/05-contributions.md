@@ -233,7 +233,8 @@ left behind, unassigned, and optimises for scalable development.
 >
 > > ## Solution
 > >
-> > Discussions among learners who chose different priorities will convince them of the need
+> > The priorities will be different and that's OK. Discussions among learners who chose different 
+> > priorities will convince them of the need
 > > for governance and transparency in open source projects. This will clarify the contributors' roles
 > > and responsibilities within projects.
 > {: .solution}
