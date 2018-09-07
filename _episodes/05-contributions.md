@@ -153,10 +153,10 @@ Although addressing all these questions is a very good idea, sometimes people ju
 ### Support your contributors!
 
 As your project grows and more people start to contribute, in addition to the
-minimal CONTRIBUTING.md file you might need to provide support to your
-contributors in order to encourage them to make future contributions.
-For example, it's important to identify what motivates developers to contribute,
-what resources they need to work on your project (e.g.codes, data, metadata),
+minimal `CONTRIBUTING` file you might need to provide support to your
+contributors. Support encourages them to make future contributions and to remain active.
+For example, it's important to identify what motivates people to contribute,
+what resources do they need to work on your project (e.g.codes, data, metadata),
 what are the right skills to work on a certain task, and if they lack any skill,
 they have resources to help them develop those skills.
 
