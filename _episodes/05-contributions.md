@@ -125,7 +125,7 @@ Although addressing all these questions is a very good idea, sometimes people ju
 > ## Challenge: Part II - Review examples from other projects
 > #### Time: 10 minutes
 >
-> Read a two or three of the contributing guidelines examples listed below, and pick one element that you
+> Read two or three of the contributing guidelines examples listed below, and pick one element that you
 > had not thought about, and that you think would be a useful addition to your project guidelines.
 >
 > - [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
