@@ -41,10 +41,12 @@ should have in mind to make contributions as clear and transparent as possible.
 
 ## Focus on contributors
 
-The open source software provides a great opportunity for the developers from
-the community to contribute to its development. With their involvement,
-developers can improve their skills and connect people with similar
-interests while building their profile as an active contributor in the project.
+Making your project open provides a great opportunity for the community to 
+contribute to its enhacement. Think about the involvement and contributions from
+the general audience, and the specific audience, like developers, designers and users.
+Both of these groups of people can improve their reviewing skills and make 
+high quality impactful decisions in the project. They can also connect with like-minded
+people while building the profile of active contributor in the project.
 
 ### Welcome your contributors!
 
