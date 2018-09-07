@@ -162,7 +162,7 @@ they have resources to help them develop those skills.
 
 ### Acknowledge your contributors!
 
-As an author, you should acknowledge all your contributors and reward their
+As the project lead/author/owner, you should acknowledge all your contributors and reward their
 contributions, for example, by mentioning them in your contributors list,
 by offering them opportunities to become a mentor,
 invite them as co-authors if their contribution is substantial and essential. 
@@ -172,7 +172,7 @@ in a simple paragraph, or covered in more details in the CONTRIBUTING.md file. I
 
 > ## Discussion: Supporting your contributors
 > #### Time: 5 minutes
-> Think about the different resources that your user might need, in
+> Think about the different resources that contributors might need, in
 > order to make a contribution. Also think at what stages these
 > resources might be needed.
 > Discuss in groups and list the resources.
