@@ -168,7 +168,7 @@ by offering them opportunities to become a mentor,
 invite them as co-authors if their contribution is substantial and essential. 
 
 How you acknowledge your contributors can be explained
-in a simple paragraph, or covered in more details in the CONTRIBUTING.md file. If it is more extensive add links to a separate document, this will depend on the size of your project and team.
+in a simple paragraph, or covered in more details in the `CONTRIBUTING` file. If it is more extensive add links to a separate document, this will depend on the size of your project and team.
 
 > ## Discussion: Supporting your contributors
 > #### Time: 5 minutes
