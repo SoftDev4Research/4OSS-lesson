@@ -94,8 +94,8 @@ and uncalled bad behavior, your project will not be attractive for contributors.
 {: .discussion}
 
 If you are not yet convinced that having your project open for contributions is
-a great idea, we can go through some questions that potential
-contributors to your open source project might want you to consider.
+a great idea, we can go through some questions that a potential
+contributor might ask.
 
 1. Where can I contribute?
 2. How can I contribute?
