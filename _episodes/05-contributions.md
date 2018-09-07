@@ -242,7 +242,7 @@ left behind, unassigned, and optimizes for the rate of development progress.
 
 Let's now talk about transparent communication processes. There are several options available
 to establish transparent communication with everyone involved in an open source project.
-However, the choice of communication channel differs depending on the team size, which also
+However, the choice of communication channel depends on the team size, which also
 influences the frequency of communications. From the start of your project, use open
 and public communication channels for members of your project. Mailing lists and other online
 forums work well for open source projects, and scale well as your project grows. As your user base
