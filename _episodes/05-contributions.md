@@ -14,7 +14,7 @@ objectives:
 keypoints:
   - "Having clear guidelines for contribution makes it easier for others to contribute to the project, improving it and increasing its sustainability."
   - "Having a governance structure that is appropriate for the size of the project, will support its growth, and make it more welcoming to new contributors."
-  - "Clarifying communication means and expectations for the project saves time for current and new contributors."
+  - "Clarifying project goals and ways of communication saves time for current and new contributors."
 ---
 
 ## Clear and transparent contributions
