@@ -193,10 +193,10 @@ in a simple paragraph, or covered in more details in the CONTRIBUTING.md file. I
 
 ### Promote your work
 
-For the developers to make relevant contributions, it is also worth thinking
+To get relevant contributions, it is also worth thinking
 about reaching out to your audience (potential future contributors) by engaging
 with your community by presenting your tools at conferences or workshops,
-promoting it on the online platforms and being active on the appropriate communication channels.
+promoting it online and being active on the appropriate communication channels.
 
 ## Governance
 
