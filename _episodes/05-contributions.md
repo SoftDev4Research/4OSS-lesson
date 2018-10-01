@@ -244,17 +244,22 @@ left behind, unassigned, and optimises for scalable development.
 
 Let's now talk about transparent communication processes. There are several options available
 to establish transparent communication with everyone involved in an open source project.
-However, the choice of communication channel depends on the team size, which also
-influences the frequency of communications. From the start of your project, use open
-and public communication channels for members of your project. Issue threads, mailing lists and other online
-forums work well for open source projects, and scale well as your project grows. As your team
-grows you may need to create additional and separated communication channels, so that you reach your
-target audience on time, and with announcements that benefit a specific audience.
+However, the choice of communication channel depends on several factors, we can divide these
+in two **improvement requests** provenance, persistency and urgency, and **team size**. 
+These two will influence the frequency of communications. 
+
+From the start of your project, use open and public communication channels for members of 
+your project. For example, issue threads, mailing lists and other online
+forums/chats work well for open source projects, and scale well as your project grows. 
+You also need to have a plant to handling growth, you may need to create additional and 
+separated communication channels, so that you reach your target audience on time, 
+and with announcements that benefit a specific audience.
 
 > ## Discussion: Develop communication strategies
 > #### Time: 5 minutes
 > Let's discuss what types of communication channels do people prefer. Think about the team size,
-> and what would be most convenient way for people to communicate and get updates.
+> and what kind of improvements will be addressed in your software.
+> What would be the most convenient way for people to communicate and get updates?
 >
 > > ## Solution
 > >
@@ -382,3 +387,4 @@ Open Source Guides
 - Shiny app that randomly picks an issue from an open source project to help with: <https://ropensci.shinyapps.io/contributr/>
 - The rOpenSci R package [Collaboration Guide](https://ropensci.github.io/dev_guide/collaboration.html)
 - The rOpenSci R package [Contributing Guide](https://ropensci.github.io/dev_guide/contributingguide.html)
+- The book [Producing Open Source Software](https://producingoss.com/en/) by Karl Fogel
