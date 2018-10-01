@@ -222,7 +222,7 @@ GitHub Pages (see below).
 > ## Challenge
 > Many of these communities have developed tooling around the style guides for their
 > language of choice (these are referred to as "linters"). One such example is the
-> [`pycodestyle`](https://pypi.org/project/pep8/) executable, which scans through Python
+> [`pycodestyle`](https://pypi.org/project/pycodestyle/) executable, which scans through Python
 > code and flags up anything in the script(s) that doesn't conform to the standards
 > for the language.
 >
