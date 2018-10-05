@@ -24,6 +24,7 @@ We will work on fixing the issues on this repo and getting all the details ready
 
 ## Resources
 
-If you feel you need to know more about is, find information in our [resource list](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/UsefulLinks.md)
+If you feel you need to know more about is, find information in our [resource list](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/UsefulLinks.md).
+
 Do you want an example on how to create a Pull Request (PR), follow the short [guide](https://guides.github.com/activities/hello-world) (10 min to get started with github)
 
