@@ -20,3 +20,5 @@ Leave a comment
 
 We will work on fixing the issues on this repo and getting all the details ready! Join us online Wed-Fri 17-19th Oct, 2018 :D
 
+![](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/fig/IssueBBQ.png)
+
