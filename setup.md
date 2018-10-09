@@ -6,9 +6,7 @@ root: .
 
 In order to be prepared for the lesson, you need to have accounts on the following (free) services:
 
-1. [GitHub](https://github.com/)
-
-If you need an account, please follow this [guide](https://services.github.com/on-demand/intro-to-github/create-github-account).
+1. [GitHub](https://github.com/). If you need an account, please follow this [guide](https://services.github.com/on-demand/intro-to-github/create-github-account).
 
 
 2. BioTools
