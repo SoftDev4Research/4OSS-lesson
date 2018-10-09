@@ -2,8 +2,13 @@
 
 ## Issue Bonanza
 
-SoftDev best practices, ELIXIR-Training, and the Tools platform are organising an issue bonanza to improve the 4 Open Source Software recommendations (4OSS) lesson content on 10-12th of October. The Issue Bonanza will help us identify issues that need fixing before publication. Once we know what those issues are, the next step is to fix them! You don't need to be an expert in the materials - we need people to help search for broken links and typos too! And also remember that contribution to issue bonanza also counts for Hacktoberfest achievements. https://github.com/SoftDev4Research/4OSS-lesson 
+SoftDev best practices, ELIXIR-Training, and the Tools platform are organising an issue bonanza to improve the 4 Open Source Software recommendations (4OSS) lesson content on 10-12th of October. The Issue Bonanza will help us identify issues that need fixing before publication. Once we know what those issues are, the next step is to fix them! You don't need to be an expert in the materials - we need people to help search for broken links and typos too! And also remember that contribution to issue bonanza also counts for Hacktoberfest achievements. https://github.com/SoftDev4Research/4OSS-lesson
 
+If you are joining us, you read through the [materials online](https://softdev4research.github.io/4OSS-lesson/). If you like to chat about the project we will be on [gitter](https://gitter.im/4OSS-lesson/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) Central European Time (CET), but feel free to leave us a message if you don't find us, we will reply as soon as possible.
+
+- Wednesday: chat with Fotis 
+- Thursday: Chat with Paula
+- Friday: Chat with Paula
 
 ### Timeline
 
