@@ -13,9 +13,10 @@ keypoints:
 - "The discussed best practices are not tailored to software developers, but rather to a wider audience"
 ---
 
-Scientific research nowadays relies heavily on the computational aspects provided by computer software, yet software is not always developed following practices that ensure its quality and sustainability. One of the recent publications ([Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)) provided a simple, yet robust framework of simple recommendations that encourage the adoption of existing best practices in developing research software. These recommendations are designed around Open Science values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent.
+Scientific research nowadays relies heavily on the computational aspects provided by computer software, yet software is not always developed following practices that ensure its quality and sustainability. A publication that addresses this is the ([Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)) provided a simple, yet robust framework of simple recommendations that encourage the adoption of existing best practices in developing research software. These recommendations are designed around Open Science values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent.
 
-Based on these recommendations, this lesson focuses on providing both the underlying context as well as some practical exercises towards establishing their usefulness in the long term. The consequent episodes of this lesson are structured in the form of one episode per recommendation:
+Based on these recommendations, this lesson focuses on providing both the underlying context, as well as, some practical exercises towards establishing their usefulness in the long term. The following episodes of this lesson are structured in the form of one episode per recommendation:
+
 1. Make source code publicly accessible from day one
 2. Make software easy to discover by providing software metadata via a popular community registry
 3. Adopt a license and comply with the license of third-party dependencies
@@ -25,7 +26,7 @@ Based on these recommendations, this lesson focuses on providing both the underl
 
 "_When all researchers are aware of Open Science, and are trained, supported and guided at all career stages to practice Open Science, the potential is there to fundamentally change the way research is performed and disseminated, fostering a scientific ecosystem in which research gains increased visibility, is shared more efficiently, and is performed with enhanced research integrity._" [Open Science Skills Working Group Report (2017)](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none)
 
-Discussing best practices in developing research software, one is bound to touch on the subject of Open Science. Modern research relies on software, and building upon or reproducing that research requires access to the full source code behind that software ([ref](https://open-science-training-handbook.gitbook.io)). Sharing software used for research (whether computational in nature, or that relies on any software-based analysis/interpretation) is a necessary, though not sufficient, condition for reproducibility. In addition to reproducibility, sharing software openly allows developers to receive career credit for their efforts, either through direct citation or via published software articles. We are going to be discussing all these aspects in the following lesson.
+Discussing best practices to develope research software, is bound to touch on the subject of Open Science. Modern research relies on software, and building upon or reproducing that research requires access to the full source code behind that software ([ref](https://open-science-training-handbook.gitbook.io)). Sharing software used for research (whether computational in nature, or that relies on any software-based analysis/interpretation) is a necessary, though not sufficient, condition for reproducibility. In addition to reproducibility, sharing software openly allows developers/scientists to receive career credit for their efforts, either through direct citation or via published software articles. We are going to be discussing all of these aspects in the following lesson.
 
 ## FAIR principles
 
@@ -44,7 +45,8 @@ There are many best practices currently in place that directly aim and are tailo
 ## Starting with a challenge
 
 > ## Challenge: Create a project on GitHub
-> - make sure that you have a GitHub account
+> - make sure that you have a GitHub account. If you need an account, please follow this [guide](https://services.github.com/on-demand/intro-to-github/create-github-account).
++
 > - click "+ -> new repository"
 > - choose a name
 >   - this is more important than you might think
