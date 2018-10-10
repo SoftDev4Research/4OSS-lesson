@@ -9,5 +9,5 @@ Note: This lesson materials are being developed in the open and are in current i
 
 > ## Prerequisites
 >
-> It is recommended that participants have some familiarity with Github, to create a public repository. Follow the [Setup](~/setup.html) for instructions or partner with someone who can help you work on this part.
+> It is recommended that participants have some familiarity with Github, to create a public repository. Follow the [Setup](/setup.html) for instructions or partner with someone who can help you work on this part.
 {: .prereq}
