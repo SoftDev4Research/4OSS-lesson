@@ -1,7 +1,7 @@
 ---
 title: "Define clear and transparent contribution, governance and communication processes"
-teaching: 90
-exercises: 45
+teaching: 60
+exercises: 40
 questions:
   - "How does someone start contributing to my project?"
   - "What do I need to consider about project design and governance?"
@@ -123,12 +123,11 @@ Although addressing all these questions is a very good idea, sometimes people ju
 {: .challenge}
 
 > ## Challenge: Part II - Review examples from other projects
-> #### Time: 10 minutes
+> #### Time: 5 minutes
 >
 > Read two or three of the contributing guidelines examples listed below, and pick one element that you
 > had not thought about, and that you think would be a useful addition to your project guidelines.
 >
-> - [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 > - short example [R for Data Science book](http://r4ds.had.co.nz/contribute.html)
 > - [Galaxy Project](https://github.com/galaxyproject/galaxy/blob/dev/CONTRIBUTING.md)
 > - [How to contribute to open source](https://opensource.guide/how-to-contribute/)
@@ -142,12 +141,11 @@ Although addressing all these questions is a very good idea, sometimes people ju
 > - [octobox](https://github.com/octobox/octobox#contribute)
 > - [scipy](https://github.com/scipy/scipy/blob/master/CONTRIBUTING.rst)
 > - [plotly](https://github.com/ropensci/plotly/blob/master/CONTRIBUTING.md)
-> - [scrubr](https://github.com/ropensci/scrubr/blob/master/CONTRIBUTING.md)
+> - [biopython](https://github.com/biopython/biopython/blob/master/CONTRIBUTING.rst)
 > - [rOpenSci](https://github.com/ropensci/dev_guide/blob/master/maintenance_contributing.Rmd)
-> - Ubuntu Contributing Guide: [short version](https://discourse.ubuntu.com/t/contribute/26) and [longer version](https://wiki.ubuntu.com/ContributeToUbuntu).
 > - Short example [sf](https://github.com/r-spatial/sf#contributing)
-> - [knitr](https://github.com/yihui/knitr/blob/master/.github/CONTRIBUTING.md)
 > - [rmarkdown](https://github.com/rstudio/rmarkdown/blob/master/CONTRIBUTING.md)
+> - Ubuntu Contributing Guide: [short version](https://discourse.ubuntu.com/t/contribute/26) and [longer version](https://wiki.ubuntu.com/ContributeToUbuntu).
 {: .challenge}
 
 ### Support your contributors!
