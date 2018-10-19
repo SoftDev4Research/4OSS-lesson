@@ -1,7 +1,7 @@
 ---
 title: "Define clear and transparent contribution, governance and communication processes"
 teaching: 60
-exercises: 40
+exercises: 30
 questions:
   - "How does someone start contributing to my project?"
   - "What do I need to consider about project design and governance?"
@@ -70,7 +70,7 @@ If your issue tracker is filled with ignored emails or comments, rude replies,
 and uncalled bad behavior, your project will not be attractive for contributors.
 
 > ## Discussion: What should others know before contributing to your project?
-> #### Time: 10 min
+> #### Time: 7 min
 > Have you ever contributed to a project? What did you need to know to
 > contribute to that project? Based on your own experience, list the minimum
 > required information someone needs to contribute to your project.
@@ -214,7 +214,7 @@ A properly managed project uses governance to make sure that there are no respon
 left behind, unassigned, and optimises for scalable development.
 
 > ## Challenge
-> #### Time: 10 min
+> #### Time: 5 min
 >
 > Assign levels of priority needed in the project design and governance
 > (choose one level per line and justify your choice)
