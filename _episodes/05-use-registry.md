@@ -5,7 +5,7 @@ exercises: 45
 questions:
 - "Why are metadata important in research software?"
 - "What are good metadata?"
-- "Which are the most commonly used platforms for registering research software data."
+- "Which are the most commonly used platforms for registering research software data?"
 objectives:
 - "Understand the importance of metadata"
 - "Understand why metadata are necessary for software discoverability"
