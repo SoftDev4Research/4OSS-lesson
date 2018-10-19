@@ -107,9 +107,9 @@ contributor might ask.
 Although addressing all these questions is a very good idea, sometimes people just want a clear-cut guideline. So, first think about the minimal required information that you can provide to your contributors without overwhelming them.
 
 > ## Challenge: Part I - Creating a Minimal Contributor’s Guideline
-> #### Time: 10 minutes
-> Hands on exercise to create a minimal contributor’s Guideline
-> CONTRIBUTING.md
+> #### Time: 5 minutes
+> Based on the ideas resulting from the previous discussion, create a minimal contributor’s Guideline, a file called
+> `CONTRIBUTING.md`
 >
 > > ## Solution
 > >
