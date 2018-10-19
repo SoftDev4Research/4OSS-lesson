@@ -3,7 +3,9 @@ title: "Adopt a licence and comply with the licence of third-party dependencies"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- "What a licence does?"
+- "What is an open source licence?"
+- "What is the importance of your lincece for third-party dependencies?"
 objectives:
 - Tell what is a copyright and what a licence does
 - tell why is important that a product/code has a licence
