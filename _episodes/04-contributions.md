@@ -1,7 +1,7 @@
 ---
 title: "Define clear and transparent contribution, governance and communication processes"
-teaching: 60
-exercises: 30
+teaching: 40
+exercises: 35
 questions:
   - "How does someone start contributing to my project?"
   - "What do I need to consider about project design and governance?"
