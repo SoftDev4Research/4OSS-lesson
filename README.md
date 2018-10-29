@@ -50,7 +50,7 @@ You can have a look at the [useful resources](UsefulLinks.md) if you need more i
    - [Workshop, Utrecht (2 October)](https://www.aanmelder.nl/dtl2018)
    - Bug BBQ (3-4 October)
    - [hackathon at NETTAB2018, Genoa (24-25 October)](http://www.igst.it/nettab/2018/)
-   - [short talk WSSSPE, Amsterdam (29 October)](http://wssspe.researchcomputing.org.uk/category/wssspe6-1/)
+   - [short talk WSSSPE, Amsterdam (29 October)](http://wssspe.researchcomputing.org.uk/category/wssspe6-1/), [Presentation](https://drive.google.com/file/d/1l5SDuY5Kdhnizb76R9rPslohSPLzGl7F/view)
  - November
    - [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
    
