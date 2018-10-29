@@ -17,10 +17,10 @@ Scientific research nowadays relies heavily on the computational aspects provide
 
 Based on these recommendations, this lesson focuses on providing both the underlying context as well as some practical exercises towards establishing their usefulness in the long term. The following episodes of this lesson are structured in the form of one episode per recommendation:
 
-1. [Make source code publicly accessible from day one](../02-make-it-public.md)
-2. [Adopt a license and comply with the license of third-party dependencies](../03-use-license.md)
-3. [Define clear and transparent contribution, governance and communication processes](../04-contributions.md)
-4. [Make software easy to discover by providing software metadata via a popular community registry](../05-use-registry.md)
+1. [Make source code publicly accessible from day one](../02-make-it-public/)
+2. [Adopt a license and comply with the license of third-party dependencies](../03-use-license/)
+3. [Define clear and transparent contribution, governance and communication processes](../04-contributions/)
+4. [Make software easy to discover by providing software metadata via a popular community registry](../05-use-registry/)
 
 ## Open Science
 
