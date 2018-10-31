@@ -100,9 +100,9 @@ To make people using or contributing, a software needs to be documented.
 
 The documentation of a software should be developed to target two types of audience: the end-users and the potential contributors (usually developers).
 
-For end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instruction should be added clearly-stated list of dependencies. Ideally these should be handled with an automated package management solution. The documentation should also depict some examples of how to use the software (ideally to solve real-world analysis problems), explanation of the expected inputs and outputs.
+For the end-user, a good documentation should clearly state what problems the software is designed to solve and who the target audience is. Installation instructions should include a list of dependencies and, ideally, how to install such dependencies. The documentation should also depict some examples of how to use the software with explanations of the expected inputs and outputs.
 
-The software API should be documented to a suitable level. In the best documentation, all functions/methods are documented including example inputs and outputs.
+Additionally, if the software has an API, all functions/methods from the API should be documented including example inputs and outputs.
 
 > ## Notes
 >
