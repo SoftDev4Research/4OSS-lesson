@@ -7,7 +7,8 @@ To have a track and a sense of completion for this lesson, here is a checklist
 1. Pick a [licence][licence-episode] and add it to the `LICENSE.md` file
 1. How to make your code citable using GitHub and Zenodo (optional)
 1. Add a minimal [contributor’s Guideline][contributions-episode], in `CONTRIBUTING.md`
-2. Add a `codemeta.json` file. [Suggestions to include](https://github.com/codemeta/codemeta/blob/master/codemeta.jsonld)
+1. Add a `codemeta.json` file. [Suggestions to include](https://github.com/codemeta/codemeta/blob/master/codemeta.jsonld)
+1. Add your project to a registry. e.g. [bio.tools](https://dev.bio.tools/)
 
 
 [licence-episode]: https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html
