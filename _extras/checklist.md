@@ -1,3 +1,6 @@
+** Work in progress your suggestions are welcome**
+-----------
+
 # Checklist
 
 To have a track and a sense of completion for this lesson, here is a checklist
