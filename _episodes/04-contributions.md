@@ -19,8 +19,8 @@ keypoints:
 
 ## Clear and transparent contributions
 
-So far, you have a github repository to share your project, you've added a `README`, 
-`LICENCE` and metadata to it. Now, to make things even better, why not think about
+So far, you have a github repository to share your project. You've added a `README`, 
+and a `LICENCE` to it. Now, to make things even better, why not think about
  inviting others to make contributions to your project!
 
 We can start discussing some of the aspects that you as project owner
