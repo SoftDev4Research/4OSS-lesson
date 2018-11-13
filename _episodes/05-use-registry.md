@@ -231,3 +231,17 @@ By adding good enough metadata to our research software, we are directly support
 > >
 > {: .solution}
 {: .challenge}
+
+## Example 
+
+Now that you have been exposed to the 4 Open Source Software recomendations. Here is an example to see how all of these recomendations come together.
+
+### OpenSNP
+
+The [openSNP](https://opensnp.org/) is an Open Source Software project which makes use of other Open Source Software. We have selected this as an example because it complies with all 4 recommendations.
+
+The [openSNP](https://opensnp.org/) project is licensed under the [MIT License](https://github.com/openSNP/snpr/blob/master/LICENSE.md), the code is at [GitHub](https://github.com/openSNP/snpr). The data is donated into the public domain using [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/). The CSS of openSNP is provided by [Bootstrap](http://twitter.github.com/bootstrap/), from Twitter and is licensed under the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0), the search icon comes from [glyphicons](http://glyphicons.com/). If you are interested in this project here are the [contribution guidelines](https://github.com/openSNP/snpr/blob/master/CONTRIBUTING.md). Also, find the [registry of openSNP in bio.tools](https://bio.tools/openSNP) to see publication, citations and how to credit the software.
+
+
+
+
