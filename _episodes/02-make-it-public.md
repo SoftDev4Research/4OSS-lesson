@@ -88,7 +88,7 @@ on this topic, and other advice on starting an open source project, check out th
 
 ## Documentation
 
-To make people using or contributing, a software needs to be documented.
+For people to use or contribute to a software project it needs to be documented.
 
 > ## Discussion
 >
@@ -166,7 +166,7 @@ More complex documentation can be also be generated using [Sphinx](http://www.sp
 
 Good documentation can make a big difference on how a software is used but also in creating a community around it to support it.
 
-## making software (re)usable
+## Making software (re)usable
 
 As we discussed earlier, a piece of research software can be considered successful
 if many people find it useful and cite it. As well as providing good documentation,
@@ -183,7 +183,7 @@ to your research software.
 >
 {:.challenge}
 
-## The Importance of Good Code
+## The importance of good code
 
 Following good coding standards is always important. Even when writing code that
 you never intend to share with anyone else, it's worth following putting the
@@ -199,15 +199,15 @@ consistency of code when establishing an open source project. For research softw
 to be successful, it has to work, and it should be used by other people. Code that
 is well-written and documented has the following advantages:
 
-- it is easier to contribute to
+- It is easier to contribute to
   - someone who discovers your project and wants to help improve it doesn't want to spend hours unravelling the complexities of the code before they can make their Pull Request. Similarly, you will have more chance of getting good bug reports and even user-submitted bug fixes if your error messages are accurate and informative and the flow of your code is easy to follow.
-- it is easier to adapt and re-use
+- It is easier to adapt and re-use
   - often, multiple pieces of research software are combined and used in scripts and pipelines. Modular code is much easier to import and use in this fashion. Similarly, those wishing to adapt your code to fit their purposes are more likely to do so if they can easily understand the changes that would need to be made.
-- it encourages a similar standard in the code contributed by other members of the project
-- it gives an impression that your software is reliable and trustworthy
-- it is easier to update when (inevitably) dependencies change, a new version of the language that it's written in is released, and/or new features are added
+- It encourages a similar standard in the code contributed by other members of the project
+- It gives an impression that your software is reliable and trustworthy
+- It is easier to update when (inevitably) dependencies change, a new version of the language that it's written in is released, and/or new features are added
 
-The Software Carpentry lessons on [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) and
+The Software Carpentry lessons on [Programming with Python](http://swcarpentry.github.io/python-novice-gapminder/18-style/index.html) and
 [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html)
 contain plenty of advice on good programming practices. Some languages have
 coding standards that have been adopted with varying levels of fervour by their
@@ -242,23 +242,23 @@ GitHub Pages (see below).
 
 Main points for this section:
 
-- installation
-- info on dependecies, requirements
+- Installation
+- Info on dependecies, requirements
     - files that provide detail on this
     - containerisation
     - mention mybinder.org
-- interface
-- good coding practices and following standards
+- Interface
+- Good coding practices and following standards
     - helps with re-use, adaptation, contribution
     - link to SWC programming lessons & FAIR Data & Software Workshop material (https://events.tib.eu/fair-data-software/)
     - tests can help with installation, debugging, encourage better issue reporting
 
-- good programming practice
+- Good programming practice
   - SWC R & Python lessons
   - FAIR data & software lessons
 
-## publishing
+## Publishing
 
 - GitHub guide to getting a DOI from Zenodo
 - How to make your code citable using GitHub and Zenodo (https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md)
-- metadata recommendation (next lesson)
+- metadata recommendation ((last episode)[https://softdev4research.github.io/4OSS-lesson/05-use-registry/index.html]) 
