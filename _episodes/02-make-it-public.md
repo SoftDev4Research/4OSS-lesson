@@ -278,7 +278,7 @@ If you use [Docker](https://www.docker.com/why-docker) you replicate this exact 
 
 Docker files store the configuration of your environment which are used to build Docker images. You can save versions of your Docker file which will build new Docker images. These versions are a version control system for the code and the environment in which the code is run. For reproducibility, you have the option to save a Docker file to build a Docker image when you need it. Alternatively, you can keep the respective images built from a Docker file. This is recommended if you are frequently using these images, and/or you have the necessary storage space for it (some images have several GB in size).
 
-This setup frees you and your users from barriers to adopt and re-use your code/software/analysis. It is also a good idea to use Docker files for distributing/collaborating/testing your code in a customized and persistent environment. Even sharing a Docker file with yourself, will help you run your code on your laptop in the same environment as you have on your server.
+This setup frees you and your users from barriers to adopt and re-use your code/software/application. It is also a good idea to use Dockerfiles for distributing/collaborating/testing your code in a customized and persistent environment. Even sharing a Dockerfile with yourself, will help you run your code on your laptop in the same environment as you have on your server.
 
 ### How does this work
 
