@@ -261,4 +261,9 @@ Main points for this section:
 
 - GitHub guide to getting a DOI from Zenodo
 - How to make your code citable using GitHub and Zenodo (https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md)
-- metadata recommendation ((last episode)[https://softdev4research.github.io/4OSS-lesson/05-use-registry/index.html]) 
+- metadata recommendation ((last episode)[https://softdev4research.github.io/4OSS-lesson/05-use-registry/index.html])
+
+## Making your software reusable with Docker
+
+## What if your software is an analysis in a Notebook?
+
