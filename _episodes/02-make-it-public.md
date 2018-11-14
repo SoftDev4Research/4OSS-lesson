@@ -269,7 +269,7 @@ Main points for this section:
 
 [Docker](https://www.docker.com) is an open source project that automates the deployment of software applications in a sandbox ([called container](https://www.docker.com/resources/what-container)).
 
-> Containers are a way to package software in a format that can run isolated on a operating system, e.g. Linux. Unlike virtual machines, containers do not bundle a full operating system - only libraries and settings, required to make the software work. This makes containers efficient, lightweight, self-contained systems and guarantees that software runs reproducibly, regardless of where it is deployed.
+> Containers are a way to package software so that it can be run isolated on an operating system, e.g. Linux. Unlike virtual machines, containers do not bundle a full operating system - only libraries and settings, required to make the software work. This makes containers efficient, lightweight systems and guarantees that software runs reproducibly, regardless of where it is deployed.
 
 ### Why is it a good idea to use Docker?
 
