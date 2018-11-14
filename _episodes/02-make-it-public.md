@@ -288,7 +288,7 @@ There are several ways to create Docker images, but the best way is to create a 
 
 ### Example
 
-A general example of a `Dockerfile` is the following; it starts from a base Ubuntu image with a specific version (18.04 in this instance). It installs all the dependencies for Python 3.7 and then runs the "tool" (a simple _"Hello World"_ python command).
+A general example of a `Dockerfile` is the following: it starts from a base Ubuntu image with a specific version (18.04 in this instance) and installs all the dependencies for Python 3.7 and then runs the "tool" (a simple _"Hello World"_ python command).
 
 ```
 FROM ubuntu:18.04
