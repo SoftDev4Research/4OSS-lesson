@@ -312,6 +312,6 @@ docker run --name=jupyter fpsom/jupyter-kernels
 
 The first command will download the correct image from the repository (the `fpsom\jupyter-kernels` image from the `DockerHub` repository in this instance). The second command runs the image / tool; if we do not pass the `--name` parameter, Docker will pick a random name for our container. Many images require some extra parameters to be passed to the `run` command, so take some time to read through the **documentation of an image** before you use it ([Docker image for Jupyter notebook with multiple kernels](https://hub.docker.com/r/fpsom/jupyter-kernels/) in this particular example). Also, take some time to read the [documentation of the docker `run` command](https://docs.docker.com/engine/reference/run/).
 
-To complete these steps, we can see our running containers using the `docker ps` command. To see **all** containers add the `-a` flag - `docker ps -a`.
+To complete these steps, you can see your running containers using the `docker ps` command. To see **all** containers, add the `-a` flag - `docker ps -a`.
 
 ## What if your software is an analysis in a Notebook?
