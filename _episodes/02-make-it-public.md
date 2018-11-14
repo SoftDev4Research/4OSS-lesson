@@ -284,7 +284,7 @@ This setup frees you and your users from barriers to adopt and re-use your code/
 
 Docker images are used to configure and distribute application states. Think of it as a template with which to create the container. With a Docker image, we can quickly spin up (aka run) containers with the same configuration. We can then share these images with our team, so we will all be running containers which all have the same configuration.
 
-There are several ways to create Docker images, but the best way is to create a `Dockerfile` and use the `docker build` command. The most convenient and widely used way to distribute our images is using [Docker Hub](https://hub.docker.com). Additionally, if our `Dockerfile` is hosted on Github we can configure an automated build through Docker Hub. A similar registry to Docker Hub, recommended for life sciences, is [BioContainers](https://biocontainers.pro/).
+There are several ways to create Docker images, but the best way is to create a `Dockerfile` and use the `docker build` command. The most convenient and widely used way to distribute your images is using [Docker Hub](https://hub.docker.com). Additionally, if your `Dockerfile` is hosted on GitHub, you can configure an automated build on Docker Hub. A similar registry to Docker Hub, recommended for life sciences, is [BioContainers](https://biocontainers.pro/).
 
 ### Example
 
