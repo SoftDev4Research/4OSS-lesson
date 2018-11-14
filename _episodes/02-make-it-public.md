@@ -57,7 +57,7 @@ on this topic, and other advice on starting an open source project, check out th
 - Take a look at the `README.md` file in the repository that you created in [the introduction](https://softdev4research.github.io/4OSS-lesson/01-introduction/index.html)
     - This file is automatically displayed on the front page of your repository
     - It has important information about your project
-    
+
  To format the contents of this file you will use Markdown syntax. If you want to know more about it you can use this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or this [short guide](https://guides.github.com/features/mastering-markdown/)
 
 
@@ -265,5 +265,53 @@ Main points for this section:
 
 ## Making your software reusable with Docker
 
-## What if your software is an analysis in a Notebook?
+### What's Docker
 
+[Docker](https://www.docker.com) is an open source project that automates the deployment of software applications in a sandbox (called containers).
+
+> Containers are a way to package software in a format that can run isolated on a operating system, e.g. Linux. Unlike virtual machines, containers do not bundle a full operating system - only libraries and settings, required to make the software work. This makes containers efficient, lightweight, self-contained systems and guarantees that software runs reproducibly, regardless of where it is deployed.
+
+### Why is it a good idea to use Docker?
+
+Your software/code/app is meant to run on a specific environment which includes many dependencies.
+If you use [Docker](https://www.docker.com/why-docker) you replicate this exact environment for others to run your software/code in. In that sense, Docker images help you resolve the _"Dependency hell"_.
+
+Docker files store the configuration of your environment which are used to build Docker images. You can save versions of your Docker file which will build new Docker images. These versions are a version control system for the code and the environment in which the code is run. For reproducibility, you have the option to save a Docker file to build a Docker image when you need it. Alternatively, you can keep the respective images built from a Docker file. This is recommended if you are frequently using these images, and/or you have the necessary storage space for it (some images have several GB in size).
+
+This setup frees you and your users from barriers to adopt and re-use your code/software/analysis. It is also a good idea to use Docker files for distributing/collaborating/testing your code in a customized and persistent environment. Even sharing a Docker file with yourself, will help you run your code on your laptop in the same environment as you have on your server.
+
+### How does this work
+
+Docker images are used to configure and distribute application states. Think of it as a template with which to create the container. With a Docker image, we can quickly spin up (aka run) containers with the same configuration. We can then share these images with our team, so we will all be running containers which all have the same configuration.
+
+There are several ways to create Docker images, but the best way is to create a `Dockerfile` and use the `docker build` command. The most convenient and widely used way to distribute our images is using [Docker Hub](https://hub.docker.com). Additionally, if our `Dockerfile` is hosted on Github we can configure an automated build through Docker Hub. A similar registry to Docker Hub, recommended for life sciences, is [BioContainers](https://biocontainers.pro/).
+
+### Example
+
+A general example of a `Dockerfile` is the following; it starts from a base Ubuntu image with a specific version (18.04 in this instance). It installs all the dependencies for Python 3.7 and then runs the "tool" (a simple _"Hello World"_ python command).
+
+```
+FROM ubuntu:18.04
+
+RUN apt-get update -y && apt-get install -y python-pip python3.7-dev build-essential libpq-dev
+
+CMD /usr/bin/python3.7 -c "print('Hello from Python in Docker')"
+```
+
+For more information on how to build more complex Docker images, the [Docker Documentation](https://docs.docker.com) and the [Docker Curriculum](https://docker-curriculum.com/) are excellent resources.
+
+Moreover, if you are building a [BioContainer](https://biocontainers.pro/), you should also be adhering to the specific [BioContainer meta-data specifications](https://github.com/BioContainers/specs/blob/master/container-specs.md). These increase the findability and accessibility of your tool.
+
+Finally, anyone can run the tool using the exact same environment described by the `Dockerfile` using the following commands:
+
+```
+docker pull fpsom/jupyter-kernels
+
+docker run --name=jupyter fpsom/jupyter-kernels
+```
+
+The first command will download (aka pull) the correct image from the repository (the `fpsom\jupyter-kernels` image from the `DockerHub` repository in this instance). The second command runs the image / tool; if we do not pass the `--name` parameter, Docker will pick a random name for our container. Many images require some extra parameters to be passed to the `run` command, so take some time to read through the **documentation of an image** before you use it ([here](https://hub.docker.com/r/fpsom/jupyter-kernels/) in this particular example). Also, take some time to read the [full documentation of the docker `run` command](https://docs.docker.com/engine/reference/run/).
+
+To complete these steps, we can see our running containers using the `docker ps` command. To see **all** containers add the `-a` flag - `docker ps -a`.
+
+## What if your software is an analysis in a Notebook?
