@@ -273,7 +273,7 @@ Main points for this section:
 
 ### Why is it a good idea to use Docker?
 
-Your software/code/app is meant to run on a specific environment which includes many dependencies.
+Your software/code/application is meant to run on a specific environment which includes many dependencies.
 If you use [Docker](https://www.docker.com/why-docker) you replicate this exact environment for others to run your software/code in. In that sense, Docker images help you resolve the _"Dependency hell"_.
 
 Docker files store the configuration of your environment which are used to build Docker images. You can save versions of your Docker file which will build new Docker images. These versions are a version control system for the code and the environment in which the code is run. For reproducibility, you have the option to save a Docker file to build a Docker image when you need it. Alternatively, you can keep the respective images built from a Docker file. This is recommended if you are frequently using these images, and/or you have the necessary storage space for it (some images have several GB in size).
