@@ -6,12 +6,12 @@
 ## Overview
 
 Lesson development hackathon for teaching best practices in research software development is
-based on four simple recommendations [1] (4OSS). We are adopting the Carpentries approach and policy for training material
-development and maintenance to help us in providing clear guidelines on how to implement the 4OSS recommendations.
+based on four simple recommendations [1](https://f1000research.com/articles/6-876/v1) (4OSS). We are adopting the Carpentries philosophy and policy for developing and maintaning training material
+to help us in providing clear guidelines on how to implement the 4OSS recommendations.
 1. Make source code publicly accessible from day one
-2. Make software easy to discover by providing software metadata via a popular community registry
-3. Adopt a licence and comply with the licence of third-party dependencies
-4. Define clear and transparent contribution, governance and communication processes
+1. Adopt a licence and comply with the licence of third-party dependencies
+1. Define clear and transparent contribution, governance and communication processes
+1. Make software easy to discover by providing software metadata via a popular community registry
 
 [1] https://f1000research.com/articles/6-876/v1
 
@@ -25,8 +25,9 @@ Thanks for coming by, this is an open source project and we welcome your contrib
 This lesson material is being developed in the open, and would benefit from your contributions. There are a number of ways you can help make this materials even better:
 
 - If something is unclear please send an issue so we can address anything that is confusing.
+- If you are **using this lesson to teach** it or as part of your workshop [please share it]()!
 - If you spot a typo, feel free to edit the underlying page and send a pull request. If you've never done this before, follow the [hello world example from github pages](https://guides.github.com/activities/hello-world/).
-- If you make a significant contribution you will be listed as an author.
+- If you make a significant contribution you will be listed as an author, please contact us to discuss this.
 
 ### Communication
 
