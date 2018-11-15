@@ -315,3 +315,31 @@ The first command will download the correct image from the repository (the `fpso
 To complete these steps, you can see your running containers using the `docker ps` command. To see **all** containers, add the `-a` flag - `docker ps -a`.
 
 ## What if your software is an analysis in a Notebook?
+
+### What is Jupyter?
+
+Jupyter notebook, formerly known as IPython (or Interactive Python), is a flexible and powerful open source research tool that can help you keep a narrative of your coding process. The name Jupyter is an acronym of the three core languages it was designed for: **JU**lia, **PYT**hon, and **R**. [Project Jupyter](http://jupyter.org/) supports interactive data science and scientific computing across more than 40 programming languages. There are a lot of resources that can help you better understand how to prepare and structure a Jupyter notebook, such as the [official Documentation](http://jupyter.org/documentation) and the [Introduction materials for Reproducible Research Curriculum](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter).
+
+Jupyter is one type of computational notebooks. Another type that shares the same philosophy and overall structure (but has a different syntax) is the RMarkdown documents that are particularly prevalent for R-specific projects.
+
+### How can I make my notebook public?
+
+Sharing the notebook file itself (as a `ipynb` or `rmd` file) is the exact same as sharing any other piece of code; create a repository with the correct structure in a version control system (such as GitHub). However, there are a few additional steps that one might take to improve the reproducibility and accessibility of the notebook.
+
+By default, all notebooks are rendered in GitHub (i.e. text, code and produced output is visible and well formatted), but it is a static representation. You cannot make changes to the code or make any time of execution to it. However, you can allow the execution of the entire notebook by providing some additional context (such as the expected execution environment) as well as linking the repository itself to a service that provides execution.
+
+### How can I make my notebook public **and** dynamic?
+
+The most widely used service is [MyBinder](https://mybinder.org/) - as the host of our Jupyter Notebook it allows anyone to run (and therefore reproduce) our code. What MyBinder does, is that it allows you to create custom computing environments that can be shared and used by many remote users.
+
+MyBinder makes it simple to generate reproducible computing environments from a GitHub repository. It uses the BinderHub technology to generate a Docker image from a given repository, by reading through the specified `requirements.txt`, `environment.yml` or `Dockerfile`. The image will have all the components that you specify along with the Jupyter Notebooks inside. Ultimately you will be able to share a URL with users that can immediately begin interacting with this environment.
+
+If you use the publicly available service, there are some limits in resources; while running, you are guaranteed to have at least 1G of RAM but there is an upper-limit of 4GB (if you use more than 4GB your kernel will be restarted). You can also [setup a local mybinder service](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1) if you have the infrastructure to support it.
+
+### Advantages of including a notebook with your traditional source code
+
+MyBinder allows for other people to re-run your code / notebook. However, you can also:
+
+- use the notebook to document how your package works. This can be done by integrating [`sphinx`]() into your pipeline, or by using `nbsphinx` for visualizing the content (not edit / re-run)
+- use the notebook as the basis for training material
+- use the notebook for automating the publication-writing process through `nbconvert` (see [here](https://github.com/GroupeCalcul/canum-2018))
