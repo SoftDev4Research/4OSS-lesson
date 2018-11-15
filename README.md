@@ -25,7 +25,7 @@ Thanks for coming by, this is an open source project and we welcome your contrib
 This lesson material is being developed in the open, and would benefit from your contributions. There are a number of ways you can help make this materials even better:
 
 - If something is unclear please send an issue so we can address anything that is confusing.
-- If you are **using this lesson to teach** it or as part of your workshop [please share it]()!
+- If you are **using this lesson to teach** it or as part of your workshop [please share it](https://github.com/SoftDev4Research/4OSS-lesson/blob/gh-pages/sharing-lesson.md)!
 - If you spot a typo, feel free to edit the underlying page and send a pull request. If you've never done this before, follow the [hello world example from github pages](https://guides.github.com/activities/hello-world/).
 - If you make a significant contribution you will be listed as an author, please contact us to discuss this.
 
