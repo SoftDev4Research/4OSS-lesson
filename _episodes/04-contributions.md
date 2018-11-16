@@ -52,7 +52,7 @@ people while building the profile of active contributor in the project.
 
 Make your contributors feel welcome, treat them well, respond to their queries
 and allow them to demonstrate their abilities. Being welcoming to your contributors
-sets the tone for future contributors and incites future  contributors to
+sets the tone for future contributors and incites future contributors to
 also contribute to your project. To allow meaningful contributions,
 it is crucial to make your project [FAIR](https://www.nature.com/articles/sdata201618)
 (Findable, Accessible, Interoperable and Reusable). Define your project clearly,
