@@ -16,15 +16,15 @@ keypoints:
 - "First key point."
 ---
 
-## Tell what is public domain, a copyright and what a licence does
+## What is public domain, a copyright and what a licence does?
 
-### What is a copyright
+### What is a copyright?
 
 * Copyright is a legal right over the creative expression of an idea or an intellectual work. It grants the creator of an original work exclusive rights to determine and decide whether, and under what conditions, this original work may be used by others. 
 * Copyright is automatically attached to every novel expression of an idea, including a poem or a blog entry, for a certain amount of years, typically from 50 to 100 years after the idea creator dies (depending on the jurisdiction). That is, the law assumes that as the author of your code, you have a say in what others can do with it.
-* In particular, the code that you write is copyrighted by default in the most restrictive way. This implies that nobody, except you, can use, modify (even to fix bugs!), create derivative works, distibute it.
-* If you infringe on someone's copyright you may  be in the situation of having to pay reasonable damages.
-* "Fair rules" - parody, criticism, quotation - are an exception to these rights. For example, you can publish a study comparing the performance or the accuracy of several different programs, without infringing the copyright of the programs.
+* In particular, the code that you write is copyrighted by default in the most restrictive way. This implies that nobody, except you, can use, modify, create derivative works and distibute your code.
+* If you infringe on someone's copyright you may be in the situation of having to pay reasonable damages.
+* *Comparison*, *criticism* and *quotation* with citation are exceptions to copyrights infringements. For example, you can publish a study comparing the performance or the accuracy of several different programs, without infringing the copyright of the programs.
 
 > ### NOTE: Copyright vs Patent vs Trademarks
 >
