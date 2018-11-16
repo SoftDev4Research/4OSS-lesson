@@ -24,7 +24,7 @@ keypoints:
 * Copyright is automatically attached to every novel expression of an idea, including a poem or a blog entry, for a certain amount of years, typically from 50 to 100 years after the idea creator dies (depending on the jurisdiction). That is, the law assumes that as the author of your code, you have a say in what others can do with it.
 * In particular, the code that you write is copyrighted by default in the most restrictive way. This implies that nobody, except you, can use, modify, create derivative works and distibute your code.
 * If you infringe on someone's copyright you may be in the situation of having to pay reasonable damages.
-* *Comparison*, *criticism* and *quotation* with citation are exceptions to copyrights infringements. For example, you can publish a study comparing the performance or the accuracy of several different programs, without infringing the copyright of the programs.
+Fair use (* *Comparison*, *criticism* and *quotation* with citation) is an exception to copyrights infringements. For example, you can publish a study comparing the performance or the accuracy of several different programs, without infringing the copyright of the programs.
 
 > ### NOTE: Copyright vs Patent vs Trademarks
 >
