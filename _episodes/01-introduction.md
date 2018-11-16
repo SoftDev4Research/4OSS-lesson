@@ -47,7 +47,7 @@ There are many best practices currently in place that directly aim at and are ta
 Most researchers who may need or want to develop software, do not have a formal software engineering training. This is why they might not be aware of good programming practices (e.g. code modularisation, testing, annotation, etc.) [Wilson et al. 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). 
 However, good practices in research software development are key to generating good quality software and therefore reproducible research results. 
 
-The 4OSS recommandations provide simple guidelines to incorporate good practices in reserch software development and this lesson teaches how to adopt the 4OSS recommandations.
+The 4OSS recommandations provide simple guidelines to incorporate good practices in research software development and this lesson teaches how to adopt the 4OSS recommendations.
 
 This lesson targets **scientists writing research software** but can also be of interest to a wider audience, particularly research funders, research institutions, journal editors, group leaders, and managers of projects producing research software. 
 
