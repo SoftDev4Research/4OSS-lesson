@@ -49,7 +49,8 @@ However, good practices in research software development are key to generating g
 
 The 4OSS recommandations provide simple guidelines to incorporate good practices in reserch software development and this lesson teaches how to adopt the 4OSS recommandations.
 
-This lesson targets **scientists writing research software** but can also be of interest to a wider audience, particularly research funders, research institutions, journal editors, group leaders, and managers of projects producing research software. <br>
+This lesson targets **scientists writing research software** but can also be of interest to a wider audience, particularly research funders, research institutions, journal editors, group leaders, and managers of projects producing research software. 
+
 
 The adoption of these recommendations offers a simple mechanism for these stakeholders to promote the development of better software and an opportunity for developers to improve and showcase their software development skills.
 
