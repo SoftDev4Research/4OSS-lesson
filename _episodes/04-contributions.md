@@ -43,7 +43,7 @@ should have in mind to make contributions as clear and transparent as possible.
 
 Making your project open provides a great opportunity for the community to 
 contribute to its enhacement. Think about the involvement and contributions from
-the general audience, and the specific audience, like developers, designers and users.
+the general audience and the specific audience, like developers, designers and users.
 Both of these groups of people can improve their reviewing skills and make 
 high quality impactful decisions in the project. They can also connect with like-minded
 people while building the profile of active contributor in the project.
@@ -52,13 +52,13 @@ people while building the profile of active contributor in the project.
 
 Make your contributors feel welcome, treat them well, respond to their queries
 and allow them to demonstrate their abilities. Being welcoming to your contributors
-sets the tone for future contributors, and incites future  contributors to
+sets the tone for future contributors and incites future contributors to
 also contribute to your project. To allow meaningful contributions,
 it is crucial to make your project [FAIR](https://www.nature.com/articles/sdata201618)
 (Findable, Accessible, Interoperable and Reusable). Define your project clearly,
 by listing the aim of the project, areas of applications and area of improvements.
 List all the resources such as your source-code, datasets, metadata,
-documentation, list of tasks, and contribution guidelines.
+documentation, list of tasks and contribution guidelines.
 
 ### Respect your contributors!
 
@@ -125,7 +125,7 @@ Although addressing all these questions is a very good idea, sometimes people ju
 > ## Challenge: Part II - Review examples from other projects
 > #### Time: 5 minutes
 >
-> Read two or three of the contributing guidelines examples listed below, and pick one element that you
+> Read two or three of the contributing guidelines examples listed below and pick one element that you
 > had not thought about, and that you think would be a useful addition to your project guidelines.
 >
 > - short example [R for Data Science book](http://r4ds.had.co.nz/contribute.html)
