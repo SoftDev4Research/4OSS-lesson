@@ -54,6 +54,7 @@ You can have a look at the [useful resources](UsefulLinks.md) if you need more i
    - [short talk WSSSPE, Amsterdam (29 October)](http://wssspe.researchcomputing.org.uk/category/wssspe6-1/), [Presentation](https://drive.google.com/file/d/1l5SDuY5Kdhnizb76R9rPslohSPLzGl7F/view)
  - November
    - [BioHackathon, Paris (12-16 November)](https://bh2018paris.info/) 
+   - [The background information and expected outcomes int the event](https://github.com/elixir-europe/BioHackathon/tree/master/training/Alternative%20episodes%20for%20the%204%20Open%20Source%20Software%204OSS%20lesson%20focused%20on%20different%20Open%20Source%20technologies%20Github%20Docker%20Jupyter%20Notebook%20and%20so%20on)
    
 Check out our deadlines! and help us in the process
 ![4OSS](https://raw.githubusercontent.com/SoftDev4Research/4OSS-lesson/gh-pages/fig/4OSSTimeline.png)
