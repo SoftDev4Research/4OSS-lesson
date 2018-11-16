@@ -32,7 +32,7 @@ Discussing best practices to develop research software is bound to touch on the 
 
 ## FAIR principles
 
-Though not all the recommendations from the FAIR data principles directly apply to software, there is good alignment between the practices discussed here and the FAIR data principles. The FAIR principles are a set of community-developed guidelines to ensure that data or any digital object are Findable, Accessible, Interoperable and Reusable. The FAIR principles specifically emphasize enhancing the ability of machines to automatically find and use data or any digital object, and support its reuse by individuals. Standards for the description, interoperability, citation etc. are at the core of these principles ([ref](https://www.incf.org/activities/standards-and-best-practices/what-is-fair)).
+Though not all the recommendations from the [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples) directly apply to software, there is a good alignment between the practices discussed here and the FAIR data principles. The FAIR principles are a set of community-developed guidelines to ensure that data or any digital object are Findable, Accessible, Interoperable and Reusable. The FAIR principles specifically emphasise enhancing the ability of machines to automatically find and use data or any digital object, and support its reuse by individuals. Standards for description, interoperability, citation etc. are at the core of these principles ([ref](https://www.incf.org/activities/standards-and-best-practices/what-is-fair)).
 
 The FAIR Guiding Principles, as described in [Scientific Data by Wilkinson et al](https://www.nature.com/articles/sdata201618):
 - To be **Findable**
