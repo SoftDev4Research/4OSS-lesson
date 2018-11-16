@@ -318,13 +318,13 @@ To complete these steps, you can see your running containers using the `docker p
 
 ### What is Jupyter?
 
-Jupyter notebook, formerly known as IPython (or Interactive Python), is a flexible and powerful open source research tool that can help you keep a narrative of your coding process. The name Jupyter is an acronym of the three core languages it was designed for: **JU**lia, **PYT**hon, and **R**. [Project Jupyter](http://jupyter.org/) supports interactive data science and scientific computing across more than 40 programming languages. There are a lot of resources that can help you better understand how to prepare and structure a Jupyter notebook, such as the [official Documentation](http://jupyter.org/documentation) and the [Introduction materials for Reproducible Research Curriculum](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter).
+Jupyter notebook, formerly known as IPython Notebook (or Interactive Python), is a flexible and powerful open source research tool that can help you keep a narrative of your coding process. The name Jupyter is an acronym of the three core languages it was designed for: **JU**lia, **PYT**hon, and **R**. [Project Jupyter](http://jupyter.org/) supports interactive data science and scientific computing across more than 40 programming languages. There are a lot of resources that can help you better understand how to prepare and structure a Jupyter notebook, such as the [official Documentation](http://jupyter.org/documentation) and the [Introduction materials for Reproducible Research Curriculum](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter).
 
-Jupyter is one type of computational notebooks. Another type that shares the same philosophy and overall structure (but has a different syntax) is the RMarkdown documents that are particularly prevalent for R-specific projects.
+Jupyter is one type of computational notebooks. Another type that shares the same philosophy and overall structure (but has a different syntax) are the [R notebooks written in RMarkdown](https://bookdown.org/yihui/rmarkdown/notebook.html) that are particularly prevalent for R-specific projects.
 
 ### How can I make my notebook public?
 
-Sharing the notebook file itself (as a `ipynb` or `rmd` file) is the exact same as sharing any other piece of code; create a repository with the correct structure in a version control system (such as GitHub). However, there are a few additional steps that one might take to improve the reproducibility and accessibility of the notebook.
+Sharing the notebook file itself (as a `ipynb` or `rmd` file) is the exact same as sharing any other piece of code; create a repository with the correct structure in a version control system (such as git). However, there are a few additional steps that one might take to improve the reproducibility and accessibility of the notebook.
 
 By default, all notebooks are rendered in GitHub (i.e. text, code and produced output is visible and well formatted), but it is a static representation. You cannot make changes to the code or make any time of execution to it. However, you can allow the execution of the entire notebook by providing some additional context (such as the expected execution environment) as well as linking the repository itself to a service that provides execution.
 
