@@ -314,11 +314,12 @@ The first command will download the correct image from the repository (the `fpso
 
 To complete these steps, you can see your running containers using the `docker ps` command. To see **all** containers, add the `-a` flag - `docker ps -a`.
 
-## What if your software is an analysis in a Notebook?
+## Use of notebooks
+A computational notebook is an application that allows you to create and share live code, equations, visualisations and narrative text [Notebook Interface](https://en.wikipedia.org/wiki/Notebook_interface). It is a great way to combine data analysis and documentation in a single page.
 
 ### What is Jupyter?
 
-Jupyter notebook, formerly known as IPython Notebook, is a flexible and powerful open source research tool that can help you keep a narrative of your coding process. The name Jupyter is an acronym of the first three languages that this Notebook supported: **JU**lia, **PYT**hon, and **R**. [Project Jupyter](http://jupyter.org/) can be used for interactive data science and scientific computing. Later it supported over 40 other programming languages. There are a lot of resources that can help you better understand how to prepare and structure a Jupyter notebook, such as the [official Documentation](http://jupyter.org/documentation) and the [Introduction materials for Reproducible Research Curriculum](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter).
+Jupyter Notebook, formerly known as IPython Notebook, is a flexible and powerful open source research tool that can help you keep a narrative of your coding process. The name Jupyter is an acronym of the first three languages that this Notebook supported: **JU**lia, **PYT**hon, and **R**. [Project Jupyter](http://jupyter.org/) can be used for interactive data science and scientific computing. Later it supported over 40 other programming languages. There are a lot of resources that can help you better understand how to prepare and structure a Jupyter notebook, such as the [official Documentation](http://jupyter.org/documentation) and the [Introduction materials for Reproducible Research Curriculum](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter).
 
 Jupyter is one type of computational notebooks. Another type that shares the same philosophy and overall structure (but has a different syntax) are the [R notebooks written in RMarkdown](https://bookdown.org/yihui/rmarkdown/notebook.html).
 
