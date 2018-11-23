@@ -5,6 +5,6 @@ Please make a pull request with your information. We are so excited to hear abou
 
 Name or handle | Event URL | Location | Dates | Objectives | Participants | Testimonials 
 --- | --- | --- | --- | --- | --- | ---  
-Carlos Martinez | --- | The Netherlands| --- | --- | --- | ---  
+Carlos Martinez | https://escience-academy.github.io/2018-09-18-Utrecht/ | Utrecht, Netherlands| Sep 18, 2018 | Using Open Source Software for research | --- | ---  
 Yo | --- | --- | --- | --- | --- | ---  
 --- | --- | --- | --- | --- | --- | ---  
