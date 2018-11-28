@@ -7,5 +7,5 @@ Name or handle | Event URL | Location | Dates | Objectives | Participants | Test
 --- | --- | --- | --- | --- | --- | ---  
 Carlos Martinez @neocarlitos| https://escience-academy.github.io/2018-09-18-Utrecht/ | Utrecht, Netherlands| Sep 18, 2018 | Using Open Source Software for research | PhD students |  - Most participants found the recommendations were good to know, specially at the early stages of their PhD. - Even so, some participants found that the pace was a bit slow and we could have gone through this part of the workshop a bit faster. - On episode metadata, the exercise "Highlighting the importance of metadata", a lot of participants struggled because of not remembering the names of actors, directors, etc, so that is something to think about.
  
-Yo | --- | --- | --- | --- | --- | ---  
+Yo Yehudi @yoyehudi, Anna Krystalli and Becky Arnold | https://open-source-for-researchers.github.io/open-source-workshop/ | Sheffield United Kingdom  | Nov 28, 2018 | "how to contribute to open source" workshop for researchers | Event open to university of Sheffield staff and students | used the 4OSS as extra resource  
 --- | --- | --- | --- | --- | --- | ---  
