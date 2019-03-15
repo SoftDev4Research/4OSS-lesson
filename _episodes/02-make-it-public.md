@@ -226,7 +226,7 @@ GitHub Pages (see below).
 > code and flags up anything in the script(s) that doesn't conform to the standards
 > for the language.
 >
-> The script [`positive_limits.py`](../ code/positive_limits.py) takes the name of a file containing lines of
+> The script [`positive_limits.py`](../code/positive_limits.py) takes the name of a file containing lines of
 > numbers and returns the lower and upper positive (i.e. >0) limits of those numbers.
 > Look at the script and, without making any changes, make a note of the changes that
 > you would make to improve the style of the script. Now, in the shell, run
