@@ -251,7 +251,9 @@ your project. For example, issue threads, mailing lists and other online
 forums/chats work well for open source projects, and scale well as your project grows. 
 You also need to have a plant to handling growth, you may need to create additional and 
 separated communication channels, so that you reach your target audience on time, 
-and with announcements that benefit a specific audience.
+and with announcements that benefit a specific audience. You can read more about [Survival
+strategies for team: communication](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html),
+by Julie McMurry.
 
 > ## Discussion: Develop communication strategies
 > #### Time: 5 minutes
