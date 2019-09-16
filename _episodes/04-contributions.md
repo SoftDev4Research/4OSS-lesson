@@ -196,6 +196,8 @@ about reaching out to your audience (potential future contributors) by engaging
 with your community by presenting your tools at conferences or workshops,
 promoting it online and being active on the appropriate communication channels.
 
+Learn more about making your project more welcome from [Ten simple rules for helping newcomers become contributors to open projects](https://doi.org/10.1371/journal.pcbi.1007296).
+
 ## Governance
 
 Governance in an open source software project is a management framework for
@@ -369,6 +371,7 @@ contributions easier, clearer and more transparent
 - [How to Contribute?](https://opensource.guide/how-to-contribute/) from the
 Open Source Guides
 - [How to build welcoming communities?](https://opensource.guide/building-community/) from the Open Source Guides.
+- [Ten simple rules for helping newcomers become contributors to open projects](https://doi.org/10.1371/journal.pcbi.1007296)
 - [Contributing to Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia)
 - https://github.com/marketplace/category/project-management
     -- Free for open source projects
