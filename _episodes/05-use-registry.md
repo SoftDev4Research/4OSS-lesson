@@ -33,6 +33,21 @@ For some more information and examples, [follow this link](https://web.archive.o
 
 For the software case, we have defined metadata as "_a set of data that describes and gives information about software with the purpose of make it findable/discoverable_".
 
+> ## Exercise: Why do we want software to be findable/discoverable
+> #### Time 5 minutes
+>
+> Before start working with metadata, it's worth thinking about the importance of Software being findable. Work in small groups and discuss how many times you have tried to look-up and use software that has been listed and/or described in a paper. How many times have you encountered issues? How easy was it to find it in the first place? How often have you been successful in locating it?
+>
+> By the end of this exercise, you should be able to have a better understanding of the necessity of software findability.
+>
+> > ## Solution
+> >
+> > There are a lot of papers that do use software but either do not cite it, nor do they provide a link to the software itself. In other cases, only a name is provided (with no link or other information). All these are examples were the software is indicated, but actually looking it up is a difficult task by itself.
+> >
+> {: .solution}
+{: .discussion}
+
+Now that we have established the need for software to be discoverable, let's focus on **how** we can make it discoverable. Using metadata is an excellent way towards this direction.
 
 > ## Exercise: Think about metadata
 > #### Time 5 minutes
@@ -232,16 +247,28 @@ By adding good enough metadata to our research software, we are directly support
 > {: .solution}
 {: .challenge}
 
-## Example 
+Looking at all four FAIR principles (Findability, Accessibility, Interoperability and Reusability), it may be worth checking out the [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/). These are brief guides (stand alone, self paced training materials), called "Things", that can be used by the research community to understand how they can make their research (data and software) more FAIR, with each discipline/topic having its own specific list.
 
-Now that you have been exposed to the 4 Open Source Software recomendations. Here is an example to see how all of these recomendations come together.
+For Research Software, the [Top 10 FAIR Data & Software "Things"](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/) are briefly the following:
+  1. Create a description of your software
+  2. Register your software in a software registry
+  3. Get and use a unique and persistent identifier for your software
+  4. Make sure that people can download your software
+  5. Explain the functionality of your software
+  6. Use standard (community agreed) formats for inputs and outputs
+  7. Document your software
+  8. Give your software a license
+  9. State how to cite your software
+  10. Follow best practices for software development
+
+As you can see, all of them have been briefly discussed in this lesson, and it is definitely worth reading through the full short guide yourselves.
+
+## Example
+
+Now that you have been exposed to the 4 Open Source Software recommendations. Here is an example to see how all of these recommendations come together.
 
 ### OpenSNP
 
 The [openSNP](https://opensnp.org/) is an Open Source Software project which makes use of other Open Source Software. We have selected this as an example because it complies with all 4 recommendations.
 
 The [openSNP](https://opensnp.org/) project is licensed under the [MIT License](https://github.com/openSNP/snpr/blob/master/LICENSE.md), the code is at [GitHub](https://github.com/openSNP/snpr). The data is donated into the public domain using [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/). The CSS of openSNP is provided by [Bootstrap](http://twitter.github.com/bootstrap/), from Twitter and is licensed under the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0), the search icon comes from [glyphicons](http://glyphicons.com/). If you are interested in this project here are the [contribution guidelines](https://github.com/openSNP/snpr/blob/master/CONTRIBUTING.md). Also, find the [registry of openSNP in bio.tools](https://bio.tools/openSNP) to see publication, citations and how to credit the software.
-
-
-
-

@@ -20,7 +20,7 @@ keypoints:
 
 ### What is a copyright?
 
-* Copyright is a legal right over the creative expression of an idea or an intellectual work. It grants the creator of an original work exclusive rights to determine and decide whether, and under what conditions, this original work may be used by others. 
+* Copyright is a legal right over the creative expression of an idea or an intellectual work. It grants the creator of an original work exclusive rights to determine and decide whether, and under what conditions, this original work may be used by others.
 * Copyright is automatically attached to every novel expression of an idea, including a poem or a blog entry, for a certain amount of years, typically from 50 to 100 years after the idea creator dies (depending on the jurisdiction). That is, the law assumes that as the author of your code, you have a say in what others can do with it.
 * In particular, the code that you write is copyrighted by default in the most restrictive way. This implies that nobody, except you, can use, modify, create derivative works and distibute your code.
 * If you infringe on someone's copyright you may be in the situation of having to pay reasonable damages.
@@ -34,9 +34,9 @@ Fair use (*Comparison*, *criticism* and *quotation* with citation) is an excepti
 > ### Challenge
 >
 > For each one of the three scenarios below, answer yes or no to the question.
-> 
+>
 > 1. **Scenario:** you receive a sticker and your friends want a copy.
-> 
+>
 >    **Question:** can you make a copy of the sticker and sell the copy to your friends?
 >
 > 2. **Scenario:** you receive a script from your supervisor asking you to modify it to analyse a different type of input data.
@@ -48,7 +48,7 @@ Fair use (*Comparison*, *criticism* and *quotation* with citation) is an excepti
 >    **Question:** are you allowed to use the photos that you downloaded for your machine learning algorithm?
 {: .challenge}
 
-### What a licence does 
+### What a licence does
 
 A licence is an official permission to do, use, or own something. Basically, a licence waives parts of a copyright by defining terms and conditions for the usage of a product.   
 A shorthand definition of license is "a promise by the licensor not to sue licensees" if they comply with the licence terms and conditions.   
@@ -99,7 +99,7 @@ Permissive licenses, as opposed to copyleft licenses, does not enforce that deri
 > ### Challenge 1
 >
 > Work in pairs. Pick one item from the list below. Discuss with your partner what would be the implications to your project if one of the third-party libraries that you are considering to use, has the fragment mentioned in the selected item as part of their license.
-> 
+>
 > 1. "Linking this library statically or dynamically with other modules is making a combined work based on this library. Thus, the terms and conditions of the GNU General Public License cover the whole combination."
 >
 >    Source: GNU Classpath's License
@@ -139,7 +139,12 @@ Once added, a licence and all future versions of the software, will be under tha
 
 > ### Note: Dual License
 >
-> Some software that have comercial potential adopt a dual license model. They have a version of the code under the GNU General Public License that is freely available to everyone, but they also offer a proprietary version of the code in exchange of some cash. If you decide to adopt this business model, you must be very careful to correctly collect copyright transfer from all contributors to you.
+> Some software that have commercial potential adopt a dual license model. They have a version of the code under the GNU General Public License that is freely available to everyone, but they also offer a proprietary version of the code in exchange of some cash. If you decide to adopt this business model, you must be very careful to correctly collect copyright transfer from all contributors to you.
+{: .callout}
+
+> ### Note: License conflicts and Relicensing
+>
+> Given the complexity of software and the multitude of dependencies that occur, it's quite possible to encounter a situation where the software licenses of some of the dependencies are incompatible to each other (i.e. there exist License conflicts). This creates a strong issue, especially when building software in the Open Science community, as these requirements can make it impossible to combine source code or content of several software works to create a new combined one. In order to move forward in these cases, the offending components need to be relicensed to a more compatible License.
 {: .callout}
 
 In principle, you can create your own bespoke licence, it's your right. However, we strongly discourage it, unless you have appropriate legal background. You are helping the users to understand the licence over your code or data by adopting an existing, widely described licence which better suits with your creation. So, users do not have to analyze the legal details of the licence to understand it.
@@ -151,12 +156,12 @@ https://choosealicense.com/
 
 By including an open source license in your repository, it makes easier for other people to contribute. Most of the projects places their license information in a file named `LICENSE` (`LICENSE.txt` or `LICENSE.md` or `LICENSE.rst` or `COPYING`, `COPYING.txt`, `COPYING.md`, `COPYING.rst` are also used) in the root of the repository.
 
-> ## Challenge 
-> 
+> ## Challenge
+>
 > Add the previously selected license to your GitHub repository
-> 
+>
 > > ## Solution
-> > 
+> >
 > > Via the GitHub interface for an already existing repository
 > > 1. On GitHub, navigate to the main page of the repository.
 > > 2. Click on `Create new file` button above the file list
@@ -166,8 +171,8 @@ By including an open source license in your repository, it makes easier for othe
 > > 6. Check that the license terms correspond to the one
 > > 7. Click on `Review and submit` button
 > > 8. Commit the file
-> > 
-> > Locally: 
+> >
+> > Locally:
 > > 1. Navigate to the root of the repository
 > > 2. Open your favorite text editor with a new file
 > > 3. Go to https://choosealicense.com
@@ -176,8 +181,8 @@ By including an open source license in your repository, it makes easier for othe
 > > 6. Paste the content in the text editor
 > > 8. Save the file as `LICENSE.md`
 > > 9. Commit the added file
-> > 
-> > 
+> >
+> >
 > > Via the GitHub interface for a new repository
 > > 1. Start creation of a new repository
 > > 2. Click on `Add a license`
@@ -186,8 +191,8 @@ By including an open source license in your repository, it makes easier for othe
 {:.challenge}
 
 > ## Notes: Other places for license
-> 
+>
 > Some projects also include the license in every individual file. This approach is appropriate when the project is a collection of small scripts that work independently.
-> 
-> Also, some projects have a short paragraph naming the license they use the README file with, for example, a note saying "This project is licensed under the terms of the MIT license.". 
+>
+> Also, some projects have a short paragraph naming the license they use the README file with, for example, a note saying "This project is licensed under the terms of the MIT license.".
 {: .callout}
