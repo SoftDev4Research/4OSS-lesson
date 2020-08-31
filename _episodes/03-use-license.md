@@ -65,7 +65,7 @@ How can you know which permissions you have from a licence? How can you know whe
 
 > ### Challenge
 >
-> Work in pairs. Ask learners to say wich permissions they have from a licence of a given software. Write permissions on sticky notes and stick them under each software name. Instructors should push learners to be more creative in terms of permissions. For example, can you sell the software? Can you sell support?
+> Work in pairs. Ask learners to say which permissions they have from a licence of a given software. Write permissions on sticky notes and stick them under each software name. Instructors should push learners to be more creative in terms of permissions. For example, can you sell the software? Can you sell support?
 {: .challenge}
 
 ### Different licenses for different types of products (even data)
