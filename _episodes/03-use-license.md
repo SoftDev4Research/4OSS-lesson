@@ -51,7 +51,7 @@ Fair use (*Comparison*, *criticism* and *quotation* with citation) is an excepti
 ### What a licence does 
 
 A licence is an official permission to do, use, or own something. Basically, a licence waives parts of a copyright by defining terms and conditions for the usage of a product.   
-A shorthand definition of license is "a promise by the licensor not to sue licensees" if they comply with the licence terms and conditions.   
+A shorthand definition of licence is "a promise by the licensor not to sue licensees" if they comply with the licence terms and conditions.   
 
 What an open source licence does?
 
